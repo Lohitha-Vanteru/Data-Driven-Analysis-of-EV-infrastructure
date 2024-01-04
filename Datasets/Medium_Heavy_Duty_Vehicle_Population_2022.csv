@@ -1,0 +1,331 @@
+DataYear,County,Fuel,MakeName,Model,Class,BodyStyle,VehicleType,Number of Vehicles
+2022,Alameda,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,18
+2022,Alameda,Electric,BYD,Electric Truck,8,Tractor Truck,Truck,2
+2022,Alameda,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,1
+2022,Alameda,Electric,BYD,Transit Bus 40F,8,Transit Bus,Bus,1
+2022,Alameda,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,1
+2022,Alameda,Electric,Greenpower Motor,Evc210,7,Commercial / Shuttle Bus / Coach,Bus,1
+2022,Alameda,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,2
+2022,Alameda,Electric,New Flyer,Xcelsior,8,Transit Bus,Bus,5
+2022,Alameda,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,2
+2022,Alameda,Electric,Volvo,Vnr,8,Tractor Truck,Truck,1
+2022,Alameda,Electric,Xos,Sa01,6,Step Van,Delivery Van,5
+2022,Alameda,Hydrogen,Gillig,Transit Bus,6,Transit Bus,Bus,12
+2022,Alameda,Hydrogen,New Flyer,Xcelsior,8,Transit Bus,Bus,29
+2022,Alpine,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,1
+2022,Amador,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,1
+2022,Butte,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,5
+2022,Butte,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,3
+2022,Butte,Electric,Greenpower Motor,Ev350,8,Transit Bus,Bus,6
+2022,Butte,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,2
+2022,Butte,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,4
+2022,Butte,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,4
+2022,Calaveras,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,1
+2022,Calaveras,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,3
+2022,Colusa,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,3
+2022,Colusa,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,2
+2022,Colusa,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,1
+2022,Contra Costa,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,2
+2022,Contra Costa,Electric,BYD,Transit Bus 40F,8,Transit Bus,Bus,1
+2022,Contra Costa,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,2
+2022,Contra Costa,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,1
+2022,Contra Costa,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,2
+2022,Del Norte,Electric,Freightliner,B2 106,7,Chassis & Cab,Truck,1
+2022,El Dorado,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,1
+2022,El Dorado,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,3
+2022,El Dorado,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,1
+2022,El Dorado,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,1
+2022,Fresno,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,23
+2022,Fresno,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,7
+2022,Fresno,Electric,BYD,Transit Bus 35F,8,Transit Bus,Bus,2
+2022,Fresno,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,4
+2022,Fresno,Electric,Proterra,Catalyst,8,Transit Bus,Bus,7
+2022,Fresno,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,5
+2022,Fresno,Electric,Volvo,Vnr,8,Tractor Truck,Truck,2
+2022,Fresno,Electric,Xos,Sv01,6,Step Van,Delivery Van,2
+2022,Humboldt,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,4
+2022,Humboldt,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,2
+2022,Humboldt,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,1
+2022,Imperial,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,3
+2022,Inyo,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,2
+2022,Kern,Electric,BYD,Transit Bus 40F,8,Transit Bus,Bus,1
+2022,Kern,Electric,Greenpower Motor,Ev350,8,Transit Bus,Bus,2
+2022,Kern,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,2
+2022,Kern,Electric,IC Bus,Ce Series,7,School Bus,Bus,3
+2022,Kern,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,2
+2022,Kern,Electric,Proterra,Catalyst,8,Transit Bus,Bus,3
+2022,Kern,Electric,Xos,Sv01,6,Step Van,Delivery Van,7
+2022,Kern,Hydrogen,New Flyer,Xcelsior,8,Transit Bus,Bus,10
+2022,Kings,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,4
+2022,Lake,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,1
+2022,Lassen,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,4
+2022,Los Angeles,Electric,Alexander Dennis,Enviro 500Ev,8,Transit Bus,Bus,2
+2022,Los Angeles,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,9
+2022,Los Angeles,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,6
+2022,Los Angeles,Electric,Blue Bird,All American / All Canadian,"6, 7, 8",School Bus,Bus,2
+2022,Los Angeles,Electric,BYD,Electric Truck,8,Tractor Truck,Truck,24
+2022,Los Angeles,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,9
+2022,Los Angeles,Electric,BYD,Low Floor,8,Coach Bus,Bus,2
+2022,Los Angeles,Electric,BYD,Transit Bus,8,Transit Bus,Bus,3
+2022,Los Angeles,Electric,BYD,Transit Bus 30F,8,Transit Bus,Bus,9
+2022,Los Angeles,Electric,BYD,Transit Bus 35F,8,Transit Bus,Bus,10
+2022,Los Angeles,Electric,BYD,Transit Bus 40F,8,Transit Bus,Bus,68
+2022,Los Angeles,Electric,BYD,Transit Bus 60F,8,Transit Bus,Bus,21
+2022,Los Angeles,Electric,Gillig,Transit Bus,6,Transit Bus,Bus,1
+2022,Los Angeles,Electric,Greenpower Motor,Ev350,8,Transit Bus,Bus,1
+2022,Los Angeles,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,33
+2022,Los Angeles,Electric,Greenpower Motor,Evc210,7,Commercial / Shuttle Bus / Coach,Bus,2
+2022,Los Angeles,Electric,Greenpower Motor,Evc210,7,Incomplete - Bus Chassis,Bus,3
+2022,Los Angeles,Electric,IC Bus,Ce Series,7,School Bus,Bus,8
+2022,Los Angeles,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,4
+2022,Los Angeles,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,3
+2022,Los Angeles,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,13
+2022,Los Angeles,Electric,New Flyer,Xcelsior,8,Transit Bus,Bus,46
+2022,Los Angeles,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,9
+2022,Los Angeles,Electric,Proterra,Catalyst,8,Transit Bus,Bus,26
+2022,Los Angeles,Electric,Proterra,Transit Bus 35F,8,Transit Bus,Bus,10
+2022,Los Angeles,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,16
+2022,Los Angeles,Electric,Volvo,Vnr,7,Chassis & Cab,Truck,1
+2022,Los Angeles,Electric,Volvo,Vnr,7,Tractor Truck,Truck,2
+2022,Los Angeles,Electric,Volvo,Vnr,8,Tractor Truck,Truck,35
+2022,Los Angeles,Electric,Xos,Sa01,6,Step Van,Delivery Van,6
+2022,Los Angeles,Electric,Xos,Sv01,6,Step Van,Delivery Van,14
+2022,Los Angeles,Hydrogen,Gillig,Transit Bus,6,Transit Bus,Bus,22
+2022,Los Angeles,Hydrogen,New Flyer,Xcelsior,8,Transit Bus,Bus,14
+2022,Madera,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,5
+2022,Madera,Electric,Blue Bird,All American / All Canadian,"6, 7, 8",School Bus,Bus,4
+2022,Madera,Electric,Freightliner,B2 106,7,Chassis & Cab,Truck,2
+2022,Madera,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,1
+2022,Marin,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,4
+2022,Marin,Electric,BYD,Transit Bus 35F,8,Transit Bus,Bus,2
+2022,Marin,Hydrogen,Gillig,Transit Bus,6,Transit Bus,Bus,4
+2022,Mendocino,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,1
+2022,Mendocino,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,3
+2022,Mendocino,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,2
+2022,Merced,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,2
+2022,Mono,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,1
+2022,Mono,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,1
+2022,Mono,Electric,Freightliner,B2 106,7,Chassis & Cab,Truck,1
+2022,Monterey,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,5
+2022,Monterey,Electric,BYD,Transit Bus 30F,8,Transit Bus,Bus,2
+2022,Monterey,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,2
+2022,Monterey,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,3
+2022,Monterey,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,2
+2022,Monterey,Hydrogen,Gillig,Transit Bus,6,Transit Bus,Bus,2
+2022,Napa,Electric,Proterra,Catalyst,8,Transit Bus,Bus,2
+2022,Orange,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,7
+2022,Orange,Electric,Blue Bird,All American / All Canadian,"6, 7, 8",School Bus,Bus,3
+2022,Orange,Electric,BYD,Transit Bus 30F,8,Transit Bus,Bus,12
+2022,Orange,Electric,BYD,Transit Bus 40F,8,Transit Bus,Bus,40
+2022,Orange,Electric,BYD,Transit Bus 60F,8,Transit Bus,Bus,10
+2022,Orange,Electric,Greenpower Motor,Ev350,8,Transit Bus,Bus,4
+2022,Orange,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,2
+2022,Orange,Electric,Greenpower Motor,Evc210,7,Commercial / Shuttle Bus / Coach,Bus,1
+2022,Orange,Electric,Greenpower Motor,Evc210,7,Incomplete - Bus Chassis,Bus,5
+2022,Orange,Electric,Greenpower Motor,Evs300,8,School Bus,Bus,2
+2022,Orange,Electric,IC Bus,Ce Series,7,School Bus,Bus,18
+2022,Orange,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,4
+2022,Orange,Electric,Mitsubishi,Ecanter,4,Straight Truck,Truck,10
+2022,Orange,Electric,New Flyer,Xcelsior,8,Transit Bus,Bus,3
+2022,Orange,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,4
+2022,Orange,Electric,Proterra,Transit Bus 35F,8,Transit Bus,Bus,3
+2022,Orange,Electric,Volvo,Vnr,8,Tractor Truck,Truck,4
+2022,Orange,Electric,Xos,Sv01,6,Step Van,Delivery Van,5
+2022,Orange,Hydrogen,New Flyer,Commercial Bus,8,Transit Bus,Bus,10
+2022,Out Of State,Electric,Brightdrop,Zevo 600,3,Delivery Van,Delivery Van,149
+2022,Out Of State,Electric,BYD,Electric Truck,8,Tractor Truck,Truck,18
+2022,Out Of State,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,1
+2022,Out Of State,Electric,BYD,High Floor,8,Coach Bus,Bus,7
+2022,Out Of State,Electric,BYD,Low Floor Double Deck,8,Coach Bus,Bus,14
+2022,Out Of State,Electric,BYD,Transit Bus,8,Transit Bus,Bus,24
+2022,Out Of State,Electric,BYD,Transit Bus 30F,8,Transit Bus,Bus,4
+2022,Out Of State,Electric,Freightliner,Ecascadia,8,Chassis & Cab,Truck,4
+2022,Out Of State,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,28
+2022,Out Of State,Electric,Kalmar,Ottawa T2E,8,Terminal Tractor,Truck,30
+2022,Out Of State,Electric,Mitsubishi,Ecanter,4,Straight Truck,Truck,1
+2022,Out Of State,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,4
+2022,Out Of State,Electric,Volvo,Conventional Semi-Trailer Truck,8,Tractor Truck,Truck,1
+2022,Out Of State,Electric,Volvo,Vnr,7,Chassis & Cab,Truck,1
+2022,Out Of State,Electric,Volvo,Vnr,7,Tractor Truck,Truck,4
+2022,Out Of State,Electric,Volvo,Vnr,8,Tractor Truck,Truck,9
+2022,Out Of State,Electric,Xos,Sa01,6,Step Van,Delivery Van,1
+2022,Out Of State,Electric,Xos,Sv01,6,Step Van,Delivery Van,130
+2022,Placer,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,4
+2022,Plumas,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,1
+2022,Riverside,Electric,BYD,Transit Bus 40F,8,Transit Bus,Bus,4
+2022,Riverside,Electric,Freightliner,B2 106,7,Chassis & Cab,Truck,9
+2022,Riverside,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,2
+2022,Riverside,Electric,Greenpower Motor,Evc210,7,Commercial / Shuttle Bus / Coach,Bus,1
+2022,Riverside,Electric,IC Bus,Ce Series,7,School Bus,Bus,38
+2022,Riverside,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,2
+2022,Riverside,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,2
+2022,Riverside,Electric,Xos,Sv01,6,Step Van,Delivery Van,1
+2022,Riverside,Hydrogen,New Flyer,Axess,6,Transit Bus,Bus,6
+2022,Riverside,Hydrogen,New Flyer,Commercial Bus,8,Transit Bus,Bus,5
+2022,Riverside,Hydrogen,New Flyer,Xcelsior,8,Transit Bus,Bus,10
+2022,Sacramento,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,10
+2022,Sacramento,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,5
+2022,Sacramento,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,9
+2022,Sacramento,Electric,IC Bus,Ce Series,7,School Bus,Bus,6
+2022,Sacramento,Electric,Kalmar,Ottawa T2E,8,Terminal Tractor,Truck,1
+2022,Sacramento,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,16
+2022,Sacramento,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,9
+2022,Sacramento,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,16
+2022,Sacramento,Electric,Proterra,Catalyst,8,Transit Bus,Bus,16
+2022,Sacramento,Electric,Xos,Sa01,6,Step Van,Delivery Van,2
+2022,Sacramento,Hydrogen,Gillig,Transit Bus,6,Transit Bus,Bus,3
+2022,San Benito,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,1
+2022,San Bernardino,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,11
+2022,San Bernardino,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,5
+2022,San Bernardino,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,6
+2022,San Bernardino,Electric,Greenpower Motor,Evc210,7,Incomplete - Bus Chassis,Bus,4
+2022,San Bernardino,Electric,Greenpower Motor,Evs300,8,School Bus,Bus,2
+2022,San Bernardino,Electric,New Flyer,Xcelsior,8,Transit Bus,Bus,16
+2022,San Bernardino,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,21
+2022,San Bernardino,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,8
+2022,San Bernardino,Electric,Volvo,Vnr,7,Chassis & Cab,Truck,1
+2022,San Bernardino,Electric,Volvo,Vnr,7,Tractor Truck,Truck,2
+2022,San Bernardino,Electric,Volvo,Vnr,8,Tractor Truck,Truck,1
+2022,San Diego,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,16
+2022,San Diego,Electric,Blue Bird,All American / All Canadian,"6, 7, 8",School Bus,Bus,13
+2022,San Diego,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,2
+2022,San Diego,Electric,Freightliner,B2 106,7,Chassis & Cab,Truck,8
+2022,San Diego,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,2
+2022,San Diego,Electric,Greenpower Motor,Evc210,7,Commercial / Shuttle Bus / Coach,Bus,1
+2022,San Diego,Electric,Greenpower Motor,Evc210,7,Incomplete - Bus Chassis,Bus,1
+2022,San Diego,Electric,IC Bus,Ce Series,7,School Bus,Bus,32
+2022,San Diego,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,5
+2022,San Diego,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,3
+2022,San Diego,Electric,New Flyer,Xcelsior,8,Transit Bus,Bus,6
+2022,San Diego,Electric,Proterra,Catalyst,8,Transit Bus,Bus,4
+2022,San Diego,Electric,Xos,Sv01,6,Step Van,Delivery Van,2
+2022,San Diego,Hydrogen,Gillig,Transit Bus,6,Transit Bus,Bus,7
+2022,San Francisco,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,1
+2022,San Francisco,Electric,BYD,High Floor,8,Coach Bus,Bus,10
+2022,San Francisco,Electric,BYD,Transit Bus 30F,8,Transit Bus,Bus,15
+2022,San Francisco,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,2
+2022,San Francisco,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,5
+2022,San Francisco,Electric,New Flyer,Xcelsior,8,Transit Bus,Bus,276
+2022,San Francisco,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,1
+2022,San Francisco,Electric,Proterra,Catalyst,8,Transit Bus,Bus,9
+2022,San Joaquin,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,8
+2022,San Joaquin,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,2
+2022,San Joaquin,Electric,Proterra,Transit Bus 35F,8,Transit Bus,Bus,2
+2022,San Joaquin,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,15
+2022,San Luis Obispo,Electric,Greenpower Motor,Evs300,8,School Bus,Bus,1
+2022,San Mateo,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,2
+2022,San Mateo,Electric,BYD,Electric Truck,8,Tractor Truck,Truck,3
+2022,San Mateo,Electric,BYD,Low Floor Double Deck,8,Coach Bus,Bus,1
+2022,San Mateo,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,1
+2022,Santa Barbara,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,1
+2022,Santa Barbara,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,5
+2022,Santa Barbara,Electric,BYD,Transit Bus 30F,8,Transit Bus,Bus,14
+2022,Santa Barbara,Electric,Greenpower Motor,Ev350,8,Transit Bus,Bus,1
+2022,Santa Barbara,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,2
+2022,Santa Barbara,Electric,Proterra,Catalyst,8,Transit Bus,Bus,2
+2022,Santa Barbara,Electric,Xos,Sv01,6,Step Van,Delivery Van,5
+2022,Santa Clara,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,6
+2022,Santa Clara,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,11
+2022,Santa Clara,Electric,BYD,Electric Truck,8,Flat Bed /Platfrm,Truck,2
+2022,Santa Clara,Electric,BYD,Low Floor,8,Coach Bus,Bus,28
+2022,Santa Clara,Electric,BYD,Transit Bus 30F,8,Transit Bus,Bus,10
+2022,Santa Clara,Electric,Proterra,Catalyst,8,Transit Bus,Bus,5
+2022,Santa Clara,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,15
+2022,Santa Cruz,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,3
+2022,Santa Cruz,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,1
+2022,Santa Cruz,Electric,Mack,Lr,8,Garbage,Truck,1
+2022,Santa Cruz,Electric,Proterra,Catalyst,8,Transit Bus,Bus,3
+2022,Shasta,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,6
+2022,Shasta,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,3
+2022,Shasta,Electric,Freightliner,B2 106,7,Chassis & Cab,Truck,4
+2022,Shasta,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,1
+2022,Shasta,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,3
+2022,Shasta,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,2
+2022,Shasta,Electric,Proterra,Catalyst,8,Transit Bus,Bus,1
+2022,Sierra,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,2
+2022,Solano,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,1
+2022,Solano,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,5
+2022,Solano,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,1
+2022,Solano,Electric,BYD,Transit Bus 40F,8,Transit Bus,Bus,4
+2022,Solano,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,1
+2022,Sonoma,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,13
+2022,Sonoma,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,5
+2022,Sonoma,Electric,BYD,Transit Bus 30F,8,Transit Bus,Bus,3
+2022,Sonoma,Electric,Lion Ebus,Lion C V1,7,School Bus,Bus,1
+2022,Sonoma,Electric,Xos,Sv01,6,Step Van,Delivery Van,2
+2022,Stanislaus,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,1
+2022,Stanislaus,Electric,Greenpower Motor,Ev350,8,Transit Bus,Bus,4
+2022,Stanislaus,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,1
+2022,Stanislaus,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,5
+2022,Tehama,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,6
+2022,Tulare,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,10
+2022,Tulare,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,6
+2022,Tulare,Electric,Freightliner,B2 106,7,Chassis & Cab,Truck,6
+2022,Tulare,Electric,Greenpower Motor,Ev350,8,Transit Bus,Bus,10
+2022,Tulare,Electric,Greenpower Motor,Evc210,7,Commercial / Shuttle Bus / Coach,Bus,3
+2022,Tulare,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,3
+2022,Tulare,Electric,Orange Ev,Terminal Tractor,8,Terminal Tractor,Truck,3
+2022,Tulare,Electric,Proterra,Catalyst,8,Transit Bus,Bus,4
+2022,Tulare,Electric,Proterra,Transit Bus 40F,8,Transit Bus,Bus,3
+2022,Tuolumne,Electric,Blue Bird,All American / All Canadian,8,School Bus,Bus,2
+2022,Ventura,Electric,Blue Bird,All American / All Canadian,6,School Bus,Bus,10
+2022,Ventura,Electric,Blue Bird,All American / All Canadian,"6, 7, 8",School Bus,Bus,1
+2022,Ventura,Electric,Brightdrop,Zevo 600,3,Delivery Van,Delivery Van,2
+2022,Ventura,Electric,BYD,Electric Truck,"6, 7, 8",Straight Truck,Truck,1
+2022,Ventura,Electric,Freightliner,B2 106,7,Chassis & Cab,Truck,2
+2022,Ventura,Electric,Greenpower Motor,Evc210,4,Commercial / Shuttle Bus / Coach,Bus,35
+2022,Ventura,Electric,IC Bus,Ce Series,7,School Bus,Bus,1
+2022,Ventura,Electric,Xos,Sv01,6,Step Van,Delivery Van,7
+2022,Yolo,Electric,Lion Ebus,Lion C V2,7,School Bus,Bus,4
+2022,Yolo,Electric,Lion Ebus,Lion C V2,8,School Bus,Bus,3
+2022,Yolo,Electric,Proterra,Catalyst,8,Transit Bus,Bus,6
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

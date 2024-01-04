@@ -1,0 +1,3571 @@
+﻿FID,LineDirId,StopName,RTID,Routes
+0,211870,Santa Clara Transit Center,60001,22
+1,212170,San Jose Airport Terminal A,60008," 60,  60"
+2,212171,San Jose Airport Terminal B,60011," 60,  60"
+3,212171,1st & Metro @ Metro Station,60014,60
+4,211870,El Camino & Lafayette,60020," 22,  60,  59"
+5,212180,1st & Mission,60021," 61,  61"
+6,212210,Hedding & 11th,60028,66
+7,212321,King & Mabury,60032,77
+8,212321,King & Las Plumas,60033,77
+9,212321,King & McKee,60034," 77, 523, 64A"
+10,211870,King & Alum Rock,60035," 22,  77"
+11,211870,King & San Antonio,60036," 22,  77"
+12,211870,King & Hermocilla,60037," 22,  77"
+13,211870,King & Virginia,60038," 22,  77"
+14,211870,King & Chaucer,60039," 22,  77"
+15,211870,King & Story,60040," 22,  77"
+16,211870,King & Christopher,60041," 22,  77"
+17,211870,King & Miami,60042," 22,  77"
+18,211870,King & Havana,60043," 22,  77"
+19,211870,King & Cunningham,60044," 22,  77"
+20,211870,King & Waverly,60045," 22,  77"
+21,211870,King & Seminole,60046," 22,  77"
+22,211870,Tully & King,60047," 22,  26"
+23,211870,Tully & Brahms,60048," 22,  26"
+24,211870,Tully & Quimby,60049," 22,  26"
+25,211870,Tully & Eastridge Way,60050," 22,  26"
+26,211871,Tully & Quimby,60053," 22,  26"
+27,211871,Tully & Kenesta,60054," 22,  26"
+28,211871,King & Tully,60055," 22,  77"
+29,211871,King & Seminole,60056," 22,  77"
+30,211871,King & Cunningham,60057," 22,  77"
+31,211871,King & Ocala,60058," 22,  77"
+32,211871,King & Biscayne,60059," 22,  77"
+33,211871,King & Everglade,60060," 22,  77"
+34,211871,King & Story,60061," 22,  77"
+35,211871,King & Chaucer,60062," 22,  77"
+36,211871,King & Virginia,60063," 22,  77"
+37,211871,King & Kammerer,60064," 22,  77"
+38,211871,King & San Antonio,60065," 22,  77"
+39,212320,King & Alum Rock,60066," 77, 523"
+40,212320,King & McKee,60067," 77, 523"
+41,212320,King & Las Plumas,60068,77
+42,212211,Hedding & 11th,60075,66
+43,212401,Almaden & Mountain Shadow,60088,83
+44,212401,Almaden & Viewpoint,60089,83
+45,212400,Almaden & Via Valiente,60098," 83,  83"
+46,212400,Almaden & Shadowbrook,60099,83
+47,212400,Almaden & Trinidad,60100,83
+48,212400,Almaden & Trinidad,60101,83
+49,212400,Almaden & Coleman,60106," 83,  64"
+50,212670,Almaden Station,60107, 
+51,212191,Winfield & Blossom Hill,60108,64A
+52,212191,Winfield & Blossom River,60109," 83, 64A"
+53,212191,Chynoweth & Winfield,60110," 83, 64A"
+54,212400,Ohlone-Chynoweth Station,60111," 83,  83, 64A"
+55,212190,Chynoweth & Pearl,60112," 83, 64A"
+56,212190,Winfield & Blossom River,60113," 83, 64A"
+57,212190,Winfield & Blossom Hill,60114,64A
+58,212401,Almaden & Coleman,60115," 83,  64"
+59,212200,Almaden & Camden,60120," 83,  64,  64, 64A, 64A"
+60,212401,Almaden & Crown,60121,83
+61,212401,Almaden & Trinidad,60122,83
+62,212401,Via Valiente & Almaden,60123,83
+63,212401,Via Valiente & Bret Harte,60124,83
+64,212401,Via Valiente & Camden,60125,83
+65,212401,Camden & Shearwater,60126,83
+66,212401,Camden & Queenswood,60127,83
+67,212401,Camden & Casswood,60128,83
+68,212401,Camden & Harry,60129,83
+69,212401,Harry & Grandwood,60130,83
+70,212401,McKean & Martwood,60132,83
+71,212220,Monterey & Vineyard,60146,68
+72,211840,Morgan Hill Caltrain,60155,"121, 168, 168, 185"
+73,212220,Monterey & Dunne,60156,68
+74,212220,Monterey & 3rd,60157,68
+75,212220,Main & Monterey,60158," 87,  87,  68"
+76,212220,Main & Hale,60159," 87,  68"
+77,212450,Main & Crest,60163,87
+78,212221,Main & Monterey,60165,68
+79,211961,Monterey & 3rd,60166," 68, 287"
+80,212450,Main & Monterey,60209," 87,  87"
+81,212450,Main & Calle Mazatan,60210,87
+82,212450,Main & Grand Prix,60211,87
+83,212450,Main & Carriage Lamp,60212,87
+84,212450,Main & Serene,60213,87
+85,212450,Live Oak High School,60214," 87,  87"
+86,212450,Mission View & Mission Avenida,60215,87
+87,211841,Cochrane & Sutter,60216," 87,  87, 121, 168, 185"
+88,212450,Cochrane & Cochrane Circle,60217,87
+89,212450,Peebles & Monterey,60218,87
+90,212450,Peebles & Calle Moniz,60219,87
+91,212450,Freeway Vista & Burnett,60220,87
+92,212451,Mobile Home Estates,60221,87
+93,212451,Cochrane & Cochrane Circle,60222,87
+94,212451,Cochrane & Butterfield,60223,87
+95,211840,Cochrane & Sutter,60224," 87, 121, 168, 185"
+96,212451,Mission View & Cochrane,60225,87
+97,212451,Half & Mission View,60226,87
+98,212451,Main & Elm,60227,87
+99,211961,Live Oak High School,60228," 87, 287"
+100,211961,Main & Laurel,60229," 87, 287"
+101,211961,Main & Carriage Lamp,60230," 87, 287"
+102,211961,Main & Grand Prix,60231," 87, 287"
+103,211961,Main & Calle Mazatan,60232," 87, 287"
+104,211840,Gilroy Caltrain,60233," 84,  84, 168, 168"
+105,212420,10th & Alexander,60236,84
+106,212420,Kaiser Gilroy,60240,84
+107,212420,Arroyo & Camino Arroyo,60242,84
+108,212420,San Ysidro & Leavesley,60243," 84,  85"
+109,212420,San Ysidro & Las Animas,60244," 84,  85"
+110,212420,Saint Louise Regional Hospital,60245," 84,  84,  85,  85"
+111,212421,San Ysidro & Las Animas,60246," 84,  85"
+112,212421,San Ysidro & Leavesley,60247," 84,  85"
+113,212430,6th & Eigelberry,60255,85
+114,212670,Gilroy Caltrain,60256,"121, 121"
+115,212430,6th & Church,60257,85
+116,212430,6th & Hanna,60258,85
+117,212430,6th & Carmel,60259,85
+118,212430,6th & Miller,60260,85
+119,212430,Wren & Perrelli,60265,85
+120,212430,Wren & 3rd,60266," 85,  85"
+121,212430,Monte Bello & Wren,60267," 85,  85"
+122,212430,Monte Bello & Santa Barbara,60268," 85,  85"
+123,212430,WREN & 1ST,60270, 
+124,212430,Wren & Welburn,60271, 
+125,212430,WREN & LAWRENCE,60272, 
+126,212221,Monterey & Farrell,60278,68
+127,212221,Monterey & Las Animas,60279,68
+128,212431,Wren & Ramona,60282, 
+129,212431,Wren & Gary,60283, 
+130,212431,Wren & Welburn,60284, 
+131,212431,Wren & 3rd,60286,85
+132,212431,Wren & Byers,60287,85
+133,212431,6th & Princevalle,60293,85
+134,212431,6th & Hanna,60294,85
+135,212431,6th & Rosanna,60295,85
+136,212430,Gilroy Caltrain,60296," 85,  85, 185, 185"
+137,212431,6th & Miller,60322,85
+138,211860,El Camino and Stanford Shopping Center,60327,21
+139,211870,Palo Alto Transit Center (Bay 10),60328," 22, 522"
+140,211870,El Camino & Palm,60329,22
+141,211870,El Camino & Galvez,60330," 22, 522"
+142,211870,El Camino & Sam McDonald,60331,22
+143,211870,El Camino & Churchill,60332,22
+144,211870,El Camino & Serra,60333,22
+145,211870,El Camino & Oxford,60334,22
+146,211870,El Camino & California,60335," 22, 522"
+147,211790,El Camino & Page Mill,60336," 22, 101, 102, 103"
+148,211870,El Camino & Hansen,60337,22
+149,211870,El Camino & Matadero,60338,22
+150,211870,El Camino & Barron,60339,22
+151,211870,El Camino & Los Robles,60340,22
+152,211870,El Camino & Vista,60341,22
+153,211870,El Camino & Maybell,60342,22
+154,211870,El Camino & Arastradero,60343," 22, 522"
+155,211870,El Camino & Tamarack,60344,22
+156,211870,El Camino & Los Altos,60345,22
+157,211870,El Camino & San Antonio,60346," 22,  40"
+158,211870,El Camino & Showers,60347," 22, 522"
+159,211870,El Camino & Jordan,60348,22
+160,211870,El Camino & Distel,60349,22
+161,211870,El Camino & Rengstorff,60350,22
+162,211870,El Camino & Clark,60351,22
+163,211870,El Camino & El Monte,60352," 22,  52"
+164,211870,El Camino & Pettis,60353," 22,  52"
+165,211870,El Camino & Miramonte,60354," 22,  52"
+166,211870,El Camino & Castro,60355," 22, 522"
+167,211870,El Camino & Bonita,60356,22
+168,211870,El Camino & Phyllis,60357,22
+169,211870,El Camino & Bay,60358,22
+170,211870,El Camino & Yuba,60359,22
+171,211870,El Camino & Americana,60360,22
+172,211870,El Camino & Knickerbocker,60361," 22, 522"
+173,211870,El Camino & Grape,60362,22
+174,211870,El Camino & Mary,60363,22
+175,211870,El Camino & Hollenbeck,60364,22
+176,211870,El Camino & Mathilda,60365,22
+177,211870,El Camino & Sunnyvale-Saratoga,60366," 22, 522"
+178,211870,El Camino & Cezanne,60367,22
+179,211870,El Camino & Remington,60368," 22, 522"
+180,211870,El Camino & Maria,60369,22
+181,211870,El Camino & Wolfe,60370," 22, 522"
+182,211870,El Camino & Poplar,60371,22
+183,211870,El Camino & Henderson,60372,22
+184,211870,El Camino & Halford,60373," 22, 522"
+185,211870,El Camino & Flora Vista,60374,22
+186,211870,El Camino & Pomeroy,60375,22
+187,211870,El Camino & Calabazas,60376,22
+188,211870,El Camino & Alpine,60377,22
+189,211870,El Camino & Kiely,60378," 22, 522"
+190,211870,El Camino & Bowe,60379,22
+191,211870,El Camino & San Tomas,60380,22
+192,211870,El Camino & Los Padres,60381,22
+193,211870,El Camino & McCormick,60382,22
+194,211870,El Camino & Scott,60383," 22, 522"
+195,211870,El Camino & Jefferson,60384,22
+196,211860,Monroe & Harrison,60386,21
+197,211860,Monroe & Franklin,60387," 60,  21"
+198,211860,Homestead & Main,60388,21
+199,211860,Benton & Sherman,60391," 60,  59,  21,  53"
+200,212160,Santa Clara Transit Center,60392," 59,  59"
+201,211870,El Camino & Bellomy,60393,22
+202,211870,El Camino & Bellomy,60394,22
+203,211870,El Camino & The Alameda,60395,22
+204,211870,The Alameda & Idaho,60396,22
+205,211870,The Alameda & Newhall,60397,22
+206,211870,The Alameda & McKendrie,60398,22
+207,211870,The Alameda & University,60399,22
+208,211870,The Alameda & Naglee,60400," 22, 522"
+209,211870,The Alameda & Fremont,60401,22
+210,211870,The Alameda & Hester,60402,22
+211,211870,The Alameda & Hanchett,60403," 22, 522"
+212,211870,The Alameda & Keeble,60404," 22,  63, 64A"
+213,211870,The Alameda & Cleaves,60405," 22,  63, 64A"
+214,211870,The Alameda & Bush,60406," 22,  63, 64A"
+215,212670,San Jose Diridon Station,60407,63
+216,211870,Santa Clara & Montgomery,60408," 22, 522"
+217,211870,Santa Clara & Delmas,60409," 22,  68, 703"
+218,211841,Santa Clara & Almaden Boulevard,60410," 22,  68, 168, 703, 500"
+219,211870,Santa Clara & Almaden Avenue,60411," 22,  68, 703"
+220,211870,Santa Clara & 1st,60412," 22,  22,  23,  23, 703"
+221,211870,Santa Clara & 6th,60413," 22,  23,  66, 523, 500, 522"
+222,211870,Santa Clara & 7th,60414," 22,  23,  66, 64A"
+223,211870,Santa Clara & 11th,60415," 22,  23"
+224,211870,Santa Clara & 13th,60416," 22,  23"
+225,211870,Santa Clara & 15th,60417," 22,  23"
+226,211870,Santa Clara & 17th,60418," 22,  23, 523, 522"
+227,211870,Santa Clara & 21st,60419," 22,  23"
+228,211870,Santa Clara & 24th,60420," 22,  23, 523, 522"
+229,211870,Santa Clara & 28th,60421," 22,  23"
+230,211870,Alum Rock & 33rd,60422," 22,  23"
+231,211871,King & Waverly,60425," 22,  77"
+232,211871,Alum Rock & King,60426," 22,  23, 523"
+233,211871,Alum Rock & 33rd,60428," 22,  23"
+234,211871,Santa Clara & 28th,60429," 22,  23"
+235,211871,Santa Clara & 26th,60430," 22,  23"
+236,211871,Santa Clara & 24th,60431," 22,  23, 523, 522"
+237,211871,Santa Clara & 22nd,60432," 22,  23"
+238,211871,Santa Clara & 20th,60433," 22,  23"
+239,211871,Santa Clara & 17th,60434," 22,  23, 523, 522"
+240,211871,Santa Clara & 14th,60435," 22,  23"
+241,211871,Santa Clara & 13th,60436," 22,  23"
+242,211871,Santa Clara & 11th,60437," 22,  23"
+243,211871,Santa Clara & 7th,60438," 22,  23,  66"
+244,211871,Santa Clara & 5th,60439," 22,  23,  66, 523, 500, 522"
+245,212071,Santa Clara & 1st,60440,"500, 522"
+246,211871,Santa Clara & Market,60441," 22,  68"
+247,211871,Santa Clara & Almaden Avenue,60442," 22,  68, 703"
+248,211840,Santa Clara & Almaden Boulevard,60443," 22,  68, 168, 703, 500"
+249,211871,Santa Clara & Delmas,60444," 22,  68"
+250,211871,Santa Clara & Cahill,60445," 22, 522"
+251,211871,The Alameda & Bush,60446," 22,  63, 64A"
+252,211871,The Alameda & Rhodes,60447," 22,  63, 64A"
+253,211871,The Alameda & Morrison,60448," 22,  63, 64A"
+254,211871,The Alameda & Julian,60449," 22, 522"
+255,211871,The Alameda & Hester,60450,22
+256,211871,The Alameda & Schiele,60451,22
+257,211871,The Alameda & Taylor,60452," 22, 522"
+258,211871,The Alameda & University,60453,22
+259,211871,The Alameda & McKendrie,60454,22
+260,211871,The Alameda & Newhall,60455,22
+261,211871,The Alameda & Morris,60456,22
+262,211871,The Alameda & Portola,60457,22
+263,211871,El Camino & The Alameda,60458,22
+264,211871,El Camino & Campbell,60459,22
+265,211871,Santa Clara Transit Center,60460," 22, 522"
+266,211861,Benton & El Camino,60461," 60,  59,  21,  53"
+267,211861,Lafayette & Franklin,60462," 59,  21"
+268,211861,Homestead & Main,60463,21
+269,211861,Monroe & Franklin,60464," 60,  21"
+270,211861,Monroe & Fremont,60465,21
+271,211871,El Camino & Monroe,60466,22
+272,211871,El Camino & Lincoln,60467,22
+273,211871,El Camino & Scott,60468," 22, 522"
+274,211871,El Camino & Los Padres,60469,22
+275,211871,El Camino & San Tomas,60470,22
+276,211871,El Camino & Bowe,60471,22
+277,211871,El Camino & Bowers,60472," 22, 522"
+278,211871,El Camino & Alpine,60473,22
+279,211871,El Camino & Calabazas,60474,22
+280,211871,El Camino & Pomeroy,60475,22
+281,211871,El Camino & Flora Vista,60476,22
+282,211871,El Camino & Lawrence,60477," 22, 522"
+283,211871,El Camino & Sycamore,60478,22
+284,211871,El Camino & Poplar,60479,22
+285,211871,El Camino & Wolfe,60480," 22, 522"
+286,211871,El Camino & Maria,60481,22
+287,211871,El Camino & Fair Oaks,60482," 22, 522"
+288,211871,El Camino & Cezanne,60483,22
+289,211871,El Camino & Sunnyvale,60484," 22, 522"
+290,211871,El Camino & Mathilda,60485,22
+291,211871,El Camino & Pastoria,60486,22
+292,211871,El Camino & Mary,60487,22
+293,211871,El Camino & Grape,60488,22
+294,211871,El Camino & Bernardo,60489," 22, 522"
+295,211871,El Camino & Sylvan,60490,22
+296,211871,El Camino & Mountain View-Alviso,60491,22
+297,211871,El Camino & Calderon,60492,22
+298,211871,El Camino & Bush,60493,22
+299,211871,El Camino & Castro,60494," 22,  52,  52, 522"
+300,211871,El Camino & Shoreline,60495," 22,  52"
+301,211871,El Camino & Mariposa,60496,22
+302,211871,El Camino & Escuela,60497,22
+303,211871,El Camino & Rengstorff,60498,22
+304,211871,El Camino & Ortega,60499,22
+305,211871,El Camino & Showers,60500," 22, 522"
+306,211871,El Camino & San Antonio,60501,22
+307,211871,El Camino & Cesano,60502,22
+308,211871,El Camino & Tamarack,60503,22
+309,211871,El Camino & Charleston,60504," 22, 288, 522"
+310,211871,El Camino & El Camino Way,60505,22
+311,211871,El Camino & El Camino Way,60507,22
+312,211871,El Camino & Curtner,60508,22
+313,211871,El Camino & Margarita,60509,22
+314,211871,El Camino & Portage,60510,22
+315,211871,El Camino & Page Mill,60511," 22, 182"
+316,211871,El Camino & California,60512," 22, 522"
+317,211871,El Camino & Stanford,60513,22
+318,211871,El Camino & Park,60514,22
+319,211871,El Camino & Churchill,60515,22
+320,211871,El Camino & Sam McDonald,60516,22
+321,211871,El Camino & Embarcadero,60517," 22, 522"
+322,211871,El Camino & Wells,60518,22
+323,211870,Palo Alto Transit Center (Bay 1),60519," 22, 522"
+324,212031,Showers & Latham,60524," 40,  40"
+325,212031,San Antonio & El Camino,60525,40
+326,212031,San Antonio & Portola,60526,40
+327,212031,San Antonio & Pine,60527,40
+328,212031,San Antonio & Yerba Buena,60528,40
+329,212031,San Antonio & Almond,60529," 40,  40"
+330,212031,San Antonio & Edith,60530,40
+331,212031,San Antonio & Hillview,60531,40
+332,212031,San Antonio & Whitney,60532,40
+333,212031,San Antonio & Lyell,60533,40
+334,212031,El Monte & University,60534," 40,  52"
+335,212031,El Monte & Bay Tree,60535," 40,  52"
+336,212031,El Monte & Voorhees,60536," 40,  52"
+337,212030,Foothill College Loop at Planetarium,60538," 40,  40,  52,  52"
+338,212030,El Monte & Stonebrook,60540," 40,  52"
+339,212030,El Monte & Voorhees,60541," 40,  52"
+340,212030,El Monte & Summerhill,60542," 40,  52"
+341,212030,El Monte & University,60543," 40,  52"
+342,212081,Grant & Thurston,60552,51
+343,212081,Grant Road & Grant Avenue,60553,51
+344,212081,Grant @ Library,60554,51
+345,212081,Grant & Arboretum,60555,51
+346,212081,Grant & Homestead,60556,51
+347,212081,Foothill & Cristo Rey,60557,51
+348,212081,Foothill & Alpine,60558,51
+349,212081,Stevens Creek & Foothill,60560,51
+350,212081,Stevens Creek & Phar Lap,60561,51
+351,212081,Stevens Creek & Pasadena,60562,51
+352,212081,Stevens Creek & Bubb,60563,51
+353,212081,Stevens Creek & Mary,60564,51
+354,211880,Stevens Creek & Stelling,60565," 23, 523,  51"
+355,211880,Stevens Creek & Bandley,60566," 23,  51"
+356,211880,Stevens Creek & De Anza,60567," 23, 523"
+357,211880,Stevens Creek & Torre,60568,23
+358,211880,Stevens Creek & Blaney,60569,23
+359,211880,Stevens Creek & Portal,60570,23
+360,211880,Stevens Creek & Miller,60571," 23, 523,  53,  53"
+361,211880,Stevens Creek & Finch,60572," 23,  23"
+362,211880,Stevens Creek & Tantau,60573,23
+363,211791,Stevens Creek & Stern,60574," 23, 101, 182"
+364,211880,Stevens Creek & Interstate 280,60575,23
+365,211880,Stevens Creek & Loma Linda,60576," 23, 523"
+366,211880,Stevens Creek & Casa View,60577,23
+367,211880,Stevens Creek & Albany,60578,23
+368,211880,Stevens Creek & Richfield,60579,23
+369,211880,Stevens Creek & Palace,60580,23
+370,211880,Stevens Creek & Lopina,60581,23
+371,211880,Stevens Creek & Kiely,60582," 23, 523"
+372,211880,Stevens Creek & Saratoga,60583,23
+373,211880,Stevens Creek & Boynton,60584,23
+374,211880,Stevens Creek & Harold,60585," 23, 523"
+375,211880,Stevens Creek & Cypress,60586,23
+376,211880,Stevens Creek & Henry,60587,23
+377,211880,Stevens Creek & Maplewood,60588,23
+378,212171,Valley Fair Transit Center,60589,60
+379,212160,Forest & Monroe,60590,59
+380,212160,Forest & Di Salvo,60591,59
+381,211880,Stevens Creek & Bradley,60593,23
+382,211880,San Carlos & Bascom,60594," 23, 523"
+383,211880,San Carlos & Arleta,60595,23
+384,211880,San Carlos & Leland,60596,23
+385,211880,San Carlos & Leigh,60597,23
+386,211880,San Carlos & Buena Vista,60598,23
+387,211880,San Carlos & Willard,60599,23
+388,211880,San Carlos & Grand,60600," 23, 523"
+389,211880,San Carlos & Lincoln,60601," 23,  65"
+390,211880,San Carlos & Sunol,60602," 23,  65"
+391,211880,San Carlos & Bird,60603," 23, 523"
+392,211880,San Carlos & Josefa,60604,23
+393,211880,San Carlos & Delmas,60605,23
+394,211880,San Carlos & Guadalupe River,60606,23
+395,211840,San Carlos & Convention Center,60607," 23, 168, 168, 523"
+396,211840,1st & Paseo De San Antonio,60608," 66,  68, 168, 703, 703"
+397,212220,1st & Santa Clara,60609," 66,  68, 168, 168"
+398,212670,1st & Saint John,60610, 
+399,212300,1st & Bassett,60611," 72,  73"
+400,212300,Bassett Terminal,60612," 72,  72,  73,  73"
+401,212301,2nd & Bassett,60613," 72,  73"
+402,212301,2nd & Julian,60614," 72,  73"
+403,212670,2nd & Saint John,60615, 
+404,211841,2nd & Santa Clara,60616," 66,  68, 168"
+405,211841,2nd & Paseo de San Antonio,60617," 66,  68, 168, 703"
+406,211881,San Carlos & Market,60618,23
+407,211841,San Carlos & Market,60619," 23, 168, 523"
+408,211881,San Carlos & Woz Way,60620,23
+409,211881,San Carlos & Delmas,60621," 23, 703"
+410,211881,San Carlos & Gifford,60622,23
+411,211881,San Carlos & Josefa,60623,23
+412,211881,San Carlos & Bird,60624," 23, 523, 64A"
+413,211881,San Carlos & Sunol,60625," 23,  65"
+414,211881,San Carlos & Lincoln,60626,23
+415,211881,San Carlos & Meridian,60628,23
+416,211881,San Carlos & Buena Vista,60629,23
+417,211881,San Carlos & Menker,60630,23
+418,211881,San Carlos & Shasta,60631,23
+419,211881,San Carlos & Wabash,60632,23
+420,211881,San Carlos & Brooklyn,60633,23
+421,211881,San Carlos & Bascom,60634," 23, 523"
+422,211881,Stevens Creek & Bradley,60635,23
+423,212161,Forest at O'Conner Hospital,60637,59
+424,212161,Forest & Monroe,60638,59
+425,212170,Valley Fair Transit Center,60639,60
+426,212171,Winchester & Dorcich,60640,60
+427,211881,Stevens Creek & Winchester,60641,23
+428,211881,Stevens Creek & Henry,60642,23
+429,211881,Stevens Creek & Cypress,60643,23
+430,211881,Stevens Creek & San Tomas,60644," 23, 523"
+431,211881,Stevens Creek & Saratoga,60645,23
+432,211881,Stevens Creek & Kiely,60646," 23, 523"
+433,211881,Stevens Creek & Lopina,60647,23
+434,211881,Stevens Creek & Woodhams,60648,23
+435,211881,Stevens Creek & Cronin,60649,23
+436,211881,Stevens Creek & Rodonovan,60650,23
+437,211881,Stevens Creek & Cabot,60651," 23, 523"
+438,211790,Stevens Creek & Interstate 280,60653," 23, 101, 182"
+439,211881,Stevens Creek & Tantau,60654," 23,  53"
+440,211881,Stevens Creek & Finch,60655," 23,  53"
+441,211881,Stevens Creek & Wolfe,60656," 23, 523"
+442,211881,Stevens Creek & Portal,60657,23
+443,211881,Stevens Creek & Blaney,60658,23
+444,211881,Stevens Creek & Vista,60659,23
+445,211881,Stevens Creek & De Anza,60660," 23,  55, 523,  51,  25"
+446,211881,Stevens Creek & Saich,60661," 23,  55,  51,  25"
+447,211881,Stevens Creek & Stelling,60662," 23,  51"
+448,212080,Stevens Creek & Mary,60663,51
+449,212080,Stevens Creek & Peninsula,60664,51
+450,212080,Stevens Creek & Mann,60665,51
+451,212080,Stevens Creek & Phar Lap,60666,51
+452,212080,Stevens Creek & Foothill,60667,51
+453,212080,Foothill & Cupertino,60668,51
+454,212080,Foothill & Vista Knoll,60669,51
+455,212080,Foothill & Starling,60670,51
+456,212080,Foothill & Homestead,60671,51
+457,212080,Grant & Arboretum,60672,51
+458,212080,Grant @ Library,60673,51
+459,212080,Grant Road & Grant Avenue,60674,51
+460,212080,Grant & Morton,60675,51
+461,212030,San Antonio & Lyell,60683," 40,  40,  40"
+462,212030,San Antonio & Pepper,60684,40
+463,212030,San Antonio & Hillview,60685,40
+464,212030,San Antonio & Angela,60686,40
+465,212030,San Antonio & Almond,60687," 40,  40"
+466,212030,San Antonio & Yerba Buena,60688,40
+467,212030,San Antonio & Arbuelo,60689,40
+468,212030,San Antonio & Portola,60690,40
+469,211860,San Antonio & El Camino,60691," 21,  21"
+470,211860,San Antonio & Miller,60692," 21,  21"
+471,211860,California & Pachetti,60693,21
+472,211860,Showers & California,60694," 40,  21,  21"
+473,212080,Saich & Stevens Creek,60695," 51,  51"
+474,212080,Alves & Park Circle,60696,51
+475,211910,Stelling & Stevens Creek,60697," 25,  25"
+476,211910,Stelling & Pepper Tree,60698," 55,  25"
+477,211910,McClellan & Stelling,60699," 55,  25"
+478,211910,McClellan & Felton,60700," 55,  25"
+479,211910,Bollinger & De Anza,60701,25
+480,211910,Bollinger & Blaney,60702,25
+481,211910,Bollinger & Alderbrook,60703,25
+482,211910,Bollinger & Miller,60704,25
+483,211910,Bollinger & Tullipan,60705,25
+484,211910,Bollinger & Johnson,60706,25
+485,211910,Bollinger & Wunderlich,60707,25
+486,211910,Moorpark & Lawrence,60708,25
+487,211910,Williams & Moorpark,60709,25
+488,211910,Williams & Happy Valley,60710,25
+489,211910,Williams & Marilla,60711,25
+490,211910,Williams & Pinewood,60712,25
+491,211910,Williams & Saratoga,60713,25
+492,211910,Williams & Ranchero,60714,25
+493,211910,Williams & Oakmont,60715,25
+494,211910,Williams & Boynton,60716,25
+495,211910,Williams & Phelps,60717,25
+496,211910,Williams & Calboro,60718,25
+497,211910,Williams & Eden,60719,25
+498,211910,Williams & Winchester,60720,25
+499,211910,Winchester & Neal,60721," 60,  25"
+500,211910,Winchester & Magliocco,60722," 60,  25"
+501,211910,Moorpark & Winchester,60723,25
+502,211910,Moorpark & Monroe,60724,25
+503,211910,Moorpark & Thornton,60725,25
+504,211910,Clove & Thornton,60727,25
+505,211910,Clove & Ginger,60728,25
+506,211910,Bascom & Renova,60731," 61,  25"
+507,211910,Fruitdale & Bascom,60732,25
+508,211910,Fruitdale & Sherman Oaks,60733,25
+509,211910,Fruitdale & Leigh,60734,25
+510,211910,Fruitdale & College,60735,25
+511,211811,Fruitdale & Southwest Expressway,60736,"103,  25"
+512,211910,Meridian & Fruitdale,60737," 63,  25, 64A"
+513,211910,Meridian & Westwood,60738," 63,  25, 64A"
+514,211910,Willow & Meridian,60739,25
+515,211910,Willow & Camino Ramon,60740,25
+516,211910,Willow & Cherry,60741,25
+517,211910,Willow & Carolyn,60742,25
+518,211910,Willow & Crescent,60743,25
+519,211910,Willow & Lincoln,60744,25
+520,211910,Willow & Kotenberg,60745,25
+521,211910,Willow & Bird,60746,25
+522,211910,Willow & Delmas,60747,25
+523,211910,Willow & Minnesota,60749,25
+524,211920,Tamien Station,60750," 56,  56, 256, 256"
+525,211910,Willow & Palm,60751,25
+526,211910,Willow & Almaden,60752,25
+527,211910,Graham & Mastic,60753,25
+528,211910,Keyes & 1st,60754,25
+529,211910,Keyes & 5th,60755,25
+530,211910,Keyes & 7th,60756,25
+531,211910,Keyes & 10th,60757," 25,  73"
+532,211910,Keyes & 12th,60758," 25,  73"
+533,211910,Story & Roberts,60759,25
+534,211910,Story & Lucretia,60760,25
+535,211910,Story & McLaughlin,60761,25
+536,211910,Story & King,60762,25
+537,211910,Story & Bal Harbor,60763,25
+538,211910,Story & Hopkins,60764,25
+539,211910,Story & Karl,60765,25
+540,211910,Story & Jackson,60766,25
+541,211910,Story & Leeward,60767,25
+542,211910,Story & Capitol,60768,25
+543,211910,Story & McGinness,60769,25
+544,211910,Story & Lyndale,60770,25
+545,211911,White & Woodhaven,60780," 71,  25"
+546,211911,Story & White,60781,25
+547,211911,Story & Lyndale,60782,25
+548,211911,Story & McGinness,60783,25
+549,211911,Story & Capitol,60784,25
+550,211911,Story & Leeward,60785,25
+551,211911,Story & Jackson,60786,25
+552,211911,Story & Hopkins,60787,25
+553,211911,Story & McCreery,60788,25
+554,211911,Story & King,60789,25
+555,211911,Story & McLaughlin,60790,25
+556,211911,Story & Lucretia,60791,25
+557,211911,Keyes & 12th,60792," 25,  73"
+558,211911,Keyes & 10th,60793,25
+559,211911,Keyes & 7th,60794,25
+560,211911,Keyes & 5th,60795,25
+561,211911,Goodyear & 1st,60796,25
+562,211911,Willow & Almaden,60797,25
+563,211911,Willow & Palm,60798,25
+564,211911,Willow & Minnesota,60799,25
+565,211911,Willow & Spencer,60800,25
+566,211911,Willow & Shepherd,60801,25
+567,211911,Willow & Bird,60802,25
+568,211911,Willow & Chabrant,60803,25
+569,211911,Willow & Lincoln,60804,25
+570,211911,Willow & Carolyn,60805,25
+571,211911,Willow & Camino Ramon,60806,25
+572,211911,Willow & Glen Eyre,60807,25
+573,211911,Meridian & Willow,60808," 63,  25, 64A"
+574,211911,Meridian & Westwood,60809," 63,  25, 64A"
+575,211911,Fruitdale & Meridian,60810,25
+576,211810,Fruitdale & Southwest Expressway,60811,"103,  25"
+577,211911,Fruitdale & Goodwin,60812,25
+578,211911,Fruitdale & Leigh,60813,25
+579,211911,Fruitdale & Sherman Oaks,60814,25
+580,212180,Bascom & Fruitdale,60815," 61,  25"
+581,211911,Moorpark & Thornton,60820,25
+582,211911,Moorpark & Monroe,60821,25
+583,211911,Winchester & Moorpark,60822," 60,  25"
+584,211911,Winchester & Magliocco,60823," 60,  25"
+585,211911,Winchester & Neal,60824," 60,  25"
+586,211911,Williams & Winchester,60825,25
+587,211911,Williams & Eden,60826,25
+588,211911,Williams & Calboro,60827,25
+589,211911,Williams & Cypress,60828,25
+590,211911,Williams & Boynton,60829,25
+591,211911,Williams & Oakmont,60830,25
+592,211911,Williams & Orchid,60831,25
+593,211911,Williams & Saratoga,60832,25
+594,211911,Williams & Leo,60833,25
+595,211911,Williams & Rockdale,60834,25
+596,211911,Williams & Happy Valley,60835,25
+597,211911,Moorpark & Lawrence,60836,25
+598,211911,Bollinger & Wunderlich,60837,25
+599,211911,Bollinger & Johnson,60838,25
+600,211911,Bollinger & Tantau,60839,25
+601,211911,Bollinger & Miller,60840,25
+602,211911,Bollinger & Alderbrook,60841,25
+603,211911,Bollinger & Blaney,60842,25
+604,211911,Bollinger & Faralone,60843,25
+605,211911,De Anza & Bollinger,60844," 51,  25"
+606,212670,Lockheed Martin Transit Center,60849," 56,  56"
+607,212141,Java & Mathilda,60850," 56, 121, 122, 826"
+608,212141,Java & Bordeaux,60851," 56, 121, 122, 826"
+609,212141,Java & Borregas,60852," 56, 121, 122, 826"
+610,212370,Java & Geneva,60853," 56, 121, 122, 826"
+611,212141,Java & Crossman,60854,56
+612,212141,Fair Oaks & Tasman,60855," 56, 200, 200"
+613,212141,Fair Oaks & Weddell,60856,56
+614,212141,Fair Oaks & San Conrado,60857,56
+615,212131,Fair Oaks & Cypress,60858," 56,  55, 255"
+616,212141,Fair Oaks & Maude,60859," 56, 255"
+617,211851,Fair Oaks & Arques,60860," 56,  20, 255"
+618,211851,Fair Oaks & California,60861," 56,  20, 255"
+619,211851,Evelyn & Deodar,60862," 56,  20,  21"
+620,211851,Evelyn & Marshall,60863," 56,  20,  21"
+621,212130,Frances & Olson,60864," 56,  55,  55, 523"
+622,211850,Evelyn & Bayview,60865," 56,  56,  20,  21"
+623,212141,Fair Oaks & Bryan,60866," 56, 255"
+624,212141,Fair Oaks & Olive,60867," 56, 255"
+625,212141,Old San Francisco & Fair Oaks,60868,56
+626,212141,Old San Francisco & Ironwood,60869,56
+627,212141,Wolfe & Old San Francisco,60870,56
+628,212141,Wolfe & Iris,60871,56
+629,212141,Wolfe & Gary,60872,56
+630,212141,Wolfe & Maria,60873,56
+631,212141,Wolfe & El Camino,60874,56
+632,212141,Wolfe & Fremont,60875,56
+633,212141,Wolfe & Elizabeth,60876,56
+634,212141,Wolfe & Marion,60877,56
+635,212141,Wolfe & Inverness,60878,56
+636,212141,Wolfe & Homestead,60879," 56,  53"
+637,212141,Miller & Richwood,60882,56
+638,212141,Miller & Greenwood,60883,56
+639,212141,Miller & Phil,60884,56
+640,212141,Miller & Disney,60885,56
+641,212141,Miller & Bollinger,60886,56
+642,212141,Miller & Balsamo,60887,56
+643,212141,Miller & Bancroft,60888,56
+644,212141,Miller & Rainbow,60889,56
+645,212141,Miller & Wisteria,60890,56
+646,212141,Prospect & Miller,60892,56
+647,212141,Prospect & Provincetown,60893,56
+648,212141,Prospect & Johnson,60894,56
+649,212141,Prospect & Lyle,60896,56
+650,211791,Prospect & Saratoga,60897,101
+651,211930,Campbell & Saratoga,60898,26
+652,211930,Campbell & Northlawn,60899,26
+653,211930,Campbell & Woodglen,60900,26
+654,211930,Campbell & Fulton,60901,26
+655,211930,Campbell & La Pradera,60902,26
+656,211930,Campbell & Kim Louise,60903,26
+657,211930,Campbell & Anthony,60904,26
+658,211930,Campbell & Colleen,60905,26
+659,211930,Campbell & Christopher,60906,26
+660,211930,Campbell & Dot,60907,26
+661,211930,Campbell & Milton,60908,26
+662,211930,Campbell & Winchester,60909,26
+663,211930,Orchard City & Central,60910,26
+664,211930,Campbell & Gilman,60911,26
+665,211930,Campbell & Union,60912,26
+666,211930,Bascom & Campbell,60913," 61,  26"
+667,211930,Bascom & El Solyo,60914," 61,  26"
+668,211930,Bascom & Apricot,60915," 61,  26"
+669,211930,Bascom & Dry Creek,60916," 61,  26"
+670,211930,Bascom & Surrey,60917," 61,  26"
+671,211930,Union & Bascom,60918," 61,  26"
+672,211930,Curtner & Union,60919,26
+673,211930,Curtner & New Jersey,60920,26
+674,211930,Curtner & Leigh,60921,26
+675,211930,Curtner & Parquet,60922,26
+676,211930,Curtner & Dumbarton,60923,26
+677,211930,Curtner & Meridian,60924,26
+678,211930,Curtner & Briarwood,60925,26
+679,211930,Curtner & Booksin,60926,26
+680,211930,Curtner & Plummer,60927,26
+681,211930,Curtner & Shibley,60928,26
+682,211930,Curtner & Cottle,60929,26
+683,211930,Curtner & Richland,60930,26
+684,211930,Curtner & Lincoln,60931,26
+685,211930,Curtner & Celestine,60932,26
+686,211930,Curtner & Coastland,60933,26
+687,211930,Curtner & Almaden,60934,26
+688,211930,Curtner & Canoas Garden,60935,26
+689,211930,Curtner Station - 1,60936,26
+690,211930,Curtner & Stone,60937,26
+691,211930,Curtner & Little Orchard,60938,26
+692,211930,Curtner at The Plant,60939,26
+693,211930,Tully & Monterey,60940,26
+694,211930,Tully & 7th,60941,26
+695,211930,Tully & Senter,60943,26
+696,211930,Tully & Sherlock,60944,26
+697,211930,Tully & McLaughlin,60945,26
+698,211930,Tully & Alvin,60946,26
+699,211931,Tully & King,60948,26
+700,211931,Tully & McLaughlin,60949,26
+701,211931,Tully & Lucretia,60950,26
+702,211931,Tully & Senter,60951,26
+703,211931,Tully & 10th,60952,26
+704,211931,Tully & 7th,60953,26
+705,211931,Tully & Monterey,60954,26
+706,211931,Curtner at The Plant,60955,26
+707,211931,Curtner & Little Orchard,60956,26
+708,211931,Curtner Station - 2,60958,26
+709,211931,Curtner & Canoas Garden,60959,26
+710,211931,Curtner & Almaden,60960,26
+711,211931,Curtner & Celestine,60961,26
+712,211931,Curtner & Lincoln,60962,26
+713,211931,Curtner & Newport,60963,26
+714,211931,Curtner & Cottle,60964,26
+715,211931,Curtner & Cherry,60965,26
+716,211931,Curtner & Cheryl,60966,26
+717,211931,Curtner & Booksin,60967,26
+718,211931,Curtner & Briarwood,60968,26
+719,211931,Curtner & Meridian,60969,26
+720,211931,Curtner & Schooldale,60970,26
+721,211931,Curtner & Custer,60971,26
+722,211931,Curtner & Leigh,60972,26
+723,211931,Curtner & Saint Lawrence,60973,26
+724,211931,Union & Curtner,60974," 61,  26"
+725,211931,Bascom & Elden,60975," 61,  26"
+726,211931,Bascom at the Unemployment Office,60976," 61,  26"
+727,211931,Bascom & Dry Creek,60977," 61,  26"
+728,211931,Bascom & Dry Creek,60978," 61,  26"
+729,211931,Bascom & El Solyo,60979," 61,  26"
+730,211931,Campbell & Bascom,60980,26
+731,211931,Campbell & Union,60981,26
+732,211931,Campbell & Gilman,60982,26
+733,211931,Civc Center & Central,60983,26
+734,211931,Campbell & Winchester,60984,26
+735,211931,Campbell & Milton,60985,26
+736,211931,Campbell & Llewellyn,60986,26
+737,211931,Campbell & J. Elder,60987,26
+738,211931,Campbell & Colleen,60988,26
+739,211931,Campbell & Anthony,60989,26
+740,211931,Campbell & San Tomas Aquino,60990,26
+741,211931,Campbell & Ensenada,60991,26
+742,211931,Campbell & Castro,60992,26
+743,211931,Campbell & Fallbrook,60993,26
+744,211931,Campbell & Saratoga,60994," 56,  26"
+745,211790,Prospect & Saratoga,60995," 56, 101,  26"
+746,212140,Prospect & Lyle,60996,56
+747,212140,Prospect & Johnson,60999,56
+748,212140,Prospect & Provincetown,61000,56
+749,212140,Prospect & Miller,61001,56
+750,212140,Miller & Dial,61003,56
+751,212140,Miller & Rainbow,61004,56
+752,212140,Miller & Whitecliff,61005,56
+753,212140,Miller & Balsamo,61006,56
+754,212140,Miller & Bollinger,61007,56
+755,212140,Miller & Disney,61008,56
+756,212140,Miller & Phil,61009,56
+757,212140,Miller & Greenwood,61010,56
+758,212140,Wolfe & Stevens Creek,61012," 56,  53"
+759,212140,Wolfe & Pruneridge,61014," 56,  53"
+760,212140,Wolfe & Homestead,61015,56
+761,212140,Wolfe & Inverness,61016,56
+762,212140,Wolfe & Marion,61017,56
+763,212140,Wolfe & Elizabeth,61018,56
+764,212140,Wolfe & El Camino,61020,56
+765,212140,Wolfe & El Camino,61021,56
+766,212140,Wolfe & Primrose,61023,56
+767,212140,Wolfe & Iris,61024,56
+768,212140,Old San Francisco & Wolfe,61025,56
+769,212140,Old San Francisco & Creek,61026,56
+770,212140,Fair Oaks & Old San Francisco,61027," 56, 255"
+771,212140,Fair Oaks & Olive,61028," 56, 255"
+772,212140,Fair Oaks & Evelyn,61029," 56, 255"
+773,211850,Fair Oaks & California,61031," 56,  20, 255"
+774,212140,Fair Oaks & Arques,61032," 56, 255"
+775,212140,Fair Oaks & Maude,61033," 56, 255"
+776,212140,Fair Oaks & Duane,61034,56
+777,212140,Fair Oaks & Caliente,61035,56
+778,212140,Fair Oaks & Weddell,61036,56
+779,212140,Fair Oaks & Tasman,61037,56
+780,212140,Java & Crossman,61039," 56, 121, 122, 826"
+781,212371,Java & Geneva,61040," 56, 121, 122, 826"
+782,212140,Java & Borregas,61041," 56, 121, 122, 826"
+783,212140,Java & Bordeaux,61042," 56, 121, 122, 826"
+784,212670,West Valley Transit Center,61043, 
+785,211930,Fruitvale & Allendale,61044," 26,  51"
+786,212080,Saratoga & Saint Andrews,61045,51
+787,212080,Saratoga & Rossmere,61046,51
+788,212080,Saratoga & Herriman,61047,51
+789,212080,Saratoga & Seagraves,61048,51
+790,212080,Saratoga & Saratoga-Sunnyvale,61049,51
+791,211940,Santa Cruz & Nicholson,61061,27
+792,211940,Main & Santa Cruz,61062,27
+793,211941,University & Mullen,61063,27
+794,211941,University & Royce,61064,27
+795,211941,Los Gatos-Saratoga & University,61065,27
+796,211941,Santa Cruz & Los Gatos-Saratoga,61066,27
+797,211941,Santa Cruz & Andrews,61067,27
+798,211941,Santa Cruz & Roberts,61068,27
+799,211940,Los Gatos & Blossom Hill,61074,27
+800,211940,Los Gatos & Farley,61075,27
+801,211940,Los Gatos-Almaden & Union,61084,27
+802,211940,Los Gatos-Almaden & Kentfield,61085,27
+803,211940,Leigh & Los Gatos-Almaden,61086,27
+804,211940,Leigh & Gregg,61087,27
+805,211940,Leigh & Kay,61088,27
+806,211940,Blossom Hill & Del Oro,61089,27
+807,211940,Blossom Hill & Belwood,61090,27
+808,211940,Blossom Hill & Harwood,61091,27
+809,211940,Blossom Hill & Drysdale,61092,27
+810,211940,Blossom Hill & Camden,61093," 27,  65"
+811,211940,Blossom Hill & Parkcrest,61094," 27,  65"
+812,211940,Blossom Hill & Chambertin,61095," 27,  65"
+813,211940,Blossom Hill & Vassar,61096," 27,  65"
+814,211940,Blossom Hill & Meridian,61097,27
+815,211940,Blossom Hill & Seifert,61100,27
+816,211940,Blossom Hill & Ayrshire,61101,27
+817,211940,Blossom Hill & Plaza,61102,27
+818,211940,Blossom Hill & Almaden Expressway,61103," 83,  27"
+819,211940,Blossom Hill & Sanchez,61104," 83,  27"
+820,211940,Blossom Hill & Winfield,61105,27
+821,211940,Blossom Hill & Hillview,61106,27
+822,211940,Blossom Hill & Santa Teresa,61107,27
+823,211940,Blossom Hill & Playa Rey,61108,27
+824,211940,Blossom Hill & Cahalan,61109,27
+825,211940,Blossom Hill Station,61110,27
+826,211940,Blossom Hill & Entrada Cedros,61111,27
+827,211940,Blossom Hill & Snell,61112,27
+828,211940,Blossom Hill & Judith,61113,27
+829,211940,Blossom Hill & Eagles,61114,27
+830,211940,Blossom Hill & Lean,61115,27
+831,211940,Blossom Hill & Calpine,61116,27
+832,211940,Blossom Hill & Beswick,61117,27
+833,211940,Cottle & Poughkeepsie,61118," 27,  68"
+834,211940,Cottle & Kaiser,61119," 27,  68"
+835,211940,Cottle & Beswick,61123," 27,  68"
+836,211801,Santa Teresa & Cottle,61124," 27,  66,  68, 102, 122, 266"
+837,211940,International Circle & Curve,61125," 27,  66"
+838,211800,Santa Teresa & Camino Verde,61128," 27,  66,  68, 102, 122"
+839,211941,Cottle Park & Ride,61130," 27,  68"
+840,211941,Cottle & Raleigh,61131," 27,  68"
+841,211941,Poughkeepsie & Cottle,61135,27
+842,211941,Blossom Hill & Beswick,61136,27
+843,211941,Blossom Hill & Calpine,61137,27
+844,211941,Blossom Hill & Lean,61138,27
+845,211941,Blossom Hill & Lathrop,61139,27
+846,211941,Blossom Hill & Judith,61140,27
+847,211941,Blossom Hill & Snell,61141,27
+848,211941,Blossom Hill & Snell,61142,27
+849,211941,Blossom Hill Station,61143,27
+850,211941,Blossom Hill & Chesbro,61144,27
+851,211941,Blossom Hill & Cahalan,61145,27
+852,211941,Blossom Hill & Sunny Oaks,61146,27
+853,211941,Blossom Hill & Playa Rey,61147,27
+854,211941,Blossom Hill & Santa Teresa,61148,27
+855,211941,Blossom Hill & Santa Teresa,61149,27
+856,211941,Blossom Hill & Winfield,61150," 83,  27"
+857,211941,Blossom Hill & Sanchez,61151," 83,  27"
+858,211941,Blossom Hill & Almaden,61152,27
+859,211941,Blossom Hill & Almaden,61153,27
+860,211941,Blossom Hill & Ayrshire,61154,27
+861,211941,Blossom Hill & Kooser,61155,27
+862,211941,Blossom Hill & Meridian,61156," 27,  65"
+863,212200,Meridian & Blossom Hill,61157," 63,  65, 64A"
+864,212200,Meridian & Kooser,61158," 63,  65, 64A"
+865,211941,Blossom Hill & Vassar,61159," 27,  65"
+866,211941,Blossom Hill & Dartmouth,61160," 27,  65"
+867,211941,Blossom Hill & Parkcrest,61161," 27,  65"
+868,211941,Blossom Hill & Camden,61162,27
+869,211941,Blossom Hill & Drysdale,61163,27
+870,211941,Blossom Hill & Harwood,61164,27
+871,211941,Blossom Hill & Mary Jo,61165,27
+872,211941,Blossom Hill & Del Oro,61166,27
+873,211941,Leigh & Blossom Hill,61167,27
+874,211941,Leigh & Anne,61168,27
+875,211941,Los Gatos-Almaden & Leigh,61169,27
+876,211941,Los Gatos-Almaden & Sandy,61170,27
+877,211941,Los Gatos & Chirco,61179,27
+878,211941,Los Gatos & Farley,61180,27
+879,211941,Los Gatos & Blossom Hill,61181,27
+880,211940,Santa Cruz & Mariposa,61185,27
+881,211940,Santa Cruz & Olive,61186,27
+882,211940,Santa Cruz & Andrews,61187,27
+883,211940,Santa Cruz & Los Gatos-Saratoga,61188,27
+884,212081,Saratoga & Saratoga-Los Gatos,61200,51
+885,212081,Saratoga & La Paloma,61201,51
+886,212081,Saratoga & Juniper,61202,51
+887,212081,Saratoga & Herriman,61203,51
+888,212081,Saratoga & Rossmere,61204,51
+889,212081,Saratoga & Fruitvale,61205,51
+890,211931,Fruitvale & Saratoga,61206," 26,  51"
+891,211931,Fruitvale & Allendale,61207," 26,  51"
+892,212020,Quimby & White,61226," 39,  71"
+893,212020,Quimby & Caraston,61227," 39,  71"
+894,212020,Quimby & Smithers,61228," 39,  71"
+895,212020,Quimby & Scottsdale,61229," 39,  71"
+896,212001,Capitol & Nieman,61231,31
+897,212001,Aborn & Capitol,61233,31
+898,212001,Aborn & Brigadoon,61234,31
+899,212001,Aborn & Glenrio,61235,31
+900,212001,Aborn & Kettmann,61236,31
+901,212001,Aborn & White,61237," 31,  31"
+902,212001,San Felipe & Fowler,61238,31
+903,212001,San Felipe & Delta,61240,31
+904,212001,San Felipe & Paseo de Arboles,61241," 31,  39"
+905,212021,San Felipe & Old Estates,61242,39
+906,212021,San Felipe & Harvest Estates,61243,39
+907,212020,The Villages,61244," 39,  39"
+908,212020,The Villages & Ashley,61245,39
+909,212020,San Felipe & Harvest Estates,61246,39
+910,212020,San Felipe & Old Estates,61247,39
+911,212001,Yerba Buena & San Felipe,61248,31
+912,212001,Yerba Buena & Footbridge,61249," 31,  42"
+913,212001,Yerba Buena & Evergreen Valley College,61250,31
+914,212000,Evergreen Valley College,61251," 31,  31,  42,  42"
+915,212000,Yerba Buena & Evergreen Valley College,61252," 31,  42"
+916,212000,Yerba Buena & Footbridge,61253," 31,  42"
+917,212000,Yerba Buena & San Felipe,61254," 31,  42"
+918,212000,San Felipe & Yerba Buena,61255," 31,  39"
+919,212000,San Felipe & Delta,61256,31
+920,212000,San Felipe & Fowler,61257,31
+921,212000,Aborn & White,61258," 31,  31"
+922,212000,Aborn & Kettmann,61259,31
+923,212000,Aborn & Serpa,61260,31
+924,212000,Aborn & Nieman,61261,31
+925,212000,Capitol & Aborn,61262,31
+926,212000,Capitol & Nieman,61263,31
+927,212000,Capitol & Whispering Hill,61264,31
+928,211860,Showers & Latham,61265,21
+929,211861,San Antonio & California,61266,21
+930,211861,San Antonio & Nita,61267,21
+931,211861,San Antonio & Nita,61268,21
+932,211860,Middlefield & Moffett,61278,"185,  21"
+933,211860,Middlefield & Easy,61279,21
+934,211860,Middlefield & Whisman,61280,"185, 185,  21"
+935,211860,Middlefield & Ellis,61281,21
+936,211860,MAUDE & CLYDE,61283,21
+937,212121,Washington & Matadero,61291,53
+938,212121,Washington & Carson,61292,53
+939,212121,Washington & Pastoria,61293,53
+940,212121,Washington & Charles,61294,53
+941,211860,Evelyn & Fair Oaks,61295,21
+942,211860,Evelyn & Wolfe,61296,21
+943,211860,Reed & Wolfe,61297,21
+944,211860,Reed & Sequoia,61298,21
+945,211860,Reed & Evelyn,61299,21
+946,211860,Reed & Lawrence,61300,21
+947,211860,Monroe & Pacific,61301,21
+948,211860,Monroe & Monticello,61302,21
+949,211860,Monroe & Marchese,61303,21
+950,211860,Monroe & Brown,61304,21
+951,212151,Bowers & Monroe,61305,57
+952,211860,Monroe & Warburton,61314," 59,  21"
+953,211860,Monroe & Civic Center Drive,61315," 59,  21"
+954,212670,Santa Clara Transit Center,61316,522
+955,211861,Monroe & El Camino,61317," 59,  21"
+956,212150,Bowers & Cabrillo,61326,57
+957,211861,Monroe & Bowers,61327,21
+958,211861,Monroe & Brown,61328,21
+959,211861,Monroe & Marchese,61329,21
+960,211861,Monroe & Monticello,61330,21
+961,211861,Monroe & Lawrence,61331,21
+962,211861,Reed & Willow,61332,21
+963,211861,Reed & Evelyn,61333,21
+964,211861,Reed & Sequoia,61334,21
+965,211861,Reed & Wolfe,61335,21
+966,211861,Evelyn & Wolfe,61336,21
+967,211861,Evelyn & Fair Oaks,61337,"822, 822,  21"
+968,212131,Frances & Olson,61338," 56,  55,  55, 523"
+969,212120,Washington & Charles,61339,53
+970,212120,Washington & Pastoria,61340,53
+971,212120,Washington & Carson,61341,53
+972,211861,Maude & Clyde,61350,"185, 185,  21"
+973,211861,LOGUE & MAUDE,61351,21
+974,211861,Middlefield & Ellis,61353,21
+975,211861,Middlefield & Whisman,61354,"185,  21"
+976,211861,Middlefield & Easy,61355,21
+977,211860,San Antonio & Middlefield,61364,21
+978,211860,Showers & Pachetti,61365,21
+979,212160,Tasman & Baypointe,61366,"200, 200, 825,  59,  59"
+980,212161,1st & Tasman,61367,59
+981,212161,1st & Nicholson,61368,59
+982,212410,Holger & Headquarters,61372,831
+983,212410,Holger & Zanker,61373,831
+984,212360,Tasman & Baypointe,61377,825
+985,212360,Tasman & Zanker,61378,825
+986,212360,Tasman & Morgridge,61379,825
+987,212360,Tasman & Cisco,61380,825
+988,212050,McCarthy & Ranch,61385," 47, 825,  44"
+989,212050,Ranch & McCarthy Walmart,61386," 47,  47, 825, 825,  44,  44"
+990,212051,Ranch & Ranch,61387," 47,  44"
+991,212051,McCarthy & Ranch,61388," 47, 825,  44"
+992,212051,McCarthy & Technology,61389,"825,  44"
+993,212061,Serra & Abel,61390,47
+994,212061,Main & Serra,61391," 47,  66"
+995,211820,Main & Calaveras,61392," 47,  66, 104, 104"
+996,212061,Weller & Main,61393," 47,  66"
+997,212210,Abel & Penitencia,61394,66
+998,212211,Marylinn & Berryessa,61395,66
+999,212060,Main & Milpitas Library,61397," 47,  66,  66"
+1000,212060,Main & Serra,61398," 47,  66"
+1001,212060,Serra & Calaveras,61399,47
+1002,212361,Tasman & Alder,61402,"200, 200, 825"
+1003,212361,Tasman & Cisco,61404,"200, 200, 825"
+1004,212361,Tasman & Morgridge,61405,825
+1005,212361,Tasman & Zanker,61406,825
+1006,212670,Showers & Latham,61407, 
+1007,212031,Rengstorff & Middlefield,61408,40
+1008,212031,Rengstorff & Jane,61409,40
+1009,212030,Shoreline & Wright,61417,40
+1010,211860,California & Escuela,61422,21
+1011,211860,California & Mariposa,61423,21
+1012,211860,California & Palo Alto,61424,21
+1013,212030,VILLA & SHORELINE,61425,40
+1014,212030,VILLA & CASTRO,61426,40
+1015,212670,Mountain View Transit Center,61427, 
+1016,212081,Grant & Cuesta,61434,51
+1017,212081,Grant & Sleeper,61435,51
+1018,212081,Grant & Covington,61438,51
+1019,212081,Grant & Bryant,61439,51
+1020,212081,Grant & Eureka,61440,51
+1021,212081,Grant & Petersen,61441,51
+1022,212080,Fremont & Dallas,61442," 51,  51"
+1023,212151,Kiely & Benton,61462,57
+1024,212151,Kiely & Kaiser,61463,57
+1025,212120,HOMESTEAD & KIELY,61464,53
+1026,212120,HOMESTEAD & LAYTON,61465,53
+1027,212120,HOMESTEAD & LOS OLIVOS,61466,53
+1028,212120,HOMESTEAD & LOS PADRES,61467,53
+1029,212120,Benton & Main,61472," 60,  53"
+1030,212120,Benton & Alviso,61473," 60,  59,  53"
+1031,211860,Santa Clara Transit Center,61474," 21,  21"
+1032,212121,Benton & Main,61475," 60,  53"
+1033,212121,HOMESTEAD & SCOTT,61480,53
+1034,212121,HOMESTEAD & LOS PADRES,61482,53
+1035,212121,HOMESTEAD & MARYANN,61483,53
+1036,212121,HOMESTEAD & LAS PALMAS,61485,53
+1037,212150,Kiely & Homestead,61486,57
+1038,212150,Kiely & Kaiser,61487,57
+1039,212130,Fremont & Cordilleras,61499," 55, 255"
+1040,212081,Fremont & Truman,61506,51
+1041,212081,Fremont & Kathy,61507,51
+1042,212080,Grant & Fremont,61508,51
+1043,212080,Grant & Garthwick,61509,51
+1044,212080,Grant & Oak,61510,51
+1045,212080,Grant & Gibbs Waverly,61511,51
+1046,212080,Grant & Preston,61512,51
+1047,212080,Grant & April,61513,51
+1048,212080,Grant & Eunice,61515," 51,  51"
+1049,212031,Villa & Castro,61522,40
+1050,212031,Villa & Shoreline,61523,40
+1051,212030,Rengstorff & San Luis,61531,40
+1052,211860,Mountain View Transit Center,61532," 52,  52,  21,  21"
+1053,211861,Castro & California,61533," 52,  21,  51"
+1054,211861,California & Franklin,61534,21
+1055,211861,California & Shoreline,61535,21
+1056,211861,California & Palo Alto,61536,21
+1057,211861,California & Mariposa,61537,21
+1058,211861,California & Escuela,61538,21
+1059,211861,California & Rengstorff,61539," 40,  21"
+1060,211861,California & Ortega,61540," 40,  21"
+1061,212670,Showers & Latham,61541, 
+1062,211861,Middlefield & Montrose,61542,21
+1063,211861,Middlefield & Charleston,61543,21
+1064,211861,Middlefield & Mayview,61544,21
+1065,211861,Middlefield & Meadow,61545,21
+1066,211861,Middlefield & Ames,61546,21
+1067,211861,Middlefield & Layne,61547,"288,  21"
+1068,211861,Middlefield & Matadero,61548,"288,  21"
+1069,211861,Middlefield & Colorado,61549,"288, 288,  21"
+1070,211861,Middlefield & Moreno,61550,"288,  21"
+1071,211861,Middlefield & California,61551,21
+1072,211861,Middlefield & Seale,61552,21
+1073,211861,Middlefield & Embarcadero,61553,21
+1074,211861,Middlefield & Melville,61554,21
+1075,211861,Middlefield & Kingsley,61555,21
+1076,211861,Middlefield & Addison,61556,21
+1077,211861,Middlefield & Channing,61557,21
+1078,211861,Homer & Webster,61558,21
+1079,211861,Waverly & Homer,61559,21
+1080,211861,Hamilton & Waverly,61560,21
+1081,211861,Hamilton & Ramona,61561,21
+1082,211861,Hamilton & High,61562," 21,  21"
+1083,211861,Palo Alto Transit Center (Bay 4),61563,21
+1084,211860,Arboretum & Sand Hill,61564," 21,  21"
+1085,211860,Sand Hill & Stanford Shopping Center,61565,21
+1086,212670,Palo Alto Transit Center (Bay 9),61566, 
+1087,211860,Hamilton & Ramona,61568,21
+1088,211860,Waverly & Hamilton,61569,21
+1089,211860,Waverly & Homer,61570,21
+1090,211860,Channing & Webster,61571,21
+1091,211860,Middlefield & Addison,61572,21
+1092,211860,Middlefield & Kingsley,61573,21
+1093,211860,Middlefield & Melville,61574,21
+1094,211860,Middlefield & Embarcadero,61575,21
+1095,211860,Middlefield & Seale,61576,21
+1096,211860,Middlefield & California,61577,21
+1097,211860,Middlefield & Webster,61578,"288,  21"
+1098,211860,Middlefield & Colorado,61579,"288,  21"
+1099,211860,Middlefield & Matadero,61580,"288,  21"
+1100,211860,Middlefield & Loma Verde,61581,"288,  21"
+1101,211860,Middlefield & Ashton,61582,21
+1102,211860,Middlefield & Meadow,61583,21
+1103,211860,Middlefield & Mayview,61584,21
+1104,211860,Middlefield & Adobe Creek,61585,21
+1105,211860,Middlefield & Charleston,61586,21
+1106,211860,Middlefield & Montrose,61587,21
+1107,212670,Showers & Latham,61588, 
+1108,211860,California & Showers,61591," 40,  21"
+1109,211860,California & Ortega,61592," 40,  21"
+1110,211860,California & Rengstorff,61593,21
+1111,211860,California & Shoreline,61594,21
+1112,211860,California & Bryant,61595,21
+1113,211860,Castro & Villa,61596," 52, 251,  21,  51"
+1114,211790,Vallco Parkway & Perimeter,61599,"182,  53"
+1115,212171,Winchester & Pruneridge,61618,60
+1116,212670,Valley Fair Transit Center,61619, 
+1117,212180,Naglee & Bascom,61620,61
+1118,212180,Naglee & Dana,61621," 61,  61"
+1119,212180,Naglee & Park,61622," 61,  61"
+1120,212180,Naglee & The Alameda,61623," 61,  61"
+1121,212180,Taylor & Elm,61624,61
+1122,212180,Taylor & Stockton,61625,61
+1123,212180,Coleman & Taylor,61626,61
+1124,212180,Coleman & Emory,61627,61
+1125,212180,Hedding & Coleman,61628,61
+1126,212180,Hedding & Spring,61629,61
+1127,212180,Hedding & Ruff,61630,61
+1128,212231,Mabury & Jackson,61636,70
+1129,212291,White & Mabury,61639,71
+1130,212291,White & Fiji,61644,71
+1131,212291,White & Kyle,61645,71
+1132,212230,Mabury & Jackson,61650,70
+1133,212181,Hedding & Ruff,61655,61
+1134,212181,Hedding & Spring,61656,61
+1135,212181,Coleman & Hedding,61657,61
+1136,212181,Coleman & Emory,61658,61
+1137,212181,Coleman & Taylor,61659,61
+1138,212181,Taylor & Stockton,61660,61
+1139,212181,Taylor & Elm,61661,61
+1140,212181,Naglee & The Alameda,61662,61
+1141,212181,Naglee & Park,61663,61
+1142,212181,Naglee & Dana,61664,61
+1143,212161,NAGLEE & BASCOM,61665,59
+1144,212160,Valley Fair Transit Center,61668," 59,  59"
+1145,212170,Winchester & Forest,61669,60
+1146,211790,Camden & Union,61686," 37, 101"
+1147,212180,Bascom & Camden,61688,61
+1148,212181,Union & Foxworthy,61690,61
+1149,212181,Union & Cambriana,61691,61
+1150,211791,Camden & Union,61692," 37,  37, 101"
+1151,212010,Camden & New Jersey,61693,37
+1152,212010,Hillsdale & Ross,61694,37
+1153,212010,Hillsdale & Kilo,61695,37
+1154,212010,Hillsdale & Kirk,61696,37
+1155,212010,Hillsdale & Meridian,61697," 37,  37"
+1156,212010,Hillsdale & San Clemente,61698,37
+1157,212010,Hillsdale & Jarvis,61699,37
+1158,212010,Hillsdale & Overbrook,61700,37
+1159,212010,Foxworthy & Old Almaden,61706," 37,  37"
+1160,212010,Foxworthy & Rubino,61707,37
+1161,212010,Hillsdale & Pearl,61708,37
+1162,212010,Hillsdale & Summercreek,61709,37
+1163,212010,Narvaez & Shadow Creek,61710,37
+1164,212010,Capitol Station,61711," 37,  37"
+1165,212290,Capitol & Bluefield,61712,71
+1166,212290,Capitol & Vistapark,61713,71
+1167,212290,Capitol & Snell,61714,71
+1168,212041,Monterey & Senter,61715," 42,  42,  66,  68,  72,  73"
+1169,212210,Monterey & Senter,61716," 66,  68,  71"
+1170,212291,Capitol & Snell,61717,71
+1171,212291,Capitol & Vistapark,61718,71
+1172,212291,Capitol & Copperfield,61719,71
+1173,212011,Narvaez & Shadow Creek,61720,37
+1174,212011,Hillsdale & Summercreek,61721,37
+1175,212011,Hillsdale & Dow,61722,37
+1176,212011,Foxworthy & Rubino,61723,37
+1177,212011,Hillsdale & Cherry,61728,37
+1178,212011,Hillsdale & Jarvis,61729,37
+1179,212011,Hillsdale & San Clemente,61730,37
+1180,212011,Hillsdale & Meridian,61731,37
+1181,212011,Hillsdale & Kirk,61732,37
+1182,212011,Hillsdale & Manda,61733,37
+1183,212011,Hillsdale & Ross,61734,37
+1184,212011,Hillsdale & Ross,61735,37
+1185,212011,Camden & Leigh,61736,37
+1186,212011,Camden & New Jersey,61737,37
+1187,212011,Camden & Taper,61738,37
+1188,211940,Winchester & Albright,61740,27
+1189,211940,Los Gatos & Del Sol,61743,27
+1190,211940,Samaritan & National,61744," 27,  61"
+1191,211940,Samaritan & Good Samaritan Hospital,61745," 27,  61,  61"
+1192,211940,Samaritan & Samaritan,61746," 27,  61"
+1193,211940,Samaritan & Winton,61747," 27,  61"
+1194,211940,Samaritan & Cooper,61748," 27,  61"
+1195,211940,Samaritan & Esther,61749," 27,  61"
+1196,211940,Union & Samaritan,61750,27
+1197,211940,Union & Carlton,61751,27
+1198,211940,Union & Rosswood,61752,27
+1199,211790,Camden & Highway 85,61757," 65, 101, 101"
+1200,212040,Monterey & Branham,61780," 42,  68,  72,  73"
+1201,212040,Monterey & Valleyhaven,61781," 42,  68,  72,  73"
+1202,212040,Monterey & Skyway,61782," 42,  66,  68,  72,  73"
+1203,212041,Monterey & Skyway,61784," 42,  68,  72,  73"
+1204,212041,Monterey & Valleyhaven,61785," 42,  68,  72,  73"
+1205,211941,Union & Heather,61814,27
+1206,211941,Union & Rosswood,61815,27
+1207,211941,Samaritan & Union,61816," 27,  61"
+1208,211941,Samaritan & Esther,61817," 27,  61"
+1209,211941,Samaritan & Cooper,61818," 27,  61"
+1210,211941,Samaritan & Clydelle,61819," 27,  61"
+1211,211941,Samaritan & Saidel,61820," 27,  61"
+1212,211941,Good Samaritan Hospital,61821," 27,  61,  61"
+1213,211941,Samaritan & Medical Center,61822," 27,  61"
+1214,211941,Los Gatos & Burton,61823,27
+1215,211941,Los Gatos & Burton,61824,27
+1216,211941,Winchester & Lark,61826,27
+1217,211941,Winchester & Albright,61827,27
+1218,211941,Knowles & Capri,61828,27
+1219,211941,Knowles & Capri,61829,27
+1220,211941,Knowles & Dardenelli,61830,27
+1221,211941,Pollard & El Camino Hospital Los Gatos,61831,27
+1222,211941,Pollard & Bracebridge,61832,27
+1223,211941,Burrows & Hacienda,61833," 27,  37,  37"
+1224,211941,Hacienda & Gay,61834," 27,  37"
+1225,211941,Hacienda & Capri,61835," 27,  37"
+1226,211941,Hacienda & Walnut,61836," 27,  37"
+1227,212230,CAPITOL & TULLY,61837,70
+1228,212020,Quimby & Marston,61855,39
+1229,212020,Quimby & Knickerson,61856,39
+1230,212020,Quimby & Balerdo,61857,39
+1231,212020,Quimby & Ruby,61858,39
+1232,212020,Quimby & Remington,61859,39
+1233,212020,Quimby & Davidwood,61860,39
+1234,212020,Quimby & Pendleton,61861,39
+1235,212021,Quimby & Scottsdale,61862," 39,  71"
+1236,212021,Quimby & Smithers,61863," 39,  71"
+1237,212021,Quimby & Burdick,61864," 39,  71"
+1238,212021,Quimby & White,61865,39
+1239,212021,Quimby & Pendleton,61866,39
+1240,212021,Quimby & Pitner,61867,39
+1241,212021,Quimby & Remington,61868," 39,  39"
+1242,212020,Quimby & Murillo,61869,39
+1243,212100,Capitol & Ocala,61884," 70, 522"
+1244,212231,CAPITOL & CUNNINGHAM,61885,70
+1245,212030,Rengstorff & California,61887,40
+1246,212030,Rengstorff & Stanford,61888,40
+1247,212030,Rengstorff & Central,61889,40
+1248,212030,Rengstorff & Montecito,61890,40
+1249,212030,Rengstorff & San Ramon,61891," 40,  40"
+1250,212030,Rengstorff & Old Middlefield,61892,40
+1251,212030,Rengstorff & Leghorn,61893," 40,  40"
+1252,212031,Rengstorf & Leghorn,61898,40
+1253,212031,Rengstorff & Old Middlefield,61899,40
+1254,212031,Rengstorff & Jewell,61900,40
+1255,212031,Rengstorff & Central,61901,40
+1256,212031,Rengstorff & Stanford,61902,40
+1257,212331,Kifer & Copper,61904,822
+1258,212331,Kifer & Calabazas,61905,822
+1259,212150,Bowers & Central,61907," 57, 827, 827"
+1260,211851,Scott & Lakeside,61908,"822,  20"
+1261,211851,Scott & Oakmead Village,61909,20
+1262,211851,Scott & Garrett,61910,"822,  20"
+1263,211851,Arques & Oakmead,61911,"822,  20"
+1264,211851,Arques & Lakeside,61912,"822,  20"
+1265,211851,Arques & Lawrence,61913,"822,  20"
+1266,212331,Santa Trinita & Arques,61914,822
+1267,212330,Stewart & Santa Trinita,61915,822
+1268,212331,Stewart & Deguigne,61916,822
+1269,212331,Deguigne & Stewart,61917,822
+1270,211851,Arques & Deguigne,61918,"822,  20"
+1271,212331,Wolfe & Arques,61919,822
+1272,212331,Kifer & San Lazaro,61920,822
+1273,212331,Kifer & Commercial,61921, 
+1274,212331,Kifer & National Semiconducter,61922,822
+1275,212160,San Tomas & Scott,61928,59
+1276,212161,Mission College & Burton,61929,"827,  59"
+1277,212160,Mission College & Burton,61930,"827,  59"
+1278,212160,Mission College & Agnew,61931,"827,  59"
+1279,211851,Mission College & Freedom,61932,"827,  20,  59"
+1280,212380,Great America & Mission College,61933," 57, 121, 827,  59"
+1281,212341,Patrick Henry & Old Ironsides,61934,823
+1282,212341,Patrick Henry Drive,61935,823
+1283,212341,Patrick Henry Drive,61936,823
+1284,212341,Patrick Henry & Democracy,61937,823
+1285,212130,Tasman & Patrick Henry,61938," 55, 121"
+1286,212130,Old Ironsides & Tasman,61939," 55,  55,  59"
+1287,212341,Patrick Henry & Bunker Hill,61940,823
+1288,212341,Patrick Henry & Bunker Hill,61941,823
+1289,212341,Old Mountain View-Alviso & Patrick Henry,61942,823
+1290,212341,Old Mountain View-Alviso & Betsy Ross,61943,823
+1291,212160,GREAT AMERICA & OLD MTN VIEW ALVISO,61944,59
+1292,212160,GOLD & GOLD ST. CONNECTOR,61945,59
+1293,212160,GOLD & SUNRISE,61946,59
+1294,212161,GOLD & SUNRISE,61949,59
+1295,212161,GOLD & GOLD ST. CONNECTOR,61950,59
+1296,212161,Great America Parkway & Great America Way,61951,"823,  59"
+1297,212340,Old Mountain View-Alviso & Betsy Ross,61953,823
+1298,212340,Patrick Henry & Old Mountain View-Alviso,61954,823
+1299,212340,Patrick Henry & Old Mountain View-Alviso,61955,823
+1300,212340,Patrick Henry & Bunker Hill,61956,823
+1301,212150,Old Ironsides & Tasman,61957," 57,  57,  59"
+1302,212340,Patrick Henry & Democracy,61958,823
+1303,212340,Patrick Henry & Democracy,61959,823
+1304,212340,Patrick Henry Drive,61960,823
+1305,212151,Great America & Patrick Henry,61962," 57, 121, 827,  59"
+1306,211850,Mission College & Great America,61963,"827,  20,  59"
+1307,211850,Mission College & Freedom,61964,"827,  20,  59"
+1308,212161,Mission College & Freedom,61965,"827,  59"
+1309,212161,Mission College & Juliette,61966,"827,  59"
+1310,212160,Mission College & Wayatt,61967,"827,  59"
+1311,212380,Walsh & Northwestern,61970,"827, 827"
+1312,212330,Kifer & Oakmead Village,61972,822
+1313,212530,1ST & BONAVENTURA,61981, 
+1314,211851,1ST & PLUMERIA,61982,20
+1315,211851,1ST & ORCHARD,61983,20
+1316,212390,1st & Montague,61984,"828, 828"
+1317,212390,River Oaks & 1st,61985,"828, 828"
+1318,212390,River Oaks & Zanker,61986,"828, 828"
+1319,212390,River Oaks & Research,61988,"828, 828"
+1320,212390,Montague & River Oaks,61990,"828, 828"
+1321,211850,1ST & ORCHARD,61992,20
+1322,212531,1ST & BONAVENTURA,61994, 
+1323,212670,Mountain View Transit Center,62000,"200, 200, 251"
+1324,212031,Shoreline & Wright,62001,40
+1325,212031,SHORELINE & STIERLIN,62002,40
+1326,212031,SHORELINE & MIDDLEFIELD,62003,40
+1327,212031,Shoreline & Terra Bella,62004," 40, 185"
+1328,212031,Shoreline & Pear,62006," 40, 185, 824"
+1329,212031,Shoreline & Space Park,62007," 40, 824"
+1330,212031,Charleston & Google,62010," 40, 185, 824"
+1331,212031,Charleston & Landings,62011," 40, 185, 824"
+1332,212351,Garcia & Amphitheater,62012,"185, 824"
+1333,212351,Garcia & Salado,62013,"185, 824"
+1334,212351,Garcia & Marine,62014,"185, 824"
+1335,212351,Marine & Casey,62015,"185, 824"
+1336,212351,San Antonio & Bayshore,62016,"185, 824"
+1337,212670,Showers & Latham,62019, 
+1338,212350,San Antonio & Casey,62023,"185, 824"
+1339,212350,Marine & Casey,62024,"185, 824"
+1340,212350,Garcia & Marine,62025,"185, 824"
+1341,212350,Garcia & Salado,62026,"185, 824"
+1342,212030,Charleston & Amphitheater,62027," 40, 185, 824"
+1343,212030,Charleston & Landings,62028," 40, 185, 824"
+1344,212030,Shoreline & Charleston,62030," 40, 185, 824"
+1345,212030,Shoreline & Space Park,62031," 40, 824"
+1346,212030,Shoreline & Plymouth,62032," 40, 185, 824"
+1347,212030,Shoreline & Terra Bella,62033," 40, 185"
+1348,212030,SHORELINE & MIDDLEFIELD,62034,40
+1349,212670,Mountain View Transit Center,62035," 40,  40"
+1350,211860,Moffett and Central Opposite Jackson,62037," 21,  51,  51"
+1351,211860,Moffett & Cypress Point,62038," 21,  51"
+1352,212121,Homestead & De Anza,62059,53
+1353,212080,Homestead & Hollenbeck,62060,53
+1354,212080,Homestead & Kennewick,62061,53
+1355,212080,Homestead & Wright,62064, 
+1356,212080,Truman & Bryant,62068,51
+1357,212080,Cuesta & Grant,62069,51
+1358,212080,Cuesta & Montalto,62070,51
+1359,212080,Miramonte & Cuesta,62072,"251,  51"
+1360,212080,Miramonte & Barbara,62073,"251,  51"
+1361,212080,Castro & Miramonte,62074,"251,  51"
+1362,212080,Castro & El Camino,62076,"251,  51,  51"
+1363,212080,Castro & Yosemite,62077," 52,  52, 251,  51"
+1364,212080,Castro & Mercy,62078," 52, 251,  51"
+1365,212080,Moffett & Middlefield,62079,51
+1366,212080,Moffett & Leong,62080,51
+1367,212080,South Akron & Wescoat,62082,51
+1368,212080,North Akron & McCord,62101," 51,  51"
+1369,212081,Moffett & Leong,62104," 51,  51"
+1370,211861,Moffett & Middlefield,62105," 21,  51,  51"
+1371,211861,Moffett & Cypress Point,62106," 21,  51"
+1372,211861,Moffett & Jackson,62107," 21,  51,  51"
+1373,211861,Castro & Villa,62108," 21,  51"
+1374,212081,Castro & Mercy,62109," 52,  51"
+1375,212081,Castro & High School Way,62110," 52,  51"
+1376,212081,Castro & El Camino,62111," 51,  51"
+1377,212081,Castro & Harpster,62112,51
+1378,212081,Miramonte & Marilyn,62113,51
+1379,212081,Miramonte & Barbara,62114,51
+1380,212081,Cuesta & Miramonte,62115,51
+1381,212081,Cuesta & Montalto,62116,51
+1382,212081,Grant & Portland,62117,51
+1383,212081,Truman & Bryant,62118,51
+1384,212081,Grant & Fremont,62119,51
+1385,212081,Homestead & Wright,62122, 
+1386,212081,Homestead & Mary,62124,53
+1387,212081,Homestead & Kennewick,62125,53
+1388,212681,Homestead & Stelling,62126,"523,  53"
+1389,212120,Homestead & De Anza,62127,53
+1390,212120,Homestead & Blainey,62129,53
+1391,212090,El Monte & Covington,62131," 52,  52"
+1392,212090,El Monte & San Luis,62132,52
+1393,212090,El Monte & Hawthorne,62133,52
+1394,212090,El Monte & Mayer,62134,52
+1395,212090,El Monte & Lloyd,62135,52
+1396,212090,El Monte & Pilgrim,62136,52
+1397,212670,Mountain View Transit Center,62137, 
+1398,212091,El Monte & Marich,62138,52
+1399,212091,El Monte & Jay,62139,52
+1400,212091,El Monte & Clark,62140,52
+1401,212091,El Monte & Hawthorne,62141,52
+1402,212091,El Monte & De Anza,62142,52
+1403,212091,El Monte & Giffin,62143," 52,  52"
+1404,211790,Hamilton & Sagemont,62144," 56, 101"
+1405,212080,De Anza & Prospect,62148,51
+1406,212080,De Anza & Sharon,62149,51
+1407,212080,Stelling & Stevens Creek,62162,523
+1408,212080,Stelling & Hazelbrook,62164, 
+1409,212080,Stelling & Valleygreen,62166, 
+1410,212080,Homestead & Mary,62168," 53,  53"
+1411,212121,Mary & Helena,62169,53
+1412,212121,Mary & The Dalles,62170,53
+1413,212121,Mary & Cascade,62171,53
+1414,212121,Mary & Fremont,62172," 53,  53"
+1415,212121,Mary & Ticonderoga,62173,53
+1416,212121,Remington & Mary,62174,53
+1417,212121,Remington & Mango,62175,53
+1418,212121,Bernardo & Plymouth,62176,53
+1419,212121,Bernardo & Knickerbocker,62177,53
+1420,212121,Bernardo & Heatherstone,62178,53
+1421,212121,Bernardo & Brookfield,62179,53
+1422,212121,Bernardo & Blair,62180,53
+1423,212121,Bernardo & El Camino,62181," 53,  53"
+1424,212121,Bernardo & Iowa,62182,53
+1425,212121,Washington & Bernardo,62183,53
+1426,212121,Washington & Leota,62184,53
+1427,212121,Washington & Mary,62185,53
+1428,211850,Frances & Olson,62190," 20,  20,  53,  53"
+1429,211861,Evelyn & Frances,62191,21
+1430,212120,Washington & Mary,62196,53
+1431,212120,Washington & Leota,62197,53
+1432,212120,Bernardo & Washington,62198,53
+1433,212120,Bernardo & Iowa,62199,53
+1434,212120,Bernardo & El Camino,62200," 53,  53"
+1435,212120,Bernardo & Brookfield,62201,53
+1436,212120,Bernardo & Heatherstone,62202,53
+1437,212120,Bernardo & Knickerbocker,62203,53
+1438,212120,Remington & Bernardo,62204,53
+1439,212120,Remington & Mango,62205,53
+1440,212120,Mary & Rockefeller,62206,53
+1441,212120,Mary & Ticonderoga,62207,53
+1442,212120,Mary & Fremont,62208," 53,  53"
+1443,212120,Mary & Cascade,62209,53
+1444,212120,Mary & The Dalles,62210,53
+1445,212120,Mary & Helena,62211,53
+1446,212081,Stelling & Homestead,62212,523
+1447,212081,Stelling & Gardena,62213, 
+1448,212081,Stelling & Hazelbrook,62215, 
+1449,212081,Stelling & Christensen,62216, 
+1450,212081,De Anza & Sharon,62228,51
+1451,212141,Saratoga & Campbell,62233," 56,  57"
+1452,212141,Saratoga & Graves,62234," 56,  57"
+1453,212141,Atherton & Hamilton,62235,56
+1454,212080,Saratoga-Sunnyvale & Walnut,62236,51
+1455,212080,Saratoga-Sunnyvale & Gerald Zapelli,62237,51
+1456,212080,Saratoga-Sunnyvale & Herriman,62238,51
+1457,212080,Saratoga-Sunnyvale & Thelma,62239,51
+1458,212080,Saratoga-Sunnyvale & Miljevich,62240,51
+1459,212080,Saratoga-Sunnyvale & Blauer,62241,51
+1460,212080,Saratoga-Sunnyvale & Cox,62242,51
+1461,212080,Saratoga-Sunnyvale & Seagull,62243,51
+1462,212080,De Anza & Chantel,62244,51
+1463,212080,De Anza & Bluehill,62245,51
+1464,212080,De Anza & Clarendon,62246,51
+1465,212130,Hollenbeck & Fremont,62252," 55, 255"
+1466,212130,Hollenbeck & Torrington,62253," 55, 255"
+1467,211861,Mathilda & California,62262,"523,  21"
+1468,212681,Mathilda & Maude,62264,523
+1469,212681,Mathilda & San Aleso,62265,523
+1470,212681,Mathilda & Ross,62266,523
+1471,212681,Mathilda & Moffett Park,62267,523
+1472,212670,Lockheed Martin Transit Center,62271, 
+1473,212680,Mathilda & Ross,62279,523
+1474,212680,Mathilda & Almanor,62280,523
+1475,211860,Mathilda & Maude,62282,"523,  21"
+1476,211860,Mathilda & Indio,62283,21
+1477,211860,Mathilda & California,62284,"523,  21"
+1478,212081,De Anza & McClellan,62299,51
+1479,212081,De Anza & Bollinger,62300,51
+1480,212081,De Anza & Fallen Leaf,62301,51
+1481,212081,De Anza & Kentwood,62302,51
+1482,212081,Saratoga-Sunnyvale & Prospect,62303,51
+1483,212081,Saratoga-Sunnyvale & Manor,62304,51
+1484,212081,Saratoga-Sunnyvale & Wardell,62305,51
+1485,212081,Saratoga-Sunnyvale & Blauer,62306,51
+1486,212081,Saratoga-Sunnyvale & Leonard,62307,51
+1487,212081,Saratoga-Sunnyvale & Thelma,62308,51
+1488,212081,Saratoga-Sunnyvale & Herriman,62309,51
+1489,212081,Saratoga-Sunnyvale & Reid,62310,51
+1490,212081,Saratoga-Sunnyvale & Marion,62311,51
+1491,211911,De Anza & Pacifica,62312," 55,  51,  25"
+1492,212130,De Anza & Sunrise,62313," 55,  51,  25"
+1493,212130,De Anza & Stevens Creek,62314,55
+1494,212130,De Anza & Lazaneo,62315,55
+1495,212130,De Anza & Mariani,62316,55
+1496,212130,Sunnyvale-Saratoga & Homestead,62317,55
+1497,212130,Sunnyvale-Saratoga & La Conner,62318,55
+1498,212130,Sunnyvale-Saratoga & Harwick,62319,55
+1499,212130,Sunnyvale-Saratoga & Connemara,62320,55
+1500,212130,Sunnyvale-Saratoga & Fremont,62321," 55, 523"
+1501,212130,Fremont & Sydney,62322," 55,  55, 255"
+1502,212130,Sunnyvale-Saratoga & Crescent,62323,55
+1503,212130,Sunnyvale & McKinley,62334,55
+1504,212130,Sunnyvale & Evelyn,62335,55
+1505,212130,Sunnyvale & Central,62336,55
+1506,212130,Sunnyvale & Hazelton,62337,55
+1507,212130,Maude & Sunnyvale,62338,55
+1508,212130,Maude & Morse,62339,55
+1509,212130,Maude & Fair Oaks,62340," 55,  55"
+1510,212130,Duane & Fair Oaks,62341," 55, 255"
+1511,212130,Duane & San Juan,62342," 55, 255"
+1512,212130,Duane & San Luisito,62343," 55, 255"
+1513,212130,Duane & Santa Paula,62344," 55, 255"
+1514,212130,Duane & San Rafael,62345," 55, 255"
+1515,212130,Duane & San Simeon,62346," 55, 255"
+1516,212130,Lawrence & Oakmead,62347," 55, 255"
+1517,212130,Lakehaven & Twinlake,62348," 55,  55, 255"
+1518,212130,Lakebird & Silverlake,62349," 55,  55, 255, 255"
+1519,212130,Lakebird & Meadowlake,62350," 55,  55, 255, 255"
+1520,212130,Lakehaven & Silverlake,62353," 55,  55, 255, 255"
+1521,212130,Lakehaven & Twinlake,62354," 55,  55,  55, 255, 255"
+1522,212130,Lawrence & Sandia,62355," 55, 255"
+1523,212130,Tasman & Lawrence,62361," 55,  55, 121, 255"
+1524,212130,Tasman & Birchwood,62362,55
+1525,212130,Tasman & Reamwood,62363,55
+1526,212131,Tasman & Patrick Henry,62364," 55, 121"
+1527,212131,Tasman & Reamwood,62365," 55, 200, 200"
+1528,212131,Tasman & Birchwood,62366,55
+1529,212131,Lawrence & Tasman,62367," 55,  55, 122, 255"
+1530,212131,Lakebird & Lawrence,62368," 55, 255"
+1531,212131,Duane & Lawrence,62372," 55,  55, 255"
+1532,212131,Duane & San Simeon,62373," 55, 255"
+1533,212131,Duane & Deguigne,62374," 55, 255"
+1534,212131,Duane & Santa Paula,62375," 55, 255"
+1535,212131,Duane & San Luisito,62376," 55, 255"
+1536,212131,Duane & San Juan,62377," 55, 255"
+1537,212131,Maude & Fair Oaks,62378," 55,  55"
+1538,212131,Maude & Morse,62379,55
+1539,212131,Maude & Sunnyvale,62380,55
+1540,212131,Sunnyvale & Hazelton,62381,55
+1541,212131,Sunnyvale & Central,62382,55
+1542,212131,Sunnyvale & Hendy,62383,55
+1543,212131,Sunnyvale & McKinley,62384,55
+1544,212131,Sunnyvale-Saratoga & Remington,62393," 55, 255"
+1545,212131,Sunnyvale-Saratoga & Fremont,62394," 55,  55, 255"
+1546,212131,Sunnyvale-Saratoga & Fremont,62395," 55,  55, 523"
+1547,212131,Sunnyvale-Saratoga & Cheyenne,62396,55
+1548,212131,Sunnyvale-Saratoga & Alberta,62397,55
+1549,212131,Sunnyvale-Saratoga & La Conner,62398,55
+1550,212131,De Anza & Homestead,62399,55
+1551,212131,De Anza & Mariani,62400,55
+1552,212131,De Anza & Lazaneo,62401,55
+1553,211850,Arques & Fair Oaks,62404,20
+1554,211850,Arques & Wolfe,62405,20
+1555,211850,Arques & Commercial,62406,20
+1556,211850,Arques & Commercial,62407,20
+1557,211850,Arques & Santa Trinita,62408,20
+1558,211850,Arques & Lawrence,62409,"822,  20"
+1559,211850,Arques & Lakeside,62410,"822,  20"
+1560,211850,Arques & Oakmead,62411,"822,  20"
+1561,211850,Scott & Garrett,62412,"822,  20"
+1562,211850,Scott & Oakmead Village,62413,20
+1563,212380,Scott & Bowers,62414,"827, 827"
+1564,212380,Scott & Coronado,62415,"827, 827"
+1565,212380,Scott & Octavius,62416,"827, 827"
+1566,212161,Scott & San Tomas,62418,"827, 827,  59"
+1567,212161,Scott & Jay,62419,"827, 827,  59"
+1568,212161,Scott & Space Park,62420,"827, 827,  59"
+1569,212531,1ST & COMPONENT,62425, 
+1570,212411,McCarthy & Barber,62433,831
+1571,212411,Cottonwood & McCarthy,62434,831
+1572,212411,Sycamore & Buckeye,62436,831
+1573,212411,Sycamore & McCarthy,62437,831
+1574,212411,McCarthy & Tasman,62438,831
+1575,212050,Alder & Tasman,62439,"825,  44"
+1576,212050,McCarthy & Alder,62440,"825,  44"
+1577,212050,McCarthy & Bellew,62441,"825,  44"
+1578,212210,Jacklin & Milpitas,62442,66
+1579,211890,Escuela & Jacklin,62444,"246,  66, 247"
+1580,211890,Escuela & Milpitas High School,62445,"246,  66, 247"
+1581,212210,Washington & Escuela,62446,66
+1582,212210,Arizona & Washington,62447,66
+1583,212210,Arizona & Boulder,62449,66
+1584,212210,Dixon & Arizona,62450," 66,  66"
+1585,212211,Milpitas & Dixon,62458,66
+1586,212211,Washington & Milpitas,62460,66
+1587,212211,Washington & Arizona,62461,66
+1588,211891,Washington & Escuela,62462,"246,  66"
+1589,211891,Escuela & Milpitas High School,62463,"246, 246,  66,  66, 247"
+1590,212211,Jacklin & Escuela,62464,66
+1591,212211,Jacklin & Jacklin Court,62465,66
+1592,212051,Alder & McCarthy,62467,"825,  44"
+1593,212410,McCarthy & Tasman,62468,831
+1594,212410,Sycamore & McCarthy,62469,831
+1595,212410,Buckeye & Sycamore,62470,831
+1596,212410,Buckeye & Buckeye,62471,831
+1597,212410,Cottonwood & Buckeye,62472,831
+1598,212410,McCarthy & Barber,62473,831
+1599,212530,1ST & COMPONENT,62481, 
+1600,212160,Scott & Space Park,62483,59
+1601,212160,Scott & Jay,62484,59
+1602,212160,Scott & San Tomas,62485,59
+1603,211851,Arques & Santa Trinita,62489,20
+1604,211851,Arques & Santa Trinita,62490,20
+1605,211851,Arques & Wolfe,62491,20
+1606,212010,Allendale & Portos,62494," 37,  57"
+1607,212010,Allendale & Chester,62495," 37,  57"
+1608,212150,Quito & Montpere,62496,57
+1609,212150,Quito & Westmont,62497,57
+1610,212150,Quito & McCoy,62498,57
+1611,212150,Quito & Baylor,62499,57
+1612,212150,Quito & Northlawn,62501,57
+1613,211930,Saratoga & Quito,62502," 57,  26"
+1614,212150,Saratoga & Latimer,62503,57
+1615,212150,Saratoga & Payne,62504,57
+1616,212150,Saratoga & Mitzi,62505,57
+1617,212150,Saratoga & Williams,62506,57
+1618,212150,Saratoga & Manzanita,62507,57
+1619,212150,Saratoga & Blackford,62508,57
+1620,212150,Kiely & Saratoga,62509,57
+1621,212150,Kiely & Stevens Creek,62510,57
+1622,212150,Kiely & Mauricia,62511,57
+1623,212150,Kiely & Pruneridge,62512,57
+1624,212150,Kiely & Forbes,62513,57
+1625,212150,Kiely & Toledo,62514,57
+1626,212150,Kiely & Benton,62515,57
+1627,212150,Kiely & El Sobrante,62516,57
+1628,212150,Bowers & El Camino Real,62517,57
+1629,212150,Bowers & Warburton,62518,57
+1630,212150,Bowers & Monroe,62519,57
+1631,212150,Bowers & Chromite,62520,57
+1632,212150,Bowers & Walsh,62521,57
+1633,211850,Bowers & Scott,62522," 57,  20"
+1634,211850,Mission College,62523," 57,  57,  20,  20,  59,  59"
+1635,212150,Great America & Patrick Henry,62524," 57, 121, 827,  59"
+1636,212150,Great America & Old Glory,62525," 57, 121,  59"
+1637,212150,Tasman & Old Ironsides,62526," 57, 121, 200, 200"
+1638,212340,Old Ironsides & Patrick Henry,62527,823
+1639,212340,Old Ironsides & Old Glory,62528,823
+1640,212150,Patrick Henry & Tasman,62530," 57, 823"
+1641,212341,Old Ironsides & Old Glory,62531,823
+1642,212151,Tasman & Old Ironsides,62532," 57, 121,  59"
+1643,212151,Great America & Tasman,62533," 57, 121,  59"
+1644,212151,Great America & Old Glory,62534," 57, 121,  59"
+1645,211851,Great America & Mission College,62535," 57, 121,  20"
+1646,212151,Bowers & Scott,62536,57
+1647,212151,Bowers & Central,62537,57
+1648,212151,Bowers & Kifer,62538,57
+1649,212151,Bowers & Chromite,62539,57
+1650,212151,Bowers & Cabrillo,62540,57
+1651,212151,Bowers & Warburton,62541,57
+1652,212151,Kiely & El Camino,62542,57
+1653,212151,Kiely & El Sobrante,62543,57
+1654,212151,Kiely & Homestead,62544,57
+1655,212151,Kiely & Ruth,62545,57
+1656,212151,Kiely & Forbes,62546,57
+1657,212151,Kiely & Pruneridge,62547,57
+1658,212151,Kiely & Mauricia,62548,57
+1659,212151,Kiely & Stevens Creek,62549,57
+1660,212151,Saratoga & Kiely,62550,57
+1661,212151,Saratoga & Moorpark,62551,57
+1662,212151,Saratoga & Manzanita,62552,57
+1663,212151,Saratoga & Williams,62553,57
+1664,212151,Saratoga & Venice,62554,57
+1665,212151,Saratoga & Payne,62555,57
+1666,212151,Saratoga & Latimer,62556,57
+1667,212151,Saratoga & Country,62557,57
+1668,212151,Saratoga & Atherton,62558,57
+1669,212151,Saratoga & Graves,62559,57
+1670,212151,Saratoga & Prospect,62560,57
+1671,212151,Quito & Saratoga,62561,57
+1672,212151,Quito & Paseo Flores,62562,57
+1673,212151,Quito & Paseo Olivos,62563,57
+1674,212151,Quito & Paseo Tierra,62564,57
+1675,212151,Quito & Clemson,62565,57
+1676,212151,Quito & Sousa,62566,57
+1677,212151,Quito & Aspesi,62567,57
+1678,212151,Quito & Montpere,62568,57
+1679,212011,Allendale & Chester,62569," 37,  57"
+1680,212011,Allendale & Portos,62570," 37,  57"
+1681,211930,Saratoga & Kerwin Ranch Court,62571,26
+1682,211930,Saratoga & Dagmar,62572,26
+1683,211930,Saratoga & Highway 85,62573,26
+1684,211930,Saratoga & Cox,62574,26
+1685,211930,Saratoga & Bucknall,62575,26
+1686,211930,Saratoga & Quito,62576,26
+1687,212161,1st & Rose Orchard,62584,59
+1688,212161,1st & Rose Orchard,62585,59
+1689,212161,1st & Holger,62586,59
+1690,212161,1st & Nortech,62587,59
+1691,212161,1st & Tony P. Santos,62588,59
+1692,212161,1st @ Alviso Park,62589,59
+1693,212161,1st & Grand,62590,59
+1694,212160,Gold & Taylor,62591,59
+1695,212160,Liberty & Taylor,62598,59
+1696,212160,1st & Nortech,62599,59
+1697,212160,1st & Lamplighter,62600,59
+1698,212160,1st & Vista Montana,62601,59
+1699,212160,1st & Rose Orchard,62602,59
+1700,212160,1st & Nicholson,62603,59
+1701,212160,Tasman & 1st,62604,"825,  59"
+1702,212531,1st & River Oaks,62606, 
+1703,211851,Montague & 1st,62607,20
+1704,211931,Saratoga & Lawrence,62616,26
+1705,211931,Saratoga & Kosich,62617,26
+1706,211931,Saratoga & Wooddell,62618,26
+1707,211931,Saratoga & Cox,62619,26
+1708,211931,Saratoga & Vineyard,62620,26
+1709,211931,Saratoga & Highway 85,62621,26
+1710,211931,Saratoga & Via Monte,62622,26
+1711,212341,Old Ironsides & Tasman,62623,823
+1712,212340,Tasman & Convention Center,62624,823
+1713,211850,AGNEW & AVINA,62630,20
+1714,211850,AGNEW & GARRITY,62631,20
+1715,211850,AGNEW & SUN FIRE,62632,20
+1716,212531,1ST & KARINA,62635, 
+1717,212170,BROKAW & BERING,62636,60
+1718,212170,BROKAW & ROGERS,62638,60
+1719,212170,BROKAW & JUNCTION,62639,60
+1720,212170,BROKAW & RIDDER PARK,62640,60
+1721,212170,MURPHY & OAKLAND,62641,60
+1722,212170,MURPHY & RINGWOOD,62642,60
+1723,211950,Hostetter & Grovetree,62644," 70, 270"
+1724,211950,Hostetter & Four Oaks,62645," 70, 270"
+1725,211950,Morrill & Cropley,62650," 70, 104, 270"
+1726,211950,Morrill & Laneview,62651," 70, 270"
+1727,212291,Landess & Morrill,62652,71
+1728,212291,Landess & Ashwood,62653,71
+1729,212291,Landess & Corktree,62654,71
+1730,212291,Landess & Paris,62655,71
+1731,212291,Landess & Edgehill,62656,71
+1732,212291,Piedmont & Madrid,62657,71
+1733,212291,Piedmont & Rowley,62658,71
+1734,212291,Piedmont & Tunis,62659,71
+1735,212560,CAPITOL & TRADE ZONE,62667, 
+1736,212231,Hostetter & Capitol,62669,70
+1737,212231,Hostetter & Coral Tree,62670,70
+1738,212171,MURPHY & LUNDY,62672,60
+1739,212171,MURPHY & RINGWOOD,62673,60
+1740,212171,BROKAW & OAKLAND,62674,60
+1741,212171,BROKAW & RIDDER PARK,62675,60
+1742,212171,BROKAW & JUNCTION,62676,60
+1743,212530,1ST & KARINA,62681, 
+1744,211851,AGNEW & MONTAGUE,62683,20
+1745,211851,AGNEW & SUN FIRE,62684,20
+1746,211851,AGNEW & GARRITY,62685,20
+1747,211851,AGNEW & AVINA,62686,20
+1748,212341,Tasman & Convention Center,62694,"200, 200, 823"
+1749,211940,Los Gatos Civic Center,62695,27
+1750,211940,Main & Jackson,62696,27
+1751,211940,Los Gatos & Stacia,62697,27
+1752,211941,Winchester & Blossom Hill,62698,27
+1753,211941,Winchester & Daves,62699,27
+1754,211941,Winchester & Vineland,62700,27
+1755,211941,Winchester & Milani,62701,27
+1756,211941,Winchester & Wild,62702,27
+1757,211941,Winchester & La Rinconada,62703,27
+1758,211941,Winchester & Hacienda,62704," 27,  37"
+1759,211941,Winchester & Camden,62705," 27,  37,  37"
+1760,212170,Winchester & Budd,62706,60
+1761,212170,Winchester & Rincon,62707,60
+1762,212170,Winchester & Campbell,62708,60
+1763,212170,Winchester & Latimer,62709,60
+1764,212170,Winchester & Hamilton,62710,60
+1765,212170,Winchester & Colonial,62711,60
+1766,212170,Winchester & Driftwood,62712,60
+1767,212170,Winchester & Payne,62713,60
+1768,212170,Winchester & Walgrove,62714,60
+1769,212170,Winchester & Williams,62715,60
+1770,212170,Winchester & Moorpark,62716,60
+1771,212170,Winchester & Olsen,62717,60
+1772,212170,Winchester & Olin,62718,60
+1773,212670,Valley Fair Transit Center,62719, 
+1774,212170,Winchester & Woodland,62720,60
+1775,212170,Winchester & Kenwood,62721,60
+1776,212170,Winchester & Tulip,62722,60
+1777,212170,Winchester & Newhall,62723,60
+1778,212170,Bellomy & Winchester,62724,60
+1779,212170,Bellomy & Lincoln,62725,60
+1780,212170,Monroe & Bellomy,62726,60
+1781,212170,Monroe & Santa Clara,62727,60
+1782,212670,Santa Clara Transit Center,62728, 
+1783,211871,El Camino & Washington,62729," 22,  59"
+1784,211861,Monroe & Warburton,62730," 59,  21"
+1785,211861,Monroe & Don Avenue,62731," 59,  21"
+1786,211861,Monroe & Cabrillo,62732," 59,  21"
+1787,211861,Monroe & Scott,62733," 59,  21"
+1788,212160,Scott & Martin,62734,59
+1789,212160,Scott & Walsh,62735,59
+1790,212160,Scott & Central,62736,59
+1791,212161,Scott & Central,62737,"827, 827,  59"
+1792,212161,Scott & Walsh,62738,59
+1793,212161,Scott & Martin,62739,59
+1794,211860,Monroe & Scott,62740," 59,  21"
+1795,211860,Monroe & Stardust,62741," 59,  21"
+1796,211860,Monroe & Don Avenue,62742," 59,  21"
+1797,211870,El Camino & Monroe,62743," 22,  59"
+1798,211870,El Camino & Main,62744," 22,  59"
+1799,212161,Santa Clara Transit Center,62745,59
+1800,212171,Market & Monroe,62746,60
+1801,212171,Market & Lincoln,62747,60
+1802,212171,Winchester & Bellomy,62748,60
+1803,212171,Winchester & Newhall,62749,60
+1804,212171,Winchester & Tulip,62750,60
+1805,212171,Winchester & Dolores,62751,60
+1806,212670,Valley Fair Transit Center,62752, 
+1807,212171,Winchester & Stevens Creek,62753,60
+1808,212171,Winchester & Olsen,62754,60
+1809,212171,Winchester & Williams,62755,60
+1810,212171,Winchester & Greentree,62756,60
+1811,212171,Winchester & Payne,62757,60
+1812,212171,Winchester & Cadillac,62758,60
+1813,212171,Winchester & Impala,62759,60
+1814,211791,Winchester & Hamilton,62760," 60, 101"
+1815,212171,Winchester & Latimer,62761,60
+1816,212171,Winchester & Campbell,62762,60
+1817,212171,Winchester & Sanford,62763,60
+1818,212171,Winchester & Mission,62764,60
+1819,212171,Winchester & Catalpa,62765,60
+1820,211940,Winchester & Camden,62767," 27,  37,  37"
+1821,211940,Winchester & Friar,62768," 27,  37,  37"
+1822,211940,Winchester & Sunnyoaks,62769," 27,  37"
+1823,211940,Hacienda & Winchester,62770," 27,  37"
+1824,211940,Hacienda & Walnut,62771," 27,  37"
+1825,211940,Hacienda & Capri,62772," 27,  37"
+1826,211940,Hacienda & Via Ranchero,62773," 27,  37"
+1827,211940,Burrows & Hacienda,62774," 27,  37"
+1828,211940,Pollard & Bracebridge,62775,27
+1829,211940,Pollard & Teakwood,62776,27
+1830,211940,Knowles & Dardenelli,62777,27
+1831,211940,Knowles & Capri,62778,27
+1832,211940,Winchester & Newell,62779,27
+1833,211940,Winchester & La Rinconada,62780,27
+1834,211940,Winchester & Eaton,62781,27
+1835,211940,Winchester & Valley Oak,62782,27
+1836,211940,Winchester & Vineland,62783,27
+1837,211940,Winchester & Daves,62784,27
+1838,211941,Los Gatos & Simons,62787,27
+1839,211941,Main & Pleasant,62788,27
+1840,211941,Main & Fiesta,62789,27
+1841,211941,Main & Church,62790,27
+1842,211941,Santa Cruz & Main,62791,27
+1843,211940,Los Gatos & Fillmer,62792,27
+1844,211940,Los Gatos & Nino,62793,27
+1845,211940,Los Gatos & Magneson,62794,27
+1846,211940,Los Gatos & Los Gatos-Almaden,62795,27
+1847,211940,Los Gatos & Los Gatos-Almaden,62796,27
+1848,211940,Los Gatos @ Village Square,62797,27
+1849,211940,Los Gatos & Gateway,62798,27
+1850,211940,Los Gatos & Lark,62799,27
+1851,212180,Bascom & Samaritan,62800,61
+1852,212180,Bascom & Apsis,62801,61
+1853,212180,Bascom & White Oaks,62802,61
+1854,212180,Bascom & Woodard,62803,61
+1855,212180,Bascom & Shelley,62804,61
+1856,212180,Bascom & Jewell,62805,61
+1857,212180,Union & Stratford,62806,61
+1858,212180,Union & Woodard,62807,61
+1859,212180,Union & Camden,62808,61
+1860,212180,Union & Cambriana,62809,61
+1861,212180,Union & Foxworthy,62810,61
+1862,212180,Union & Lantz,62811,61
+1863,212180,Bascom & Curtner,62812,61
+1864,212180,Bascom & Campbell,62813,61
+1865,212180,Bascom & Campisi,62814,61
+1866,212180,Bascom & Hamilton,62815,61
+1867,212180,Bascom & Pamlar,62816,61
+1868,212180,Bascom & Stokes,62817,61
+1869,212180,Bascom & Downing,62818,61
+1870,212180,Bascom & Leon,62819,61
+1871,212180,Bascom & Renova,62821,61
+1872,212180,Bascom & Basile,62822,61
+1873,212180,Bascom & Scott,62823,61
+1874,212180,Bascom & Elliott,62824,61
+1875,212180,Bascom & San Carlos,62825,61
+1876,212180,Bascom & Olive,62826,61
+1877,212180,Bascom & Forest,62827,61
+1878,212180,Hedding & Guadalupe,62828,61
+1879,212180,Hedding & San Pedro,62829,61
+1880,212180,Taylor & 1st,62830,61
+1881,212180,Taylor & 4th,62831,61
+1882,212180,Taylor & 7th,62832,61
+1883,212180,Taylor & 10th,62833,61
+1884,212180,Taylor & 13th,62834,61
+1885,212180,Taylor & 17th,62835,61
+1886,212180,Taylor & 21st,62836," 61,  61"
+1887,212180,Berryessa & King,62839," 61,  70"
+1888,212180,Berryessa & Junesong,62840," 61,  70"
+1889,212180,Berryessa & Jackson,62841,61
+1890,212180,Berryessa & Capitol,62842," 61, 104"
+1891,212180,Berryessa & Sandston,62843,61
+1892,212180,MORRILL & BERRYESSA,62844,61
+1893,212180,Sierra & San Moritz,62846,61
+1894,212180,Sierra & Matterhorn,62847,61
+1895,212180,Sierra & Sabal,62848,61
+1896,212181,Berryessa & Piedmont,62850,61
+1897,212181,Berryessa & Sabal,62851,61
+1898,212181,Berryessa & Matterhorn,62852,61
+1899,212181,Berryessa & Morrill,62853,61
+1900,212181,Berryessa & Capitol,62854,61
+1901,212181,Berryessa & Pembroke,62855,61
+1902,212181,Berryessa & Flickinger,62856," 61,  70"
+1903,212181,Berryessa & Junesong,62857," 61,  70"
+1904,212181,Taylor & 21st,62861,61
+1905,212181,Taylor & 18th,62862,61
+1906,212181,Taylor & 14th,62863,61
+1907,212181,Taylor & 11th,62864," 61, 500"
+1908,212181,Taylor & 7th,62865,61
+1909,212181,Taylor & 4th,62866,61
+1910,212181,1st & Taylor,62867,61
+1911,212181,Hedding & San Pedro,62868,61
+1912,212181,Bascom & Naglee,62869,61
+1913,212181,Bascom & Olive,62870,61
+1914,212181,Bascom & San Carlos,62871,61
+1915,212181,Bascom & Elliott,62872,61
+1916,212181,Bascom & Scott,62873,61
+1917,211910,Bascom & Moorpark,62874,61
+1918,212181,Bascom & Fruitdale,62875,61
+1919,212181,Bascom & Leon,62876,61
+1920,212181,Bascom & Eisenhower,62877,61
+1921,212181,Bascom & Stokes,62878,61
+1922,212181,Bascom & Pamlar,62879,61
+1923,212181,Bascom & Southwest Expressway,62880,61
+1924,212181,Bascom & Campisi,62881,61
+1925,212181,Bascom & Fewtrell,62882,61
+1926,212181,Union & Lantz,62883,61
+1927,212181,Union & Stratford,62884,61
+1928,212181,Union & Barrett,62885,61
+1929,212181,Bascom & Union,62886,61
+1930,212181,Bascom & Curtner,62887,61
+1931,212181,Bascom & Shamrock,62888,61
+1932,212181,Bascom & Camden,62889,61
+1933,212181,Bascom & Shelley,62890,61
+1934,212181,Bascom & Woodard,62891,61
+1935,212181,Bascom & White Oaks,62892,61
+1936,211941,Los Gatos & Garden,62893,27
+1937,211941,Los Gatos & Garden,62894,27
+1938,211941,Los Gatos & Roberts,62895,27
+1939,211941,Los Gatos & Nino,62896,27
+1940,211941,Los Gatos & Caldwell,62897,27
+1941,212200,Crown & Almaden,62900,64
+1942,212200,Camden & Trinidad,62901," 83, 64A"
+1943,212200,Camden & Little Falls,62902," 83, 64A"
+1944,212200,Camden & McAbee,62903," 83, 64A"
+1945,212200,Camden & Meridian,62904,64A
+1946,212200,Meridian & Paso Los Cerritos,62905,64A
+1947,212200,Meridian & Redmond,62906,64A
+1948,212200,Meridian & Oakglen,62907,64A
+1949,212200,Meridian & Torrington,62908,64A
+1950,212200,Meridian & Oslo,62909,64A
+1951,212200,Meridian & Dentwood,62910," 63, 64A"
+1952,212200,Meridian & Portobello,62911," 63, 64A"
+1953,212200,Meridian & Branham,62912," 63, 64A"
+1954,212200,Meridian & Ilikai,62913," 63, 64A"
+1955,212200,Meridian & Hallbrook,62914," 63, 64A"
+1956,212200,Meridian & Willowgate,62915," 63, 64A"
+1957,212200,Meridian & Willowmont,62916," 63, 64A"
+1958,212200,Meridian & Hillsdale,62917," 63, 64A"
+1959,212200,Meridian & Foxworthy,62918," 63, 64A"
+1960,212200,Meridian & Husted,62919," 63, 64A"
+1961,212200,Meridian & Andalusia,62920," 63, 64A"
+1962,212200,Meridian & Curtner,62921," 63, 64A"
+1963,212200,Meridian & Maykirk,62922," 63, 64A"
+1964,212200,Meridian & Dry Creek,62923," 63, 64A"
+1965,212200,Meridian & Gaton,62924," 63, 64A"
+1966,212200,Meridian & Hamilton,62925," 63, 64A"
+1967,212200,Meridian & Willowbrae,62926," 63, 64A"
+1968,212200,Meridian & Minnesota,62927," 63, 64A"
+1969,212200,Meridian & Fruitdale,62928," 63, 64A"
+1970,212200,Meridian & Harmon,62929," 63, 64A"
+1971,212200,Race & San Carlos,62932," 63, 64A"
+1972,212200,Race & Park,62933," 63, 64A"
+1973,212200,Race & Yosemite,62934," 63, 64A"
+1974,212200,Race & The Alameda,62935," 63, 64A"
+1975,212200,San Jose Diridon Station (Bay 7),62936," 63,  65,  65"
+1976,212680,7Th & Santa Clara,62943," 63,  63"
+1977,212300,San Fernando & 7th,62944," 63,  64,  65,  72,  73, 64A"
+1978,212550,San Fernando & Delmas,62951," 63,  64,  65, 703, 703, 64A"
+1979,212201,Race & Yosemite,62952," 63, 64A"
+1980,212201,Race & Park,62953," 63, 64A"
+1981,212201,Race & San Carlos,62954," 63, 64A"
+1982,212201,Meridian & Parkmoor,62957," 63, 64A"
+1983,212201,Meridian & Willow,62958," 63, 64A"
+1984,212201,Meridian & Isabel,62959," 63, 64A"
+1985,212201,Meridian & Blackford,62960," 63, 64A"
+1986,212201,Meridian & Hamilton,62961," 63, 64A"
+1987,212201,Meridian & Mount Vernon,62962," 63, 64A"
+1988,212201,Meridian & Dry Creek,62963," 63, 64A"
+1989,212201,Meridian & Maykirk,62964," 63, 64A"
+1990,212201,Meridian & Curtner,62965," 63, 64A"
+1991,212201,Meridian & Harte,62966," 63, 64A"
+1992,212201,Meridian & Husted,62967," 63, 64A"
+1993,212201,Meridian & Foxworthy,62968," 63, 64A"
+1994,212201,Meridian & Hillsdale,62969," 63, 64A"
+1995,212201,Meridian & Willowmont,62971," 63, 64A"
+1996,212201,Meridian & Jacob,62972," 63, 64A"
+1997,212201,Meridian & Hallbrook,62973," 63, 64A"
+1998,212201,Meridian & Corte De Pons,62974," 63, 64A"
+1999,212201,Meridian & Corte De Callas,62975," 63, 64A"
+2000,212201,Meridian & Branham,62976," 63, 64A"
+2001,212201,Meridian & Portobello,62977," 63, 64A"
+2002,212201,Meridian & Dentwood,62978," 63, 64A"
+2003,212201,Meridian & Princeton,62979,64A
+2004,212201,Meridian & Blossom Hill,62980,64A
+2005,212201,Meridian & Oslo,62981,64A
+2006,212201,Meridian & Torrington,62982,64A
+2007,212201,Meridian & Oakglen,62983,64A
+2008,212201,Meridian & Redmond,62984,64A
+2009,212201,Meridian & Paso Los Cerritos,62985,64A
+2010,212201,Camden & Leyland Park,62986,64A
+2011,212201,Camden & McAbee,62987,64A
+2012,212401,Camden & Crystal Springs,62988," 83, 64A"
+2013,212201,Camden & Trinidad,62989," 83, 64A"
+2014,212670,Almaden Station,62994,64
+2015,212190,Almaden & Coleman,62995," 83,  64, 64A"
+2016,212190,Almaden & Via Monte,62996," 83,  64, 64A"
+2017,212190,Almaden & Blossom Hill,62997," 83,  64, 64A"
+2018,212190,Almaden & Foxchase,62998," 64, 64A"
+2019,212190,Almaden & Chynoweth,62999," 64, 64A"
+2020,212190,Almaden & Branham,63000," 64, 64A"
+2021,212190,Almaden & Chard,63001," 64, 64A"
+2022,212010,Almaden & Foxworthy,63002," 37,  64, 64A"
+2023,212190,Lincoln & Mayette,63003," 64, 64A"
+2024,212190,Lincoln & Curtner,63004," 64, 64A"
+2025,212190,Lincoln & Lincoln,63005," 64, 64A"
+2026,212190,Lincoln & Malone,63007," 64, 64A"
+2027,212190,Lincoln & Byerley,63008," 64, 64A"
+2028,212190,Lincoln & Pine,63009," 64, 64A"
+2029,212190,Lincoln & Willow Glen,63010," 64, 64A"
+2030,212190,Lincoln & California,63011," 64, 64A"
+2031,212190,Lincoln & Minnesota,63012," 64, 64A"
+2032,212190,Lincoln & Brace,63013," 64, 64A"
+2033,212190,Lincoln & Willow,63015," 64, 64A"
+2034,212190,Lincoln & Broadway,63016," 64, 64A"
+2035,212190,Coe & Lincoln,63017," 64, 64A"
+2036,212190,Coe & Leona,63018," 64, 64A"
+2037,212190,Coe & Clintonia,63019," 64, 64A"
+2038,212190,Bird & Atlanta,63020," 64, 64A"
+2039,212190,Bird & Fuller,63021," 64, 64A"
+2040,212190,Bird & Virginia,63022," 64, 64A"
+2041,212190,Montgomery & San Carlos,63023," 64,  65, 64A"
+2042,212190,Autumn & Park,63024," 64,  65, 64A"
+2043,212190,San Jose Diridon Station (Bay 8),63025,64
+2044,211880,Alum Rock & King,63026,23
+2045,211880,Alum Rock & McCreery,63027,23
+2046,211880,Alum Rock & Checkers,63028,23
+2047,211880,Alum Rock & Jose Figueres,63029,23
+2048,211880,Alum Rock & Jackson,63030,23
+2049,211880,Alum Rock & Muirfield,63031,23
+2050,212291,White & Gay,63036,71
+2051,212291,White & Alum Rock,63037,71
+2052,211911,Alum Rock & Capitol,63038,25
+2053,211911,Alum Rock & Pleasantridge,63039,25
+2054,211911,Alum Rock & Cedar,63040,25
+2055,211911,Alum Rock & White,63041,25
+2056,211910,Alum Rock & White,63062,25
+2057,211910,Alum Rock & Cedar,63063,25
+2058,211910,Alum Rock & Pleasantridge,63064,25
+2059,211881,Alum Rock & Capitol,63065,23
+2060,211881,ALUM ROCK & ALEXANDER,63066, 
+2061,211881,Alum Rock & Jackson,63067,23
+2062,211881,Alum Rock & Jose Figueres,63069,23
+2063,211881,Alum Rock & Sunset,63070,23
+2064,211881,Alum Rock & McCreery,63071,23
+2065,212070,San Jose Diridon Station (Bay 12),63072,"500, 500"
+2066,212191,Montgomery & Park,63073," 64,  65, 64A"
+2067,212191,Bird & San Carlos,63074," 64, 64A"
+2068,212191,Bird & Virginia,63075," 64, 64A"
+2069,212191,Coe & Clintonia,63078," 64, 64A"
+2070,212191,Coe & Leona,63079," 64, 64A"
+2071,212191,Lincoln & Coe,63080," 64, 64A"
+2072,212191,Lincoln & Lester,63081," 64, 64A"
+2073,212191,Lincoln & Willow,63082," 64, 64A"
+2074,212191,Lincoln & Brace,63084," 64, 64A"
+2075,212191,Lincoln & Minnesota,63085," 64, 64A"
+2076,212191,Lincoln & Willow Glen,63086," 64, 64A"
+2077,212191,Lincoln & Pine,63087," 64, 64A"
+2078,212191,Lincoln & Clark,63088," 64, 64A"
+2079,212191,Lincoln & Malone,63089," 64, 64A"
+2080,212191,Lincoln & Lincoln,63090," 64, 64A"
+2081,212191,Lincoln & Curtner,63091," 64, 64A"
+2082,212191,Lincoln & Pascoe,63092," 64, 64A"
+2083,212191,Lincoln & Mayette,63093," 64, 64A"
+2084,212011,Almaden & Foxworthy,63094," 37,  64, 64A"
+2085,212191,Almaden & Newberry,63095," 64, 64A"
+2086,212191,Almaden & Bryan,63096," 64, 64A"
+2087,212191,Almaden & Branham,63097," 64, 64A"
+2088,212191,Almaden & Cherry,63098," 64, 64A"
+2089,212191,Almaden Fashion Plaza,63099," 64, 64A"
+2090,212191,Almaden & Blossom Hill,63100," 83,  64, 64A"
+2091,212191,Almaden & Via Monte,63101," 83,  64, 64A"
+2092,212670,Almaden Station,63102,64
+2093,212191,San Jose Diridon Station (Bay 6),63139,64
+2094,212200,7th & Santa Clara,63141," 64,  65,  65, 64A, 64A"
+2095,212210,Santa Teresa & Cottle,63177,66
+2096,212210,Santa Teresa & Emlyn,63179,66
+2097,211800,Santa Teresa & Lean,63181," 66, 102, 122"
+2098,212210,Santa Teresa & Dunn,63183,66
+2099,211800,Snell & Santa Teresa,63185," 66, 102, 122"
+2100,212210,Snell & Calero,63186,66
+2101,212210,Snell Station,63187,66
+2102,212210,Snell & Blossom Hill,63188," 66, 122"
+2103,212210,Snell & Chynoweth,63189,66
+2104,212210,Snell & Branham,63191," 66, 122"
+2105,212210,Skyway & Illsley,63192,66
+2106,212210,Skyway & Park Paxton,63193,66
+2107,212210,Monterey & Rancho,63195," 66,  68"
+2108,212210,Monterey & Fehren,63196," 66,  68"
+2109,212210,Monterey & Southside,63197," 66,  68"
+2110,212210,Monterey & Lewis,63198," 66,  68"
+2111,212210,Monterey & Lewis,63199," 66,  68"
+2112,212210,Monterey & Umbarger,63200," 66,  68"
+2113,212210,Monterey & Old Tully,63201," 66,  68"
+2114,212210,Monterey & Tully,63202," 66,  68"
+2115,212210,Monterey & Railroad Crossing,63203," 66,  68"
+2116,212210,Monterey & Phelan,63204," 66,  68"
+2117,211920,1st & Alma,63206," 66,  68, 256"
+2118,211920,1st & Keyes,63207," 66,  68, 256"
+2119,212210,1st & Martha,63208," 66,  68"
+2120,212210,1st & Virginia,63209," 66,  68"
+2121,212210,1st & Reed,63211," 66,  68"
+2122,212210,1st & San Salvador,63212," 66,  68"
+2123,212210,1st & Santa Clara,63213," 72,  73"
+2124,212530,1st & Saint James,63214, 
+2125,212530,1st & Empire,63215, 
+2126,212210,Oakland & Madera,63217,66
+2127,212210,Oakland & Charles,63218,66
+2128,212210,Oakland & Gish,63219,66
+2129,212210,Oakland & Berger,63220,66
+2130,212210,Oakland & Corie,63222,66
+2131,212210,Oakland & Brokaw,63223,66
+2132,212210,Oakland & Rock,63226,66
+2133,212210,Oakland & Calle Artis,63227,66
+2134,212210,Oakland & Atteberry,63228,66
+2135,212210,Main & Montague,63230,66
+2136,212210,Main & Cedar,63231,66
+2137,212051,GREAT MALL & ABEL,63233,44
+2138,212210,Main & Great Mall Parkway,63234,66
+2139,212210,Main & Curtis,63236,66
+2140,212210,Main & Curtis,63237,66
+2141,212210,Main & Corning,63238,66
+2142,212211,Main & Corning,63241,66
+2143,212211,Main & Corning,63242,66
+2144,212211,Main & Curtis,63243,66
+2145,212211,MAIN & GREAT MALL DRIVE,63244,66
+2146,212050,GREAT MALL & MAIN,63245,44
+2147,212211,Main & Cedar,63248," 66,  66"
+2148,212211,Oakland & Montague,63249,66
+2149,212211,Oakland & Casa De Lago,63251,66
+2150,212211,Oakland & Rock,63252,66
+2151,212211,Oakland & Fox,63254,66
+2152,212211,Oakland & Fox,63255,66
+2153,212211,Oakland & Brokaw,63256,66
+2154,212211,Oakland & Brokaw,63257,66
+2155,212211,Oakland & County Services Center,63258,66
+2156,212211,Oakland & Gish,63259,66
+2157,212211,Oakland & Charles,63260,66
+2158,212211,Oakland & Horning,63261,66
+2159,212531,1st & Hawthorn,63263, 
+2160,212531,2nd & Santa Clara,63264, 
+2161,212211,2nd & San Carlos,63265," 66,  68"
+2162,212211,2nd & San Salvador,63266," 66,  68"
+2163,212211,2nd & William,63267," 66,  68"
+2164,212211,1st & Virginia,63268," 66,  68"
+2165,212211,1st & Oak,63269," 66,  68"
+2166,211921,1st & Goodyear,63271," 66,  68, 256"
+2167,211921,1st & Floyd,63273," 66,  68, 256"
+2168,212211,Monterey & Phelan,63276," 66,  68"
+2169,212211,Monterey & Stauffer,63277," 66,  68"
+2170,212211,Monterey & Railroad Crossing,63278," 66,  68"
+2171,212211,Monterey & Curtner,63279," 66,  68"
+2172,212211,Monterey & Old Tully,63280," 66,  68"
+2173,212211,Monterey & Esfahan,63281," 66,  68"
+2174,212211,Monterey & Montecito Vista,63282," 66,  68"
+2175,212211,Monterey & Lewis,63283," 66,  68"
+2176,212211,Monterey & Southside,63284," 66,  68"
+2177,212211,Monterey & Fehren,63285," 66,  68"
+2178,212211,Monterey & Rancho,63286," 66,  68"
+2179,212211,Skyway & Monterey,63287,66
+2180,212211,Skyway & Silverberry,63288,66
+2181,212211,Snell & Branham,63289," 66, 122"
+2182,212211,Snell & Chynoweth,63291,66
+2183,212211,Snell & Giuffrida,63292," 66, 122"
+2184,212211,Snell Station,63293,66
+2185,212211,Snell & Calero,63294,66
+2186,211801,Snell & Shawcroft,63295," 66, 102, 122"
+2187,212211,Santa Teresa & Snell,63296," 66, 266"
+2188,212211,Santa Teresa & Dunn,63298," 66, 266"
+2189,211801,Santa Teresa & Lean,63300," 66, 102, 122, 266"
+2190,212211,Santa Teresa & Madison,63302," 66, 266"
+2191,212530,Santa Teresa Station,63304," 42,  42"
+2192,212220,Santa Teresa & Miyuki,63305,68
+2193,212220,Santa Teresa & Del Canto,63306,68
+2194,212670,Ohlone-Chynoweth Light Rail Station,63317, 
+2195,212290,Capitol Station,63325," 71,  71"
+2196,212190,Ohlone-Chynoweth Light Rail Station,63332,64A
+2197,212221,Santa Teresa & Encinal,63343," 68, 266"
+2198,212440,Gavilan College,63344," 86,  86"
+2199,212440,Thomas & Santa Teresa,63346,86
+2200,212440,Thomas & Oak Brook,63347,86
+2201,212440,Princevalle & 10th,63348,86
+2202,212440,10th & Hanna,63349,86
+2203,212440,10th & Church,63350,86
+2204,212421,Monterey & 10th,63351," 84,  86"
+2205,212220,Gilroy Transit Center,63352," 68,  68"
+2206,212220,Monterey & 1st,63356,68
+2207,212220,Monterey & 3rd,63357,68
+2208,211840,Monterey & Howson,63358," 68, 121, 168, 185"
+2209,212220,Monterey & Leavesley,63359,68
+2210,212220,Monterey & Ronan,63360,68
+2211,212220,Monterey & Las Animas,63361,68
+2212,212220,Monterey & Farrell,63362,68
+2213,212220,Monterey & Cohansey,63363,68
+2214,212220,Monterey & Buena Vista,63364,68
+2215,212220,Monterey & Rucker,63365,68
+2216,212220,Monterey & Masten,63366,68
+2217,212220,Monterey & Church,63367,68
+2218,212220,Monterey & Highland,63368,68
+2219,212220,Monterey & Highland,63369,68
+2220,212220,Monterey & Cox,63370,68
+2221,211840,Monterey & San Martin,63371," 68, 121, 168, 185"
+2222,212220,Monterey & Roosevelt,63372,68
+2223,212220,Monterey & California,63373,68
+2224,212220,Monterey & Crowner,63374,68
+2225,212220,Monterey & East Middle,63375,68
+2226,212220,Monterey & West Middle,63376,68
+2227,212220,Monterey & Maple Leaf,63377,68
+2228,212220,Monterey & Watsonville,63378,68
+2229,211840,Monterey & Tennant,63379," 68, 121, 168, 185"
+2230,212220,Monterey & Cosmo,63380,68
+2231,212220,Monterey & Bisceglia,63381,68
+2232,212220,Hale & Wright,63382,68
+2233,212220,Hale & Llagas,63384,68
+2234,212220,Hale & Tilton,63386,68
+2235,212220,Hale & Willow Spring,63387,68
+2236,212220,Hale & Madrone,63388,68
+2237,212220,Hale & Live Oak,63389,68
+2238,212220,Hale & Miramonte,63390,68
+2239,212220,Hale & San Bruno,63391,68
+2240,212220,Hale & Kalana,63392,68
+2241,212220,Santa Teresa & Palm,63393,68
+2242,212220,Santa Teresa & Scheller,63394,68
+2243,212220,Santa Teresa & Richmond,63395,68
+2244,212220,Santa Teresa & Laguna,63396,68
+2245,212220,Santa Teresa & Bailey,63397,68
+2246,212220,Santa Teresa & Cheltenham,63399,68
+2247,212220,Santa Teresa & Avenida Espana,63400,68
+2248,212220,Santa Teresa & Chantilley,63401,68
+2249,212220,Santa Teresa & Bernal,63402," 68, 182"
+2250,212220,Santa Teresa & Martinvale,63403,68
+2251,212220,Santa Teresa & Great Oaks,63404,68
+2252,212220,Santa Teresa & San Ignacio,63405,68
+2253,212220,Santa Teresa Station,63406,68
+2254,212220,Cottle & Great Oaks,63407," 27,  68"
+2255,212040,Monterey & Blossom Hill,63408," 42,  68"
+2256,212040,Monterey & Roeder,63409," 42,  68"
+2257,212220,Monterey & Roeder,63410,68
+2258,212220,Monterey & Edenview,63411,68
+2259,212220,Monterey & Bougainvillea,63412,68
+2260,212220,San Jose Diridon Station (Bay 10),63413," 68,  68"
+2261,212221,Monterey & Branham,63414,68
+2262,212221,Monterey & Bougainvillea,63415,68
+2263,212221,Monterey & Edenview,63416,68
+2264,212041,Monterey & Chynoweth,63417," 42,  68"
+2265,212221,Santa Teresa Station,63418," 68, 266"
+2266,212221,Santa Teresa & San Ignacio,63419," 68, 266"
+2267,212221,Santa Teresa & Vineyard,63420," 68, 266"
+2268,212221,Santa Teresa & Martinvale,63421," 68, 266"
+2269,212221,Santa Teresa & Bernal,63422," 68, 182, 266"
+2270,212221,Santa Teresa & Chantilley,63423,68
+2271,212221,Santa Teresa & Avenida Espana,63424,68
+2272,212221,Santa Teresa & Cheltenham,63425,68
+2273,212221,Santa Teresa & Bailey,63427,68
+2274,212221,Santa Teresa & Laguna,63428,68
+2275,212221,Santa Teresa & Richmond,63429,68
+2276,212221,Santa Teresa & Scheller,63430,68
+2277,212221,Santa Teresa & Palm,63431,68
+2278,212221,Hale & Kalana,63432,68
+2279,212221,Hale & San Bruno,63433,68
+2280,212221,Hale & Miramonte,63434,68
+2281,212221,Hale & Live Oak,63435,68
+2282,212221,Hale & Madrone,63436,68
+2283,212221,Hale & Willow Spring,63437,68
+2284,212221,Hale & Tilton,63438,68
+2285,212221,Hale & Llagas,63440,68
+2286,212221,Hale & Wright,63441,68
+2287,211961,Monterey & Dunne,63443," 68, 287"
+2288,211961,Monterey & Spring,63444," 68, 287"
+2289,211961,Monterey & Cosmo,63445," 68, 287"
+2290,211841,Monterey & Edmundson,63446," 68, 121, 168, 185, 287"
+2291,211961,Monterey & Vineyard,63447," 68, 287"
+2292,211961,Monterey & Watsonville,63448," 68, 287"
+2293,211961,Monterey & John Wilson Way,63449," 68, 287"
+2294,211961,Monterey & John Wilson Way,63450," 68, 287"
+2295,211961,Monterey & East Middle,63452," 68, 287"
+2296,211961,Monterey & Crowner,63453," 68, 287"
+2297,211961,Monterey & California,63454," 68, 287"
+2298,211961,Monterey & Roosevelt,63455," 68, 287"
+2299,211841,Monterey & San Martin,63456," 68, 121, 168, 185, 287"
+2300,212221,Monterey & Cox,63457,68
+2301,212221,Monterey & Cox,63458,68
+2302,212221,Monterey & Highland,63459,68
+2303,212221,Monterey & Church,63460,68
+2304,212221,Monterey & Fitzgerald,63461,68
+2305,212221,Monterey & Rucker,63462,68
+2306,212221,Monterey & Buena Vista,63463,68
+2307,212221,Monterey & Cohansey,63464,68
+2308,212221,Monterey & Ronan,63465,68
+2309,212221,Monterey & Pierce,63466,68
+2310,212221,Monterey & Welburn,63467," 85,  68"
+2311,211841,Monterey & Howson,63468," 68, 121, 168, 185"
+2312,212221,Monterey & 1st,63469,68
+2313,212221,Monterey & 2nd,63470,68
+2314,212670,Gilroy Caltrain Station,63474, 
+2315,212420,Monterey & 9th,63475,86
+2316,212441,10th & Monterey,63476,86
+2317,212441,10th & Hanna,63477,86
+2318,212441,Princevalle & 10th,63478,86
+2319,212441,Princevalle & Johnson,63479,86
+2320,212441,Thomas & Oakbrook,63480,86
+2321,212441,Thomas & Vinca,63481,86
+2322,212441,Thomas & Alder,63482,86
+2323,212441,Santa Teresa & Thomas,63483,86
+2324,212530,Capitol Station,63485, 
+2325,212040,Senter & Monterey,63486," 42,  71"
+2326,212290,Senter & Ezie,63487," 71,  72,  73"
+2327,212290,Senter & San Ramon,63488," 71,  72,  73"
+2328,212290,Senter & Coyote,63489," 71,  72,  73"
+2329,212290,Senter & Nokomis,63490," 71,  72,  73"
+2330,212290,Senter & Hellyer,63491," 71,  72,  73"
+2331,212290,Senter & Sylvandale,63492," 71,  73"
+2332,212290,Senter & Singleton,63493," 71,  73"
+2333,212040,Capitol & Senter,63494," 42,  71"
+2334,212040,Capitol & McLaughlin,63495," 42,  71, 122"
+2335,212040,Capitol & Highway 101,63496,42
+2336,212230,Adrian & Ocala,63500,70
+2337,212230,Adrian & Sullivan,63501,70
+2338,212230,Adrian & Gainsville,63502,70
+2339,212230,Adrian & Amador,63503,70
+2340,212230,Jackson & Story,63504,70
+2341,212230,Jackson & Bambi,63505,70
+2342,212230,Jackson & Kammerer,63506,70
+2343,212230,Jackson & San Fernando,63507,70
+2344,212230,Jackson & Alum Rock,63508," 70,  70"
+2345,212230,Jackson & Madden,63509,70
+2346,212230,Jackson & Mammoth,63510,70
+2347,212230,Jackson & McKee,63511," 70,  70"
+2348,211950,Jackson & Brushglen,63512," 70,  70, 270"
+2349,211950,Jackson & Ashglen,63513," 70,  70, 270"
+2350,211950,Flickinger & Berryessa,63516," 70, 270"
+2351,211950,Flickinger & Hikido,63517," 70, 270"
+2352,211950,Flickinger & Wizard,63518," 70, 270"
+2353,211950,Flickinger & Villagetree,63519," 70, 270"
+2354,211950,Hostetter & Capitol,63520," 70, 270"
+2355,211950,Hostetter & Agua Vista,63521," 70, 270"
+2356,211950,Morrill & Knights Bridge,63522," 70, 104, 270"
+2357,211950,Morrill & Tobin,63523," 70, 270"
+2358,211901,Landess & Park Victoria,63524," 47,  70,  71, 104, 247, 270"
+2359,211900,Park Victoria & Landess,63525," 47, 247"
+2360,211900,Park Victoria & Clear Lake,63526," 47, 247"
+2361,211900,Park Victoria & Yellowstone,63527," 47, 247"
+2362,211900,Park Victoria & Lassen,63528," 47, 247"
+2363,211900,Park Victoria & Yosemite,63529," 47, 247"
+2364,211900,Park Victoria & Edsel,63530," 47, 247"
+2365,212060,Calaveras & Park Victoria,63531,47
+2366,212060,Calaveras & Hillview,63532,47
+2367,212060,Calaveras & Milpitas,63533,47
+2368,212061,Calaveras & Milpitas,63542,47
+2369,212061,Calaveras & Hillview,63543,47
+2370,212061,Dempsey & Park Victoria,63544,47
+2371,211901,Park Victoria & Edsel,63545," 47, 247"
+2372,211901,Park Victoria & Yosemite,63546," 47, 247"
+2373,211901,Park Victoria & Acadia,63547," 47, 247"
+2374,211901,Park Victoria & Yellowstone,63548," 47, 247"
+2375,211901,Park Victoria & Big Basin,63549," 47, 247"
+2376,212231,Morrill & Landess,63550," 70, 104"
+2377,212231,Morrill & Capewood,63551,70
+2378,212231,Morrill & Cropley,63552," 70, 104"
+2379,212231,Morrill & Valhalla,63553,70
+2380,212231,Morrill & Cataldi,63554," 70, 104"
+2381,212231,Morrill & Hostetter,63555,70
+2382,212231,Hostetter & Agua Vista,63556,70
+2383,212231,Flickinger & Villagetree,63557,70
+2384,212231,Flickinger & Lowney,63558,70
+2385,212231,Flickinger & Sierra,63559,70
+2386,212231,Flickinger & Hikido,63560,70
+2387,212231,Jackson & Mabury,63563," 70,  70"
+2388,212231,Jackson & Ashglen,63564,70
+2389,212231,Jackson & Lanning,63565," 70,  70"
+2390,212231,Jackson & McKee,63566," 70,  70"
+2391,212231,Jackson & San Jose Regional Medical Center,63567,70
+2392,212231,Jackson & Alexian,63568,70
+2393,212231,Jackson & Alum Rock,63569," 70,  70"
+2394,212231,Jackson & Woodset,63570,70
+2395,212231,Jackson & Kammerer,63571,70
+2396,212231,Jackson & Bambi,63572,70
+2397,212231,Jackson & Story,63573,70
+2398,212231,Adrian & Amador,63574,70
+2399,212231,Adrian & Newton,63575,70
+2400,212231,Adrian & Sullivan,63576,70
+2401,212041,Capitol & McLaughlin,63582," 42,  71, 122"
+2402,212291,Senter & Capitol,63583," 71,  73"
+2403,212291,Senter & Singleton,63584," 71,  73"
+2404,212291,Senter & Buckeye,63585," 71,  72,  73"
+2405,212291,Senter & Forestbrook,63586," 71,  72,  73"
+2406,212291,Senter & El Cajon,63587," 71,  72,  73"
+2407,212291,Senter & Coyote,63588," 71,  72,  73"
+2408,212291,Senter & San Ramon,63589," 71,  72,  73"
+2409,212291,Senter & Ezie,63590," 71,  72,  73"
+2410,212041,Senter & Monterey,63591," 42,  71,  72,  73"
+2411,212290,White & Quimby,63592,71
+2412,212290,White & Norwood,63593,71
+2413,212290,White & Bon Bon,63594,71
+2414,212290,White & Cunningham,63595,71
+2415,212290,White & Marten,63596,71
+2416,212290,White & McKinley,63597,71
+2417,212290,White & Candler,63598,71
+2418,212290,White & Lieb,63599,71
+2419,211910,White & Story,63600," 71,  25"
+2420,211910,White & Buckner,63601," 71,  25"
+2421,211910,White & Easthills,63602," 71,  25"
+2422,211910,White & Florence,63603," 71,  25"
+2423,212290,White & Alum Rock,63604,71
+2424,212290,White & Madeline,63605,71
+2425,212290,White & Warm Springs,63606,71
+2426,212290,White & McKee,63607,71
+2427,212290,White & Modred,63609,71
+2428,212290,White & Mabury,63610,71
+2429,212290,White & Kyle,63611,71
+2430,212290,White & Fiji,63612,71
+2431,212290,Piedmont & Noble,63613,71
+2432,212290,Piedmont & Whitman,63614,71
+2433,212290,Piedmont & Suncrest,63615,71
+2434,212290,Piedmont & Sierra,63616,71
+2435,212290,Piedmont & Pinnacle,63617,71
+2436,212290,Piedmont & Old Piedmont,63618,71
+2437,212290,Piedmont & Hostetter,63619,71
+2438,212290,Piedmont & Trafalgar,63620,71
+2439,212290,Piedmont & Farthing,63621,71
+2440,212290,Piedmont & Cropley,63622,71
+2441,212290,Piedmont & Tunis,63623,71
+2442,212290,Piedmont & Rowley,63624,71
+2443,212290,Piedmont & Madrid,63625,71
+2444,212290,Landess & Edgehill,63626,71
+2445,212290,Landess & Montara,63627,71
+2446,211890,Yellowstone & Butano,63628,246
+2447,211890,Yellowstone & Westridge,63629,246
+2448,211890,Sequoia & Crater Lake,63630,246
+2449,211890,Temple & Yosemite,63631,246
+2450,211890,Temple & Yosemite,63632,246
+2451,211890,Temple & Canton,63633,246
+2452,211890,Temple & Burley,63634,246
+2453,211890,Calaveras & Temple,63635,246
+2454,211890,Calaveras & Gadsen,63636,246
+2455,211890,Calaveras & Carnegie,63637,246
+2456,211890,Park Victoria & Calaveras,63638,"246, 247"
+2457,211890,Park Victoria & Park Heights,63639,"246, 247"
+2458,211890,Park Victoria & Kennedy,63640,"246, 247"
+2459,211890,Park Victoria & Traughber,63641,"246, 247"
+2460,211890,Jacklin & Interstate 680,63642,"246, 247"
+2461,211890,Jacklin & Hillview,63643,"246, 247"
+2462,211891,Jacklin & Escuela,63650,"246, 247"
+2463,211891,Jacklin & Hillview,63651,"246, 247"
+2464,211891,Jacklin & Interstate 680,63652,"246, 247"
+2465,211891,Park Victoria & Daniel,63653,"246, 247"
+2466,211891,Park Victoria & Kennedy,63654,"246, 247"
+2467,211891,Park Victoria & Park Heights,63655,"246, 247"
+2468,211891,Park Victoria & Calaveras,63656,"246, 247"
+2469,211891,Calaveras & Calaveras Court,63657,246
+2470,211891,Calaveras & Gadsen,63658,246
+2471,211891,Temple & Burley,63659,246
+2472,211891,Temple & Canton,63660,246
+2473,211891,Temple & Waylie,63661,246
+2474,211891,Temple & Yosemite,63662,246
+2475,211891,Sequoia & Big Bend,63663,246
+2476,211891,Sequoia & Grand Teton,63664,246
+2477,211891,Yellowstone & Sequoia,63665,246
+2478,211891,Yellowstone & Westridge,63666,246
+2479,211891,Yellowstone & Butano,63667,246
+2480,212291,Piedmont & Cropley,63668,71
+2481,212291,Piedmont & Farthing,63669,71
+2482,212291,Piedmont & Isadora,63670,71
+2483,212291,Piedmont & Hostetter,63671,71
+2484,212291,Piedmont & Mattos,63672,71
+2485,212291,Piedmont & Pinnacle,63673,71
+2486,212291,Piedmont & Sierra,63674,71
+2487,212291,Piedmont & Berryesa,63675,71
+2488,212291,Piedmont & Noble,63676,71
+2489,212291,White & Nashville,63677,71
+2490,212190,White & Patt,63678," 64,  71, 64A"
+2491,212190,White & McKee,63679," 64,  71, 64A"
+2492,212291,White & Warm Springs,63680,71
+2493,211911,White & Alum Rock,63681," 71,  25"
+2494,211911,White & Easthills,63682," 71,  25"
+2495,212291,White & Story,63683,71
+2496,212291,White & Sienna,63684,71
+2497,212291,White & McKinley,63685,71
+2498,212291,White & Rocky Mountain,63686,71
+2499,212291,White & Ocala,63687,71
+2500,212291,White & Cunningham,63688,71
+2501,212291,White & Lake Cunningham,63689,71
+2502,212291,White & Tully,63690,71
+2503,212291,White & Glen Como,63691,71
+2504,212291,White & Glen Donegel,63692,71
+2505,212291,White & Norwood,63693,71
+2506,212520,Santa Teresa Station,63694, 
+2507,212040,Bernal & Via Serena,63697,266
+2508,212300,Senter & Monterey,63705," 72,  72"
+2509,212300,Sylvandale & Senter,63706,72
+2510,212300,Sylvandale & Nash,63707,72
+2511,212300,Yerba Buena & Kauai,63708,72
+2512,212300,Yerba Buena & Ambrose,63709,72
+2513,212300,McLaughlin & Yerba Buena,63710,72
+2514,212300,McLaughlin & Lightland,63711,72
+2515,212300,McLaughlin & Alvernaz,63712,72
+2516,212300,McLaughlin & Isengard,63713,72
+2517,212300,McLaughlin & Capitol Expressway,63714,72
+2518,212300,McLaughlin & Sylvia,63715,72
+2519,212300,McLaughlin & Umbarger,63716,72
+2520,212300,McLaughlin & Quamme,63717,72
+2521,212300,McLaughlin & Candia,63718,72
+2522,212300,McLaughlin & Tully,63719,72
+2523,212300,McLaughlin & Midpine,63720,72
+2524,212300,McLaughlin & Bayard,63721,72
+2525,212300,McLaughlin & Turtlerock,63722,72
+2526,212300,McLaughlin & Fair,63723,72
+2527,212300,McLaughlin & Carnelian,63724,72
+2528,212300,McLaughlin & Panoche,63725,72
+2529,212300,McLaughlin & Story,63726,72
+2530,212300,McLaughlin & Interstate 280,63727,72
+2531,212300,McLaughlin & Sunny,63728,72
+2532,212300,San Antonio & 24th,63729,72
+2533,212300,San Antonio & 21st,63730,72
+2534,212300,San Antonio & 19th,63731,72
+2535,212300,San Carlos & 16th,63732,72
+2536,212300,San Carlos & 13th,63733,72
+2537,212300,11th & San Antonio,63734," 72,  73"
+2538,212301,San Fernando & 7th,63735," 72,  73"
+2539,212301,San Carlos & 10th,63736,72
+2540,212301,San Carlos & 13th,63737,72
+2541,212301,San Carlos & 17th,63739,72
+2542,212301,San Antonio & 18th,63740,72
+2543,212301,San Antonio & 21st,63741,72
+2544,212301,San Antonio & 24th,63742,72
+2545,212301,McLaughlin & Interstate 280,63743,72
+2546,212301,McLaughlin & Story,63744,72
+2547,212301,McLaughlin & Winslow,63745,72
+2548,212301,McLaughlin & Carnelian,63746,72
+2549,212301,McLaughlin & Algiers,63747,72
+2550,212301,McLaughlin & Phelan,63748,72
+2551,212301,McLaughlin & Glenfinnan,63749,72
+2552,212301,McLaughlin & Summerside,63750,72
+2553,212301,McLaughlin & Midpine,63751,72
+2554,212301,McLaughlin & Tully,63752,72
+2555,212301,McLaughlin & Candia,63753,72
+2556,212301,McLaughlin & Mallott,63754,72
+2557,212301,McLaughlin & Umbarger,63755,72
+2558,212301,McLaughlin & Sylvia,63756,72
+2559,212301,McLaughlin & Capitol,63757,72
+2560,212301,McLaughlin & Capitol Expressway,63758,72
+2561,212301,McLaughlin & Theoden,63759,72
+2562,212301,McLaughlin & Muriel,63760,72
+2563,212301,McLaughlin & Valdosta,63761,72
+2564,212301,Yerba Buena & McLaughlin,63762,72
+2565,212301,Yerba Buena & Tuers,63763,72
+2566,212301,Yerba Buena & Sunbrook,63764,72
+2567,212301,Sylvandale & Nash,63765,72
+2568,212041,Branham & Monterey,63766,42
+2569,212041,Branham & Corte Verde,63767,42
+2570,212041,Branham & Lyric,63768,42
+2571,212041,Branham & Rahway,63769,42
+2572,212041,Roeder & Grey Ghost,63770,42
+2573,212310,Senter & Capitol Expressway,63782,73
+2574,212310,Senter & Independence,63783,73
+2575,212310,Senter & Lewis,63784,73
+2576,212310,Senter & Oldham,63785,73
+2577,212310,Senter & Umbarger,63786,73
+2578,212310,Senter & Feldspar,63787,73
+2579,212310,Senter & Baltic,63788,73
+2580,212310,Senter & Quinn,63789,73
+2581,212310,Senter & Burke,63790,73
+2582,212310,Senter & Wool Creek,63791,73
+2583,212310,Senter & Needles,63792,73
+2584,212310,Senter & Phelan,63793,73
+2585,212310,Senter & Alma,63794,73
+2586,212310,Senter & Kelly Park,63795,73
+2587,212310,11th & Keyes,63796,73
+2588,212310,11th & Martha,63797,73
+2589,212310,11th & Margaret,63798,73
+2590,212310,11th & William,63799,73
+2591,212311,10th & San Antonio,63800,73
+2592,212311,10th & San Salvador,63801,73
+2593,212311,10th & Reed,63802,73
+2594,212311,10th & Martha,63803,73
+2595,212311,Senter & Alma,63804,73
+2596,212311,Senter & Phelan,63805,73
+2597,212311,Senter & Needles,63806,73
+2598,212311,Senter & Wool Creek,63807,73
+2599,212311,Senter & Burke,63808,73
+2600,212311,Senter & Tully,63809,73
+2601,212311,Senter & Baltic,63810,73
+2602,212311,Senter & Feldspar,63811,73
+2603,212311,Senter & Umbarger,63812,73
+2604,212311,Senter & Balfour,63813,73
+2605,212311,Senter & Lewis,63814,73
+2606,212311,Senter & Independence,63815,73
+2607,212311,Senter & Southside,63816,73
+2608,212230,OCALA & CAPITOL,63817,70
+2609,211811,Capitol & Story,63821,"103, 522"
+2610,212561,CAPITOL & MCKEE LR STATION,63826, 
+2611,212561,CAPITOL & GILCHRIST,63829, 
+2612,212561,Capitol & Ohlone,63832, 
+2613,212561,CAPITOL & LONGFORD,63835, 
+2614,212561,CAPITOL & CROPLEY,63836, 
+2615,212210,Great Mall & Montague,63840," 66,  66"
+2616,212050,GREAT MALL & GREAT MALL TC,63841," 66,  66, 200, 200,  44"
+2617,212051,Tasman & Alder,63843,44
+2618,212210,GREAT MALL & MCCANDLESS,63844," 66,  66"
+2619,211950,Capitol & Hostetter,63848," 70,  70, 270"
+2620,212560,CAPITOL & LONGFORD,63849, 
+2621,212560,Capitol & Ohlone,63853, 
+2622,212560,CAPITOL & GILCHRIST,63856, 
+2623,212560,CAPITOL & MCKEE LR STATION,63860, 
+2624,211880,Capitol & Alum Rock,63864," 23,  25"
+2625,212041,Yerba Buena & Nieman,63892,42
+2626,212041,Silver Creek & Daniel Maloney,63897,42
+2627,212290,Silver Creek & Capitol,63898,71
+2628,212290,King & Vanport,63899,71
+2629,212290,King & Tustin,63900,71
+2630,212290,King & Aldrich,63901,71
+2631,212290,King & Enesco,63902,71
+2632,212290,Rigoletto & Othello,63903," 71,  77"
+2633,212290,Rigoletto & Mozart,63904," 71,  77"
+2634,212290,Rigoletto & Sibelius,63905,71
+2635,212290,Quimby & Eastridge,63906," 71,  77"
+2636,212291,Quimby & Eastridge,63907," 71,  77"
+2637,212291,Rigoletto & Quimby,63908," 71,  77"
+2638,212291,Rigoletto & Brahms,63909," 71,  77"
+2639,212291,Rigoletto & Othello,63910," 71,  77"
+2640,212320,King & Flannigan,63911,77
+2641,212320,King & Burdette,63912,77
+2642,212320,Lundy & Berryessa,63913,77
+2643,212320,Lundy & Vinci Park,63914,77
+2644,212320,Lundy & Gordy,63915,77
+2645,212320,Lundy & Hostetter,63916,77
+2646,212170,Lundy & Hostetter,63917," 60,  77"
+2647,212170,Lundy & McKay,63918," 60,  77"
+2648,212170,Lundy & Commerce,63919," 60,  77, 831"
+2649,212170,Lundy & Concourse,63920," 60,  77, 831"
+2650,212170,Lundy & Fortune,63921," 60,  77, 831"
+2651,212170,Trade Zone & Lundy,63922," 60,  77, 831"
+2652,212170,Trade Zone & Ringwood,63923," 60,  77, 831"
+2653,212050,McCandless & Montague,63924,44
+2654,212050,McCandless & Canal,63925,44
+2655,211850,Montague & Trade Zone,63926," 60,  77,  20,  44"
+2656,212051,McCandless & Lee,63941,44
+2657,212171,Trade Zone & Ringwood,63942," 60,  77, 831"
+2658,212171,Lundy & Trade Zone,63943," 60,  77, 831"
+2659,212171,Lundy & Fortune,63944," 60,  77, 831"
+2660,212171,Lundy & Concourse,63945," 60,  77, 831"
+2661,212171,Lundy & Commerce,63946," 60,  77, 831"
+2662,212171,Lundy & McKay,63947," 60,  77"
+2663,212171,Lundy & Hostetter,63948," 60,  77"
+2664,212321,Lundy & Townsend,63949,77
+2665,212321,Lundy & Rosebriar,63950,77
+2666,212321,Lundy & Berryessa,63951,77
+2667,212321,King & Tully,63952,77
+2668,212321,King & Burdette,63953,77
+2669,212291,King & Enesco,63954,71
+2670,212291,King & Aldrich,63955,71
+2671,212291,King & Vanport,63956,71
+2672,212291,Silver Creek & Lexann,63959,71
+2673,212040,Silver Creek & Marsh Manor,63960,42
+2674,212040,Silver Creek & Ravens Place,63961,42
+2675,212040,Yerba Buena & Silver Creek Valley,63965,42
+2676,212120,Homestead & Swallow,63970,53
+2677,212120,Homestead & Lawrence,63971,53
+2678,212120,Homestead & Princeton,63972,53
+2679,212120,Homestead & Pomeroy,63973,53
+2680,212120,Homestead & Peppertree,63974,53
+2681,212120,Benton & Scott,63981,53
+2682,212120,Benton & Carmel,63982,53
+2683,212120,Benton & Jefferson,63983,53
+2684,212190,Julian & 21st,64014," 64, 64A"
+2685,212190,Julian & 24th,64015," 64, 64A"
+2686,212190,Julian & 26th,64016," 64, 64A"
+2687,212190,McKee & 34th,64017," 64, 64A"
+2688,212190,McKee & King,64018," 64, 64A"
+2689,212190,McKee & Checkers,64019," 64, 64A"
+2690,212190,McKee & Rancho Verde,64020,64
+2691,212190,McKee & Jose Figueres,64021," 64, 64A"
+2692,212190,McKee & Jackson,64022," 64, 64A"
+2693,212190,McKee & Jackson,64023," 64, 64A"
+2694,212190,McKee & Capitol,64025," 64, 64A"
+2695,212190,McKee & White,64036," 64,  64, 64A, 64A"
+2696,212191,McKee & Francis,64037," 64, 64A"
+2697,212191,McKee & Capitol,64038," 64, 64A"
+2698,212191,McKee & Interstate 680,64040," 64, 64A"
+2699,212191,McKee & Ludlow,64041," 64, 64A"
+2700,212191,McKee & Jose Figueres,64042," 64, 64A"
+2701,212191,McKee & Education Park Drive,64043," 64, 64A"
+2702,212191,McKee & Checkers,64044," 64, 64A"
+2703,212191,McKee & King,64045," 64, 64A"
+2704,212191,McKee & 34th,64046," 64, 64A"
+2705,212191,Julian & 26th,64047," 64, 64A"
+2706,212191,Julian & 24th,64048," 64, 64A"
+2707,212191,Julian & 21st,64049," 64, 64A"
+2708,212191,Julian & 17th,64050," 64, 64A"
+2709,212191,Julian & 15th,64051," 64, 64A"
+2710,212121,Benton & Jefferson,64079,53
+2711,212121,Benton & Pierce,64080,53
+2712,212121,Homestead & Peppertree,64087,53
+2713,212121,Homestead & Pomeroy,64088,53
+2714,212121,Homestead & Bing,64089,53
+2715,212121,Homestead & Lawrence,64090,53
+2716,212121,Homestead & Calabazas Creek,64091,53
+2717,212121,Homestead & Swallow,64092,53
+2718,212141,Hamilton & Latimer,64096,56
+2719,211791,Hamilton & Mendenhall,64097," 56, 101"
+2720,212141,Hamilton & Phoenix,64099,56
+2721,212141,Hamilton & Darryl,64101,56
+2722,212141,Hamilton & Llewellyn,64102,56
+2723,212141,Hamilton & Eden,64103,56
+2724,212141,Hamilton & Winchester,64104,56
+2725,212141,Hamilton & Harrison,64105,56
+2726,212141,Hamilton & Bascom,64107,56
+2727,212141,Hamilton & April,64108,56
+2728,212141,Hamilton & Leigh,64110,56
+2729,212141,Hamilton & Grace,64111,56
+2730,212141,Hamilton & Meridian,64113,56
+2731,212141,Hamilton & Gaton,64114,56
+2732,212141,Pine & Cherry,64116,56
+2733,211921,Cottle & Malone,64117,256
+2734,211920,Newport & Pine,64118," 56, 256"
+2735,211920,Minnesota & Newport,64120," 56, 256"
+2736,211920,Minnesota & Lincoln,64122," 56, 256"
+2737,211920,Minnesota & Curtiss,64124," 56, 256"
+2738,211920,Minnesota & Bird,64125," 56, 256"
+2739,211920,Alma & Minnesota,64126," 56, 256"
+2740,211920,Alma & Lick,64128,256
+2741,211920,Alma & Vine,64129,256
+2742,211920,Alma & Pomona,64130,256
+2743,211920,Alma & Sanborn,64131,256
+2744,211921,Alma & 1st,64166,256
+2745,211921,Alma & Plum,64167,256
+2746,211921,Alma & Vine,64168,256
+2747,211921,Alma & Locust,64169,256
+2748,211921,Alma & Lick,64170,256
+2749,211921,Alma & Belmont,64171," 56, 256"
+2750,211921,Minnesota & Hervey,64173," 56, 256"
+2751,211921,Minnesota & Bird,64174," 56, 256"
+2752,211921,Minnesota & Curtiss,64175," 56, 256"
+2753,211921,Minnesota & Lincoln,64177," 56, 256"
+2754,211921,Minnesota & Glenpine,64178," 56, 256"
+2755,211921,Newport & Minnesota,64179," 56, 256"
+2756,211921,Newport & Pine,64181," 56, 256"
+2757,212140,Pine & Cherry,64183,56
+2758,212140,Hamilton & Hamilton Way,64185,56
+2759,212140,Hamilton & Meridian,64186,56
+2760,212140,Hamilton & Grace,64187,56
+2761,212140,Hamilton & Leigh,64188,56
+2762,212140,Hamilton & Greyland,64189,56
+2763,212140,Hamilton & Bascom,64190,56
+2764,212140,Hamilton & Creekside,64191,56
+2765,212140,Hamilton & Central,64192,56
+2766,211790,Hamilton & Winchester,64193," 56, 101"
+2767,212140,Hamilton & Eden,64194,56
+2768,212140,Hamilton & Millich,64195,56
+2769,212140,Hamilton & Darryl,64196,56
+2770,212140,Hamilton & Phoenix,64198,56
+2771,211790,Hamilton & Mendenhall,64199," 56, 101"
+2772,212140,Hamilton & Latimer,64200,56
+2773,212140,Hamilton & Parkwest,64201,56
+2774,212211,10th & Hedding,64216,66
+2775,212211,10th & Taylor,64218,66
+2776,212211,10TH & EMPIRE,64220,66
+2777,212351,Charleston & Fabian,64234,824
+2778,211970,Fabian & Charleston,64235,"288, 824"
+2779,211970,Fabian & Charleston,64236,"288, 824"
+2780,211970,Meadow & Meadow Circle,64237,"288, 824"
+2781,211970,Louis & Meadow,64238,288
+2782,211970,Louis & Greer,64239,288
+2783,211970,Louis & Loma Verde,64240,288
+2784,211970,Louis & Elbridge,64241,288
+2785,211980,Louis & Colorado,64242,288
+2786,211980,Louis & Amarillo,64243,288
+2787,211971,Louis & Fielding,64300,"288, 288"
+2788,211971,Louis & Colorado,64301,288
+2789,211971,Louis & Elbridge,64302,288
+2790,211971,Louis & Loma Verde,64303,288
+2791,211971,Louis & Greer,64304,288
+2792,211971,Louis & Aspen,64305,288
+2793,211971,Meadow & Meadow,64307,"288, 824"
+2794,211971,Fabian & Meadow,64308,"288, 824"
+2795,211971,Fabian & Charleston,64309,"288, 824"
+2796,212120,SCOTT & HOMESTEAD,64317,53
+2797,212121,SCOTT & BENTON,64323,53
+2798,211971,Charleston & Stevenson House,64329,288
+2799,211971,Charleston & Wright,64330,288
+2800,211971,Charleston & Park,64331,288
+2801,211971,Arastradero & El Camino,64332,288
+2802,211971,Arastradero & Coulombe,64333,288
+2803,211971,Arastradero & Donald,64334,288
+2804,211971,Arastradero & Gunn High School,64335,288
+2805,212461,Miranda & Arastradero,64336,89
+2806,212461,Miranda & Arastradero,64337,89
+2807,211820,Palo Alto Veterans Hospital,64338,"288,  89,  89, 104, 104"
+2808,211970,Miranda & Hospital Driveway,64339,"288,  89"
+2809,211970,Miranda & Arastradero,64340,"288,  89"
+2810,212460,Arastradero & Old Adobe,64341,89
+2811,211790,Hillview & Arastradero,64342," 89, 101, 102, 103, 104"
+2812,211790,Hillview & Arastradero,64343," 89, 101, 102, 103, 104"
+2813,211790,Hillview & Coyote Hill,64344," 89, 101, 102, 103, 104"
+2814,211790,Hillview & Miranda,64345," 89, 101, 102, 103, 104"
+2815,211790,Hillview & Miranda,64346," 89, 101, 102, 103, 104"
+2816,211790,Hillview & Watkins-Johnson,64347," 89, 101, 102, 103, 104"
+2817,211790,Hanover & Hillview,64348," 89, 101, 102, 103, 104"
+2818,211790,Hanover & Hillview,64349," 89, 101, 102, 103, 104"
+2819,211790,Hanover & Curve,64350," 89, 101, 102, 103, 104"
+2820,211790,Hanover & Curve,64351," 89, 101, 102, 103, 104"
+2821,212460,Hanover & Page Mill,64352,89
+2822,212460,California & Hanover,64353,89
+2823,212460,California & Oberlin,64354,89
+2824,212460,California & Wellsley,64355,89
+2825,212460,California & El Camino,64356,89
+2826,212460,California & Birch,64358,89
+2827,211981,Meadow & Waverly,64371,288
+2828,211981,Meadow & Wilkie,64372,288
+2829,211971,Charleston & Grove,64382,288
+2830,211971,Charleston & Middlefield,64383,"288, 104"
+2831,211821,Miranda & Hillview,64384,104
+2832,211791,Hillview & Coyote Hill,64385," 89, 101, 102, 103, 104"
+2833,211791,Hillview & Coyote Hill,64386," 89, 101, 102, 103, 104"
+2834,211791,Hillview & Arastradero,64387," 89, 101, 102, 103, 104"
+2835,212461,Arastradero & Old Adobe,64388,89
+2836,211970,Arastradero & Gunn High School,64389,288
+2837,211970,Arastradero & Terman,64390,288
+2838,211970,Arastradero & Suzanne,64391,288
+2839,211970,Arastradero & El Camino,64392,288
+2840,211980,Meadow & Wilkie,64399,288
+2841,211980,Meadow & Ramona,64400,288
+2842,211980,Meadow & Waverly,64401,288
+2843,211970,Charleston & Ruthelma,64402,288
+2844,211970,Charleston & Mumford,64404,288
+2845,211970,Charleston & Nelson,64405,288
+2846,211970,Charleston & Middlefield,64406,"288, 104"
+2847,211970,Charleston & Sutherland,64407,288
+2848,212461,California & Birch,64417,89
+2849,212461,California & Ash,64418,89
+2850,212461,California & El Camino,64419,89
+2851,212461,California & Wellsley,64420,89
+2852,212461,California & Princeton,64421,89
+2853,212461,Hanover & California,64422,89
+2854,212461,Hanover & Page Mill,64423,89
+2855,211791,Hanover & Page Mill,64424," 89, 101, 102, 103, 104"
+2856,211791,Hanover & Curve,64425," 89, 101, 102, 103, 104"
+2857,211791,Hanover & Curve,64426," 89, 101, 102, 103, 104"
+2858,211791,Hanover & Hewlett-Packard,64427," 89, 101, 102, 103, 104"
+2859,211791,Hillview & Porter,64428," 89, 101, 102, 103, 104"
+2860,211791,Hillview & Porter,64429," 89, 101, 102, 103, 104"
+2861,211980,Meadow & Cowper,64431,288
+2862,211790,Camden & Olympia,64432," 37, 101"
+2863,211790,Lawrence & Moorpark,64433,101
+2864,211790,Deer Creek & Mid Deer Creek,64434,"101, 102, 103, 104"
+2865,211790,Deer Creek & Arastradero,64435,"101, 102, 103, 104"
+2866,211790,Arastradero & Thendara,64436,"101, 102, 103, 104"
+2867,211790,Page Mill & Hanover,64437,"101, 102, 103, 104"
+2868,211790,Page Mill & Hansen,64438,"101, 102, 103, 104"
+2869,211790,Page Mill & Ramos,64439,"101, 102, 103, 104"
+2870,211790,Hansen & El Camino,64440,"101, 102, 103"
+2871,211790,Hansen & Curve,64441,"101, 102, 103"
+2872,211790,Hansen & Page Mill,64442,"101, 102, 103"
+2873,211791,Hansen & Page Mill,64443,"101, 102, 103"
+2874,211791,Hansen & Page Mill,64444,"101, 102, 103"
+2875,211791,Hansen & Curve,64445,"101, 102, 103"
+2876,211791,Page Mill & El Camino,64446,"101, 102, 103, 104"
+2877,211791,Page Mill & Ramos,64447,"101, 102, 103, 104"
+2878,211791,Arastradero & Hillview,64449,"101, 102, 103, 104"
+2879,211791,Deer Creek & Arastradero,64450,"101, 102, 103, 104"
+2880,211791,Deer Creek & Mid Arastradero,64451,"101, 102, 103, 104"
+2881,211791,Lawrence & Bollinger,64452,101
+2882,211791,Hamilton & Sagemont,64453,101
+2883,211791,Camden & Calvin,64454," 37, 101"
+2884,211800,Santa Teresa Station,64455,"102, 102"
+2885,211800,Snell Station,64456,"102, 102"
+2886,211800,Ohlone-Chynoweth Station,64457,"102, 102"
+2887,211820,Page Mill & El Camino,64458,"104, 182"
+2888,212350,Charleston & Fabian,64460,824
+2889,212670,Santa Teresa Station,64463,"122, 122"
+2890,212040,Capitol & Seven Trees,64466," 42, 122"
+2891,212371,Caribbean & Moffett Park,64468,"121, 122, 826"
+2892,212371,Crossman & Baltic,64469,"121, 122, 826"
+2893,212371,Mathilda & Java,64471,826
+2894,212141,Lockheed Martin Transit Center,64477,"121, 121, 122, 122, 523"
+2895,212140,Lockheed Martin Transit Center,64478, 
+2896,212370,1st & C Street,64485,826
+2897,212370,Crossman & Java,64486,"121, 122, 826"
+2898,212370,Crossman & Baltic,64487,"121, 122, 826"
+2899,212370,Caribbean & Moffett Park,64488,"121, 122, 826"
+2900,212041,Capitol & Senter,64489,42
+2901,212360,Tasman & Lick Mill,64492,825
+2902,212360,Tasman & Vista Montana,64493,825
+2903,212360,Tasman & Champion Court,64494,825
+2904,212360,Tasman & Rio Robles,64495,825
+2905,212361,Tasman & 1st,64507,"200, 200, 825, 828"
+2906,212361,Tasman & Rio Robles,64508,825
+2907,212361,Tasman & Champion Court,64509,"200, 200, 825"
+2908,212361,Tasman & Renaissance,64510,825
+2909,212361,Tasman & Calle Del Sol,64511,"200, 200, 825"
+2910,211840,San Jose Diridon Station (Bay 11),64514,"168, 168"
+2911,212670,Santa Teresa Station,64520, 
+2912,212670,Snell Station,64521, 
+2913,212171,Coleman & Newhall,64522,60
+2914,212171,Coleman & Earthquake,64523,60
+2915,212171,Coleman & Brokaw,64524,60
+2916,211861,Middlefield & Ellis,64532,"185, 185,  21"
+2917,212561,WHISMAN & MINARET,64534, 
+2918,212670,Mountain View Caltrain Station,64535, 
+2919,212560,WHISMAN & MINARET,64536, 
+2920,212170,Coleman & Brokaw,64543,60
+2921,212170,Coleman & Earthquake,64545,60
+2922,212670,Santa Teresa Station,64546,"182, 182"
+2923,212380,Walsh & Scott,64550,"827, 827"
+2924,212380,Walsh & Martin,64551,"827, 827"
+2925,212330,Kifer & Copper,64553,822
+2926,212330,Kifer & National Semiconducter,64555,822
+2927,212330,Kifer & Commercial,64556, 
+2928,212330,Wolfe & Kifer,64557,822
+2929,212670,Lockheed Martin Transit Center,64570, 
+2930,211850,Montague & De La Cruz,64571,20
+2931,211850,Montague & 1st,64572,20
+2932,211850,Montague & Plumeria,64574,20
+2933,211850,Montague & O'Toole,64575,20
+2934,211850,Montague & Main,64576,"831,  20"
+2935,212060,Montague & Milpitas Boulevard,64578," 47,  70,  71, 104"
+2936,211810,Capitol & Story,64579,"103, 522"
+2937,212101,Capitol & Ocala,64581,522
+2938,211851,Montague & Great Mall,64585," 60,  77,  20,  44"
+2939,211851,Montague & McCandless,64586,20
+2940,211851,Montague Expressway & Main,64587,"831,  20"
+2941,211851,Montague & McCarthy,64588,20
+2942,211851,Montague & Trimble,64589,"828, 828,  20"
+2943,212390,Montague & Zanker,64590,"828, 828"
+2944,212670,Lockheed Martin Transit Center,64592, 
+2945,212670,Lockheed Martin Transit Center,64598, 
+2946,212041,San Ignacio & Bernal,64627, 
+2947,212041,San Ignacio & Great Oaks,64628, 
+2948,212041,San Ignacio & Las Colinas,64629, 
+2949,212041,Via Del Oro & San Ignacio,64630, 
+2950,211791,Vallco Parkway & Perimeter,64636,182
+2951,212040,San Ignacio & Via Del Oro,64638, 
+2952,212040,San Ignacio & Las Colinas,64639, 
+2953,212040,San Ignacio & Great Oaks,64640, 
+2954,212670,Lockheed Martin Transit Center,64642, 
+2955,212440,Gilroy Transit Center,64644," 86,  86"
+2956,212670,Lockheed Martin Transit Center,64645,523
+2957,211841,Morgan Hill Caltrain,64646,"121, 168, 185"
+2958,212340,Old Ironsides & Tasman,64647,823
+2959,211880,Stevens Creek & Winchester,64650, 
+2960,212061,South Milpitas & Montague,64652, 
+2961,212670,San Jose Diridon Station (Bay 1),64653, 
+2962,211881,San Carlos & 2nd,64655,23
+2963,212171,SKYPORT & TECHNOLOGY,64656,60
+2964,211911,De Anza & Rodrigues,64658, 
+2965,212161,GREAT AMERICA & OLD MTN VIEW ALVISO,64666,59
+2966,212121,Homestead & Wolfe,64669, 
+2967,212121,Homestead & Tantau,64675, 
+2968,212191,Winfield & Coleman,64678, 
+2969,212190,Winfield & Coleman,64679, 
+2970,212231,Ocala & Adrian,64684, 
+2971,212190,Winfield & Blossom Hill,64685, 
+2972,212330,Stewart & Deguigne,64687,822
+2973,212331,Stewart & Santa Trinita,64689,822
+2974,212331,Santa Trinita & Arques,64690,822
+2975,211850,Scott & Lakeside,64691,"822,  20"
+2976,212330,Great America ACE Amtrak Station,64692,"822, 822, 823, 823, 824, 824, 825, 825, 826, 826, 827, 827, 828, 828, 831, 831"
+2977,212410,McCarthy & Murphy Ranch,64697,831
+2978,212411,Buckeye & Buckeye,64698,831
+2979,212370,Lockheed Martin Transit Center,64699,"826, 826"
+2980,212031,Villa & Franklin,64708, 
+2981,212260,NORTH YARD STANDBY END,64716, 
+2982,212250,CHABOYA YARD STANDBY END,64717, 
+2983,212470,OHLONE-CHYNOWETH STATION (0),64731,"911, 901"
+2984,212471,OHLONE-CHYNOWETH STATION (1),64733,"911, 901, 900, 900"
+2985,212700,SANTA TERESA STATION (0),64736,"911, 901"
+2986,212470,COTTLE STATION (0),64737,"911, 901"
+2987,212470,SNELL STATION (0),64738,"911, 901"
+2988,212470,BLOSSOM HILL STATION (0),64739,"911, 901"
+2989,212470,BRANHAM STATION (0),64740,"911, 901"
+2990,212470,CAPITOL STATION (0),64741,"911, 901"
+2991,212470,CURTNER STATION (0),64742,"911, 901"
+2992,212470,TAMIEN STATION (0),64743,"911, 901"
+2993,212470,VIRGINIA STATION (0),64744,"911, 901"
+2994,212470,CHILDRENS DISC. MUSEUM STA (0),64745,"911, 901, 901"
+2995,212710,CONVENTION CENTER STATION (0),64746,"911, 914, 920, 901, 902"
+2996,212470,SAN ANTONIO STATION (0),64747,"911, 914, 920, 901, 902"
+2997,212470,SANTA CLARA STATION (0),64748,"911, 914, 920, 901, 901, 902"
+2998,212470,ST JAMES STATION (0),64749,"911, 914, 920, 901, 902"
+2999,212470,JAPANTOWN/AYER STATION (0),64750,"911, 914, 920, 920, 901, 902"
+3000,212470,CIVIC CENTER STATION (0),64751,"911, 914, 920, 901, 902"
+3001,212470,GISH STATION (0),64752,"911, 912, 914, 901, 901, 902, 902"
+3002,212470,METRO/AIRPORT STATION (0),64753,"911, 912, 914, 901, 902"
+3003,212470,KARINA COURT STATION (0),64754,"911, 912, 914, 901, 902"
+3004,212470,COMPONENT STATION (0),64755,"911, 912, 914, 901, 902"
+3005,212500,BONAVENTURA STATION (0),64756,"911, 912, 914, 901, 902"
+3006,212700,ORCHARD STATION (0),64757,"911, 912, 914, 901, 902"
+3007,212470,RIVER OAKS STATION (0),64758,"911, 912, 914, 901, 902"
+3008,212470,TASMAN STATION (0),64759,"911, 912, 914, 901, 902"
+3009,212711,Baypointe Station,64761,902
+3010,212471,TASMAN STATION (1),64762,"911, 912, 914, 901, 902"
+3011,212471,RIVER OAKS STATION (1),64763,"911, 912, 914, 901, 902"
+3012,212471,ORCHARD STATION (1),64764,"911, 912, 914, 901, 902"
+3013,212701,BONAVENTURA STATION (1),64765,"911, 912, 914, 901, 902"
+3014,212471,COMPONENT STATION (1),64766,"911, 912, 914, 901, 902"
+3015,212471,KARINA COURT STATION (1),64767,"911, 912, 914, 901, 902"
+3016,212471,METROAIRPORT STATION (1),64768,"911, 912, 914, 901, 902"
+3017,212621,GISH STATION (1),64769,"911, 912, 914, 901, 902, 902"
+3018,212711,CIVIC CENTER STATION (1),64770,"911, 914, 920, 901, 902"
+3019,212591,JAPANTOWN/AYER STATION (1),64771,"911, 914, 901, 902"
+3020,212621,ST JAMES STATION (1),64772,"911, 914, 920, 901, 902"
+3021,212471,SANTA CLARA STATION (1),64773,"911, 914, 920, 901, 901, 902"
+3022,212601,SAN ANTONIO STATION (1),64774,"911, 914, 920, 901, 902"
+3023,212511,CONVENTION CENTER STATION (1),64775,"911, 914, 920, 901, 902"
+3024,212471,CHILDRENS DISCOVERY MUSEUM STA (1),64776,"911, 901, 901"
+3025,212471,VIRGINIA STATION (1),64777,"911, 901"
+3026,212471,TAMIEN STATION (1),64778,"911, 901"
+3027,212471,CURTNER STATION (1),64779,"911, 901"
+3028,212471,CAPITOL STATION (1),64780,"911, 901"
+3029,212471,BRANHAM STATION (1),64781,"911, 901"
+3030,212471,BLOSSOM HILL STATION (1),64782,"911, 901"
+3031,212471,SNELL STATION (1),64783,"911, 901"
+3032,212701,COTTLE STATION (1),64784,"911, 901"
+3033,212471,SANTA TERESA STATION (1),64785,"911, 901, 901"
+3034,212471,MOUNTAIN VIEW STATION (1),64786,"911, 912, 913, 914, 903"
+3035,212471,WHISMAN STATION (1),64788,"911, 912, 913, 914, 903"
+3036,212471,MIDDLEFIELD STATION (1),64789,"911, 912, 913, 914, 903"
+3037,212471,BAYSHORE NASA STATION (1),64790,"911, 912, 913, 914, 903"
+3038,212471,LOCKHEED MARTIN STATION (1),64791,"911, 912, 913, 914, 903"
+3039,212471,BORREGAS STATION (1),64792,"911, 912, 913, 914, 903"
+3040,212471,CROSSMAN STATION (1),64793,"911, 912, 913, 914, 903"
+3041,212471,FAIR OAKS STATION (1),64794,"911, 912, 913, 914, 903"
+3042,212471,VIENNA STATION (1),64795,"911, 912, 913, 914, 903"
+3043,212501,REAMWOOD STATION (1),64796,"911, 912, 913, 914, 903"
+3044,212471,OLD IRONSIDES STATION (1),64797,"911, 912, 913, 914, 902, 903"
+3045,212621,GREAT AMERICA STATION (1),64798,"911, 912, 913, 914, 902, 903"
+3046,212471,LICK MILL STATION (1),64799,"911, 912, 913, 914, 902, 903"
+3047,212471,CHAMPION STATION (1),64800,"911, 912, 913, 914, 902, 903"
+3048,212720,BAYPOINTE STATION (0),64801,"913, 901, 901, 902, 903"
+3049,212490,CISCO STATION (0),64802,"913, 903"
+3050,212490,ALDER STATION (0),64803,"913, 903"
+3051,212491,ALDER STATION (1),64804,"913, 903"
+3052,212491,CISCO STATION (1),64805,"913, 903"
+3053,212491,BAYPOINTE STATION (1),64806,"913, 901, 901, 903"
+3054,212620,CHAMPION STATION (0),64807,"911, 912, 913, 914, 902, 903"
+3055,212710,LICK MILL STATION (0),64808,"911, 912, 913, 914, 902, 903"
+3056,212651,GREAT AMERICA STATION (0),64809,"911, 912, 913, 914, 902, 903"
+3057,212470,OLD IRONSIDES STATION (0),64810,"911, 912, 913, 914, 902, 902, 903"
+3058,212470,REAMWOOD STATION (0),64811,"911, 912, 913, 914, 903"
+3059,212470,VIENNA STATION (0),64812,"911, 912, 913, 914, 903"
+3060,212470,FAIR OAKS STATION (0),64813,"911, 912, 913, 914, 903"
+3061,212470,CROSSMAN STATION (0),64814,"911, 912, 913, 914, 903"
+3062,212721,BORREGAS STATION (0),64815,"911, 912, 913, 914, 903"
+3063,212721,LOCKHEED MARTIN STATION (0),64816,"911, 912, 913, 914, 903"
+3064,212470,BAYSHORE NASA STATION (0),64817,"911, 912, 913, 914, 903"
+3065,212721,MIDDLEFIELD STATION (0),64818,"911, 912, 913, 914, 903"
+3066,212721,WHISMAN STATION (0),64819,"911, 912, 913, 914, 903"
+3067,212470,MOUNTAIN VIEW STATION (0),64821,"911, 912, 913, 914, 903"
+3068,212480,Light Yard Gar,64823,"912, 912, 920, 920"
+3069,211860,Palo Alto Transit Center (Bay 5),64836,21
+3070,211860,California & Hope,64875, 
+3071,211861,California & Hope,64876, 
+3072,211860,Hope and Villa,64877, 
+3073,211860,Moffett and Central,64879, 
+3074,211861,Moffett and Central,64880, 
+3075,212080,Shoreline and El Camino,64881, 
+3076,212081,Shoreline and Dana,64882, 
+3077,211861,Hope and Villa,64884, 
+3078,212080,Shoreline and California,64885, 
+3079,212670,Snell Station,64936,"122, 122"
+3080,212670,Lockheed Martin Transit Center,64937, 
+3081,212670,Palo Alto Transit Center (Bay 8),64939, 
+3082,212670,Palo Alto Transit Center (Bay 6),64940, 
+3083,212670,Palo Alto Transit Center (Bay 3),64941, 
+3084,212670,Palo Alto Transit Center (Bay 2),64942, 
+3085,212670,Palo Alto Transit Center (Bay 7),64943, 
+3086,212670,Palo Alto Caltrain Station,64944, 
+3087,212670,San Jose Diridon Station (Bay 3),64948, 
+3088,212670,San Jose Diridon Station (Bay 2),64949,"64A, 64A"
+3089,212670,San Jose Diridon Station,64950, 
+3090,212670,Curtner Light Rail Station,64954, 
+3091,212670,Capitol Station,64955, 
+3092,211861,Showers & Latham,64957,21
+3093,212460,California Avenue Caltrain,64958," 89,  89"
+3094,212430,CHURCH & PIERCE,64967,85
+3095,212431,CHURCH & WELBURN,64977,85
+3096,212431,CHURCH & PIERCE,64978,85
+3097,212440,Princevalle & Johnson,64985,86
+3098,212180,Morrill & Morrill,64994, 
+3099,212071,10th & Taylor,64995, 
+3100,212010,West Valley Transit Center,64996," 37,  37"
+3101,212080,West Valley Transit Center,64997," 57,  57"
+3102,211930,West Valley Transit Center,64998," 26,  26"
+3103,212150,West Valley Transit Center,64999," 51,  51"
+3104,212670,West Valley Transit Center,65000, 
+3105,212260,CERONE YARD STANDBY END,65005, 
+3106,212301,McLaughlin & William,65006,72
+3107,212301,McLaughlin & Appian,65007,72
+3108,212191,Bird & Coe,65017," 64, 64A"
+3109,212020,San Felipe & Evergreen Community Center,65021,39
+3110,212471,MOFFETT PARK STATION (1),65023,"911, 912, 913, 914, 903"
+3111,212500,MOFFETT PARK STATION (0),65024,"911, 912, 913, 914, 903"
+3112,212371,1st & Mathilda,65029,826
+3113,211971,East Charleston & Carlson,65030,288
+3114,211970,East Charleston & Carlson,65031,288
+3115,212011,Hillsdale & Gardendale,65032,37
+3116,212011,Hillsdale & Vistamont,65033,37
+3117,212021,Quimby & Knickerson,65038,39
+3118,212670,Alum Rock Station,65042, 
+3119,212670,Alum Rock Station,65043, 
+3120,212670,Alum Rock Station,65044, 
+3121,212670,Alum Rock Station,65045, 
+3122,212530,Curtner Station - 3,65046, 
+3123,211910,Alum Rock Station,65047," 25,  25"
+3124,212560,Alum Rock Transit Center,65048, 
+3125,212670,Gilroy Caltrain,65049, 
+3126,212161,1st & Headquarters,65050,59
+3127,211850,Montauge & Trimble,65051,20
+3128,212001,San Felipe & Regency of Evergreen Valley,65055," 31,  39"
+3129,212021,Quimby & Ruby,65056," 39,  39"
+3130,212021,Quimby & Arcade,65057,39
+3131,211861,Quarry & Palo,65058,21
+3132,212030,Foothill College,65059," 40,  40,  40,  52,  52,  52"
+3133,211961,Main & Butterfield,65137," 87, 287"
+3134,212160,1st & Tony P. Santos,65175,59
+3135,212041,Branham & Impatience,65180,42
+3136,212210,Main & Abel,65218,66
+3137,212211,Main & Abel,65219,66
+3138,212211,Main & Centria,65220,66
+3139,212041,Seven Trees & San Mateo,65224,42
+3140,212431,6th & Wren,65226,85
+3141,212430,6th & Wren,65227,85
+3142,212170,Santa Clara Transit Center,65228,60
+3143,212490,GREAT MALL STATION (0),65235,"913, 903"
+3144,212490,MILPITAS STATION (0),65236,"913, 903"
+3145,212490,CROPLEY STATION (0),65237,"913, 903"
+3146,212490,HOSTETTER STATION (0),65238,"913, 903"
+3147,212490,BERRYESSA STATION (0),65239,"913, 903"
+3148,212490,PENITENCIA CREEK STATION (0),65240,"913, 903"
+3149,212490,MCKEE STATION (0),65241,"913, 903"
+3150,212490,ALUM ROCK STATION (0),65242,"913, 903"
+3151,212721,ALUM ROCK STATION (1),65243,"913, 903"
+3152,212491,MCKEE STATION (1),65244,"913, 903"
+3153,212491,PENITENCIA CREEK STATION (1),65245,"913, 903"
+3154,212491,BERRYESSA STATION (1),65246,"913, 903"
+3155,212491,HOSTETTER STATION (1),65247,"913, 903"
+3156,212491,CROPLEY STATION (1),65248,"913, 903"
+3157,212491,MILPITAS STATION (1),65249,"913, 903"
+3158,212491,GREAT MALL STATION (1),65250,"913, 903"
+3159,212131,Patrick Henry & Bunker Hill,65252," 55, 823"
+3160,212210,Monterey & Stauffer,65255," 66,  68"
+3161,212670,Penitencia Creek Station,65314, 
+3162,211880,Alum Rock Station,65320," 23,  23"
+3163,212670,San Jose Diridon Station (Bay 4),65321, 
+3164,212670,Penitencia Creek Station,65325, 
+3165,212410,Zanker & Highway 237,65331,831
+3166,212571,Hostetter Station,65333," 70,  70"
+3167,211950,Hostetter Station,65334," 70,  70, 270"
+3168,212670,Penitencia Creek Station,65335,"104, 104"
+3169,212670,Penitencia Creek Station,65337, 
+3170,212540,KARINA & 1ST,65338, 
+3171,212050,GREAT MALL & ABEL,65341,44
+3172,212290,Landess & Clear Lake,65344,71
+3173,212220,Monterey & 5th,65359,68
+3174,212221,Monterey & 5th,65360,68
+3175,212450,Sobrato High School,65363," 87,  87"
+3176,212420,Camino Arroyo & Holloway,65372, 
+3177,212420,Camino Arroyo & Gilroy Crossing,65373," 84,  84"
+3178,212500,DIRIDON STATION (0),65374,"914, 920, 902"
+3179,212500,RACE STATION (0),65375,"914, 902"
+3180,212500,FRUITDALE STATION (0),65376,"914, 902"
+3181,212500,BASCOM STATION (0),65377,"914, 902"
+3182,212500,HAMILTON STATION (0),65378,"914, 902"
+3183,212500,CAMPBELL STATION (0),65379,"914, 902"
+3184,212500,WINCHESTER STATION (0),65380,"914, 902"
+3185,212711,DIRIDON STATION (1),65381,"914, 920, 902"
+3186,212501,RACE STATION (1),65382,"914, 902"
+3187,212501,FRUITDALE STATION (1),65383,"914, 902"
+3188,212501,BASCOM STATION (1),65384,"914, 902"
+3189,212501,HAMILTON STATION (1),65385,"914, 902"
+3190,212501,CAMPBELL STATION (1),65386,"914, 902"
+3191,212501,WINCHESTER STATION (1),65387,"914, 902"
+3192,212500,SAN FERNANDO STATION (0),65388,"914, 920, 902"
+3193,212501,SAN FERNANDO STATION (1),65389,"914, 920, 902"
+3194,212380,Walsh & San Tomas,65390,"827, 827"
+3195,212220,Hale & Hillwood,65391,68
+3196,212041,Monterey & Blossom Hill,65392,42
+3197,212670,Winchester Station,65395, 
+3198,211940,Winchester Station,65396," 27,  27,  37,  37,  37"
+3199,211790,Winchester Station,65397," 60,  60, 101, 101"
+3200,212141,Hamilton Station,65402,56
+3201,211860,San Antonio Cir & Showers,65405,21
+3202,212201,Saddle Rack & Meridian,65406," 63, 64A"
+3203,212200,Race & Auzerais,65408," 63, 64A"
+3204,211930,Tully & Galveston,65409,26
+3205,212081,El Camino Hospital,65411," 51,  51"
+3206,212421,Camino Arroyo & Lindsteadt,65422,84
+3207,212421,Camino Arroyo & Renz,65423,84
+3208,212080,Grant & El Camino Hospital,65424,51
+3209,212410,Headquarters & Rose Orchard,65425,831
+3210,212410,Vista Montana & 1st,65426,831
+3211,211871,King & Story,65427," 22,  77"
+3212,212080,Alta Vista High School,65428,51
+3213,212221,Hale & Stoney Creek Way,65429,68
+3214,212670,1st & Paseo de San Antonio,65459,523
+3215,211880,1st & Paseo de San Antonio,65460,23
+3216,212531,2nd & Paseo de San Antonio,65461, 
+3217,211881,2nd & Paseo de San Antonio,65462," 23, 523"
+3218,212300,1st & Saint John,65463," 72,  73"
+3219,212301,2nd & Saint John,65464," 72,  73"
+3220,211930,Tully & 10th,65465,26
+3221,212240,Cerone Yard 1,65466,"703, 703"
+3222,212240,Cerone Yard 2,65467,703
+3223,212240,Cerone Yard 3,65468,703
+3224,212240,Cerone Yard 4,65469,703
+3225,212240,Cerone Yard 5,65470,703
+3226,211860,Evelyn & Frances,65472,21
+3227,212331,Kifer & San Ysidro,65473,822
+3228,212240,North Yard 1,65474,703
+3229,212240,North Yard 2,65475,703
+3230,212240,North Yard 3,65476,703
+3231,212240,North Yard 4,65477,703
+3232,212240,North Yard 5,65478,703
+3233,212240,North Yard 6,65479,703
+3234,212240,Chaboya Yard 1,65481,"703, 703"
+3235,212240,Chaboya Yard 2,65482,703
+3236,212240,Chaboya Yard 3,65483,703
+3237,212240,Chaboya Yard 4,65484,703
+3238,212240,Chaboya Yard 5,65485,703
+3239,212240,Chaboya Yard 6,65486,703
+3240,212240,Chaboya Yard 7,65487,703
+3241,212210,Oakland & Wayne,65491,66
+3242,212451,Alkire & Peak,65493,87
+3243,212390,River Oaks & Cisco,65503,828
+3244,212390,Seely & River Oaks,65507,"828, 828"
+3245,212390,Seely @ Cadance,65511,"828, 828"
+3246,211881,2nd & Santa Clara,65513," 23, 523, 703, 703"
+3247,211840,1st & Santa Clara,65514,703
+3248,212301,2nd & Santa Clara,65515," 72,  73"
+3249,212300,1st & Santa Clara,65516, 
+3250,212200,Camden & Bose,65517," 83, 64A"
+3251,212201,Camden & Bose,65518," 83, 64A"
+3252,212450,Main & Dewitt,65520," 87,  87"
+3253,212421,10th & Alexander,65522,84
+3254,212180,Sierra & Piedmont,65526," 61,  61"
+3255,212191,7th & Julian,65531," 64, 64A"
+3256,212020,Ruby & Evergreen Village Square,65535,39
+3257,212021,Ruby & Evergreen Village Square,65536,39
+3258,212021,Quimby & Mirassou,65537,39
+3259,212021,Murillo & Quimby,65538,39
+3260,212030,Showers & El Camino,65540," 40,  40"
+3261,212030,Showers & Latham,65541,40
+3262,212010,Pollard & Elwood,65543,37
+3263,212011,Pollard & More,65544,37
+3264,212010,Pollard & More,65545,37
+3265,212011,Pollard & Abbott,65546,37
+3266,212011,Pollard & York,65547,37
+3267,212010,Pollard & York,65548,37
+3268,212010,Pollard & Summerwood,65549,37
+3269,211860,Monroe & Bowers,65550,21
+3270,211861,Monroe @ San Tomas Creek,65551,21
+3271,211860,Monroe & Los Padres Boulevard,65552,21
+3272,211860,Monroe @ San Tomas Creek,65553,21
+3273,211861,Monroe & Gallup,65554,21
+3274,211861,Monroe & Deborah,65555,21
+3275,211860,Monroe & Deborah,65556,21
+3276,212010,Hillsdale & Cherry,65564,37
+3277,212010,Hillsdale & Vistamont,65565,37
+3278,212010,Hillsdale & Cheshire,65574,37
+3279,212230,Mabury & Creekland,65577,70
+3280,212230,Mabury & King,65578," 70,  77"
+3281,212231,Mabury & King,65579,70
+3282,212231,Mabury & Penitencia Creek,65580,70
+3283,212190,Francis & McKee,65583," 64, 64A"
+3284,212020,Aborn & Ruby,65584,39
+3285,212020,Aborn & Altamara,65587,39
+3286,212021,Aborn & Altamara,65588,39
+3287,212021,Aborn & Mosher,65589,39
+3288,212020,Aborn & Mosher,65590,39
+3289,212020,Murillo & Chaboya,65591,39
+3290,212021,Murillo & Chemin De Riviere,65592,39
+3291,212021,Murillo & Voltaire,65593,39
+3292,212020,Murillo & Rose Terrasse,65594,39
+3293,212020,Murillo & Aborn,65595,39
+3294,212021,Aborn & Murillo,65596,39
+3295,212450,Cochrane & De Paul,65599,87
+3296,212451,Cochrane & De Paul,65600,87
+3297,212041,Silicon Valley & Eden Park,65602, 
+3298,212040,Silver Creek Valley & Silver Creek Valley,65603, 
+3299,212041,Silver Creek Valley & Silver Creek Valley,65604, 
+3300,212210,11th & St John,65605, 
+3301,211880,Stevens Creek & McArthur,65606, 
+3302,212181,Berryessa & Lundy,65607, 
+3303,212130,Meadowlake & Lakechime,65608, 
+3304,212401,McKean & Almaden,65611,83
+3305,212040,Silicon Valley & Eden Park,65612, 
+3306,212041,Silver Creek Valley & Fontanoso,65613, 
+3307,211981,Meadow & Ramona,65617,288
+3308,211991,Loma Verde & Waverley,65618,288
+3309,211991,Waverley & El Verano,65619,288
+3310,211990,Waverley & El Verano,65620,288
+3311,211990,Loma Verde & Waverley,65621,288
+3312,211981,Meadow & Middlefield,65622,288
+3313,211981,Meadow & Cowper,65623,288
+3314,211980,Meadow & Middlefield,65624,288
+3315,211981,Meadow & Ross,65625,288
+3316,211981,Meadow & Louis,65626,288
+3317,211861,Mathilda & Indio,65629,21
+3318,212011,Camden & Pasodoro,65630,37
+3319,212010,Camden & Esther,65631,37
+3320,212010,Hillsdale & Camden,65632,37
+3321,212420,Valley Health Center,65633,84
+3322,212030,Foothill College Loop at Transit Center,65634," 40,  40,  52,  52"
+3323,211980,Meadow & Ross,65635,288
+3324,211971,Meadow & Louis,65636,288
+3325,211880,De Anza College Transit Center,65637," 23,  23"
+3326,212330,Wolfe & Arques,65638,822
+3327,212330,Deguigne & Stewart,65639,822
+3328,212340,Old Mountain View-Alviso & Great America,65640,823
+3329,212391,1st & River Oaks,65641,828
+3330,212390,1st & Rio Robles,65642,828
+3331,212411,Murphy Ranch & McCarthy,65644,831
+3332,212410,Technology & McCarthy,65645,831
+3333,212411,Technology & McCarthy,65646,831
+3334,212410,Murphy Ranch & Technology,65647,831
+3335,212411,Murphy Ranch & Technology,65648,831
+3336,212211,Monterey & Curtner,65649," 66,  68"
+3337,212391,1st & Rio Robles,65650,828
+3338,212330,Santa Trinita & Arques,65651,822
+3339,212210,Old Oakland & McKay,65652,66
+3340,211940,Cottle & Palmia,65656," 27,  68"
+3341,212021,The Villages & San Felipe,65657,39
+3342,212041,Roeder & Vera,65658,42
+3343,212420,Camino Arroyo & Renz,65659,84
+3344,212420,Camino Arroyo & Lindsteadt,65660,84
+3345,212421,Camino Arroyo & Valley Health Center,65661,84
+3346,212420,Camino Arroyo & Gilroy Crossing,65662, 
+3347,212421,Arroyo Circle & Arroyo Court,65663,84
+3348,212421,Camino Arroyo & 6th,65675,84
+3349,212010,Quito & Ravenswood,65687,37
+3350,212420,Camino Arroyo & Gilman,65689,84
+3351,211910,Meridian & Curci,65695," 63,  25, 64A"
+3352,211911,Meridian & Curci,65696," 63,  25, 64A"
+3353,212561,Tasman & Vienna,65697,"200, 200"
+3354,212411,Vista Montana & 1st,65700,831
+3355,212411,Headquarters & Rose Orchard,65701,831
+3356,212411,Holger & Zanker,65702,831
+3357,212411,Holger & Zanker,65703,831
+3358,212060,Abel & Weller,65704,47
+3359,212181,1st & Mission,65706,61
+3360,211870,Capitol & Tully,65707," 22,  70,  26"
+3361,212450,Elm & Half,65708,87
+3362,212670,San Jose Diridon Station (Bay 5),65716, 
+3363,212531,1ST & GISH,65717, 
+3364,212190,Julian & 13th,65718," 64, 64A"
+3365,212190,Julian & 15th,65719," 64, 64A"
+3366,212190,Julian & 17th,65720," 64, 64A"
+3367,211920,Dry Creek & Cottle,65723,256
+3368,211860,Evelyn & Holly Terrace,65724,21
+3369,211861,Evelyn & Holly Terrace,65725,"822, 822,  21"
+3370,212330,Kifer & Hendy,65726,"822, 822"
+3371,211910,Ginger & Middle,65727,25
+3372,212021,Ruby & Beckley,65732,39
+3373,212021,Ruby & Cortana,65733,39
+3374,212020,Delta & Middle Park,65734,39
+3375,212021,Delta & Oldfield,65735,39
+3376,212020,Delta & Christian,65736,39
+3377,212020,Ruby & Capelaw,65737,39
+3378,212020,Ruby & Cortana,65738,39
+3379,211880,Stevens Creek & Santana Row,65740," 23, 523"
+3380,211881,Stevens Creek & Valley Fair,65741," 23, 523"
+3381,212340,America Center Terminal,65750,"823, 823"
+3382,212341,Old Mountain View-Alviso & Great America,65751,823
+3383,212410,Murphy Ranch & Sandisk,65752,831
+3384,212411,Murphy Ranch & Sandisk,65753,831
+3385,212410,Technology & Murphy Ranch,65754,831
+3386,212410,Murphy Ranch & McCarthy,65755,831
+3387,212530,1ST & GISH,65759, 
+3388,212040,Santa Teresa Station,65760,42
+3389,212120,Santa Clara Transit Center,65764," 53,  53"
+3390,212040,Silver Creek & Capitol,65766,42
+3391,212041,Silver Creek & Yerba Buena,65767,42
+3392,212041,Seven Trees & El Cajon,65768,42
+3393,212040,Seven Trees & San Mateo,65770,42
+3394,212040,Roeder & Grey Ghost,65771,42
+3395,212040,Branham & Rahway,65772,42
+3396,212040,Branham & Eberly,65773,42
+3397,212040,Branham & Houndshaven,65774,42
+3398,212130,Sunnyvale & Olive,65777,55
+3399,212131,Sunnyvale & Olive,65778,55
+3400,211940,International Circle & Kaiser Hospital,65779, 
+3401,212021,San Felipe & George Blauer,65780,39
+3402,212160,Great America Parkway & Great America Way,65781,"823,  59"
+3403,212341,Patrick Henry & Bunker Hill,65782,823
+3404,212331,Wolfe & Central,65784,822
+3405,212560,Tasman & Fair Oaks,65786, 
+3406,212560,TASMAN & VIENNA,65787, 
+3407,212121,Benton & Lafayette,65788," 60,  53"
+3408,212221,Endicott & Cottle,65797," 42,  68"
+3409,212270,PULL-OUT TIME,65798,707
+3410,212271,PULL-IN TIME,65799,707
+3411,212270,CERONE YARD MID EVENT,65800,"707, 707"
+3412,212670,Eastridge Transit Center (Bay 15),65801, 
+3413,211930,Eastridge Transit Center (Bay 14),65802," 26,  26"
+3414,212000,Eastridge Transit Center (Bay 13),65803," 31,  31"
+3415,212290,Eastridge Transit Center (Bay 12),65804,71
+3416,212291,Eastridge Transit Center (Bay 11),65805,71
+3417,212670,Eastridge Transit Center (Bay 10),65806,"103, 103"
+3418,212230,Eastridge Transit Center (Bay 9),65807," 39,  39"
+3419,212670,Eastridge Transit Center (Bay 8),65808, 
+3420,212320,Eastridge Transit Center (Bay 7),65809," 77,  77"
+3421,211871,Eastridge Transit Center (Bay 6),65810," 22, 522"
+3422,211810,Eastridge Transit Center (Bay 1),65811, 
+3423,211870,Eastridge Transit Center (Bay 5),65812," 22, 522"
+3424,212170,Lundy & Hostetter,65815," 60,  77"
+3425,212670,Eastridge Transit Center (Bay 2),65816," 70,  70"
+3426,212670,Eastridge Transit Center (Bay 3),65817, 
+3427,212670,Eastridge Transit Center (Bay 4),65818, 
+3428,212210,Monterey & Cottage Grove,65822," 66,  68"
+3429,211910,Story & Remillard,65823,25
+3430,211911,Story & Remillard,65824,25
+3431,212531,1ST & TASMAN,65836, 
+3432,212121,Homestead & Blainey,65837,53
+3433,212171,Santa Clara Transit Center,65843,60
+3434,212100,Capitol & Nuesta Castillo,65846,522
+3435,212101,Capitol & Wilbur,65847,522
+3436,211871,Santa Clara & 2nd,65849," 22,  22"
+3437,212070,Santa Clara & 2nd,65850,"523, 500, 522"
+3438,212100,Alum Rock & King,65856,522
+3439,212101,Alum Rock & King,65857,522
+3440,212100,Alum Rock & Jackson,65858,522
+3441,212101,Alum Rock & Jackson,65859,522
+3442,212621,PATRICK HENRY POCKET TRACK,65866,"902, 902, 902"
+3443,212170,1ST & METRO LR STATION,65867,60
+3444,212320,BERRYESSA BART - 8,65868," 77,  77"
+3445,212230,BERRYESSA BART - 7,65869, 
+3446,212180,BERRYESSA BART - 6,65870,61
+3447,212181,BERRYESSA BART - 5,65871,61
+3448,212321,BERRYESSA BART - 4,65872," 70,  70"
+3449,212231,BERRYESSA BART - 3,65873," 70,  70"
+3450,212070,BERRYESSA BART - 2,65874,"523, 500"
+3451,212071,BERRYESSA BART - 1,65875,"523, 500"
+3452,211820,MILPITAS BART - 4,65876,XTCX
+3453,212670,MILPITAS BART - 3,65877,XTCX
+3454,211850,MILPITAS BART - 2,65878," 47,  60,  70,  71,  20,  44, XTCX"
+3455,212670,MILPITAS BART - 1,65879,"200, 200, XTCX"
+3456,212670,MILPITAS BART - 8,65880," 60, XTCX"
+3457,212670,MILPITAS BART - 7,65881," 66,  66, XTCX"
+3458,212170,MILPITAS BART - 6,65882," 77,  77, XTCX"
+3459,212670,MILPITAS BART - 5,65883,XTCX
+3460,211850,MILPITAS BART - 12,65884," 20,  20, XTCX"
+3461,212230,MILPITAS BART - 11,65885," 70,  70, XTCX"
+3462,212290,MILPITAS BART - 10,65886," 71,  71, XTCX"
+3463,212670,MILPITAS BART - 9,65887,XTCX
+3464,212060,MILPITAS BART - 16,65888," 47,  47, XTCX"
+3465,212050,MILPITAS BART - 15,65889," 44,  44, XTCX"
+3466,212211,MILPITAS BART - 14,65890,"104, 104, XTCX"
+3467,212210,MILPITAS BART - 13,65891," 66, XTCX"
+3468,212070,11TH & TAYLOR,65892," 66, 500"
+3469,212400,CAMDEN & ALMADEN,65893,83
+3470,212121,HOMESTEAD & KIELY,65895,53
+3471,212431,HOWSON & MONTEREY,65897,85
+3472,212191,Winfield & Coleman,65898, 
+3473,211860,Lafayette & Franklin,65899," 59,  21"
+3474,212131,SUNNYVALE-SARATOGA & EL CAMINO,65901," 55,  55, 523"
+3475,212130,Sunnyvale-Saratoga & El Camino,65902," 55,  55, 523"
+3476,212160,WASHINGTON & NEWHALL,65903,59
+3477,212161,WASHINGTON & NEWHALL,65904,59
+3478,211910,Tamien Station,65906," 25,  25"
+3479,212170,WINCHESTER & STEVENS CREEK,65907,60
+3480,212161,1ST & LIBERTY,65908,59
+3481,212430,MANTELLI & WREN,65910,85
+3482,212431,MANTELLI & WREN,65911,85
+3483,212030,VILLA & FRANKLIN,65912,40
+3484,212030,SHORELINE & SUTTER CREEK,65913,40
+3485,212081,DE ANZA & RODRIGUES,65914,51
+3486,211860,MAUDE & MARY,65916,21
+3487,211861,MAUDE & MARY,65917,21
+3488,211860,MAUDE & PASTORIA,65918,21
+3489,211861,MAUDE & PASTORIA,65919,21
+3490,212130,SUNNYVALE-SARATOGA & REMINGTON,65920,55
+3491,211861,MAUDE & MATHILDA,65922,21
+3492,212680,Mathilda & Innovation,65923,523
+3493,212141,PROSPECT & SARATOGA,65926,56
+3494,212160,GREAT AMERICA & BUNKER HILL,65927,59
+3495,212161,GREAT AMERICA & BUNKER HILL,65928,59
+3496,212161,GREAT AMERICA WY & SANTA CLARA GTWY,65930,59
+3497,211850,AGNEW & MISSION COLLEGE,65931,20
+3498,211851,MISSION COLLEGE & AGNEW,65932," 20,  59"
+3499,211851,AGNEW & LAKESHORE,65933,20
+3500,211850,AGNEW & LAKESHORE,65934,20
+3501,211851,AGNEW & CHEENY,65935,20
+3502,211850,AGNEW & FILLMORE,65936,20
+3503,212160,WASHINGTON & POPLAR,65938,59
+3504,212160,LAFAYETTE & MARKET,65939,59
+3505,212161,LAFAYETTE & MARKET,65940,59
+3506,212161,WASHINGTON & POPLAR,65941,59
+3507,212160,BASCOM & NAGLEE,65942,59
+3508,212160,BASCOM & HEDDING,65943,59
+3509,212161,BASCOM & HEDDING,65944,59
+3510,211850,PLUMERIA & 1ST,65945,20
+3511,211851,PLUMERIA & MONTAGUE,65946,20
+3512,212170,SKYPORT & TECHNOLOGY,65952,60
+3513,212171,1ST & BROKAW,65953,60
+3514,212170,BROKAW & 1ST,65954,60
+3515,212051,MCCANDLESS & CANAL,65955,44
+3516,212051,GREAT MALL & MAIN,65956,44
+3517,212210,11TH & EMPIRE,65957,66
+3518,212401,MCABEE & BERWICKSHIRE,65962,83
+3519,212400,MCABEE & PERALTA,65963,83
+3520,212401,MCABEE & PERALTA,65964,83
+3521,212400,MCABEE & REDMOND,65965,83
+3522,212401,MCABEE & REDMOND,65966,83
+3523,212400,MCABEE & THORNTREE,65967,83
+3524,212401,MCABEE & THORNTREE,65968,83
+3525,212211,10TH & SANTA CLARA,65970,66
+3526,212190,JULIAN & 10TH,65971," 64, 64A"
+3527,212211,10TH & JULIAN,65973,66
+3528,212210,11TH & JULIAN,65974," 66, 64A"
+3529,212400,MCABEE & ALMADEN,65976,83
+3530,212401,MCABEE & ALMADEN,65977,83
+3531,212310,SENTER & MONTEREY,65980," 73,  73"
+3532,212230,OCALA & BERONA,65983,70
+3533,212431,WREN & 1ST,65996,85
+3534,212430,LEAVESLEY & MURRAY,65997,85
+3535,212431,LEAVESLEY & MURRAY,65998,85
+3536,211881,San Carlos & Meridian,66001," 23, 523"
+3537,212240,Light Rail Test Route Start,66002, 
+3538,212240,Light Rail Test Route Stop 1,66003, 
+3539,212240,Light Rail Test Route Stop 2,66004, 
+3540,212240,Light Rail Test Route Stop 3,66005, 
+3541,212240,Light Rail Test Route Stop 4,66006, 
+3542,212240,Light Rail Test Route End,66007, 
+3543,212130,Stelling & Stevens Creek,66008," 55,  55"
+3544,211911,Fruitdale & Del Mar,66017, 
+3545,212170,San Jose Airport Terminal B,66019, 
+3546,212561,GREAT MALL AT TRANSIT CENTER,66021, 
+3547,212050,McCandless & Lee,66023, 
+3548,212390,Tasman & 1st,66024, 
+3549,212221,Main & Hale,66025," 87,  68"
+3550,212240,north inside 1,66027, 
+3551,212240,north inside 2,66028, 
+3552,212240,north inside 3,66029, 
+3553,212240,north inside 4,66030, 
+3554,212240,north inside 5,66031, 
+3555,212240,north inside 6,66032, 
+3556,212030,Charleston & Huff,66036, 
+3557,212040,Silver Creek Valley & Hellyer,66037, 
+3558,212041,Hellyer & Silver Creek Valley,66038, 
+3559,212670,Capitol & Narvaez,66039, 
+3560,212041,Hellyer & Piercy,66041, 
+3561,212040,Hellyer & Piercy,66042, 
+3562,212120,Homestead & Wolfe,66043, 
+3563,212530,Woz Way & San Carlos,66044, 
+3564,212430,Welburn & Church,66045, 
+3565,212190,Santa Clara & 5th,66046, 
+3566,212730,Creekside & Hamilton,66047, 
+3567,212731,Creekside & Hamilton,66048, 
+3568,212730,Bascom Light Rail Station,66049, 
+3569,212211,Monterey & Cottage Grove,66050, 

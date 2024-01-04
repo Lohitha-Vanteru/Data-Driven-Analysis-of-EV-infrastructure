@@ -1,0 +1,65 @@
+,highway,network,route_ref,name,public_transport,bench,operator,shelter,bus,local_ref,amenity,network:wikidata,surface,covered,lit,old_name,wikidata,operator:wikidata,wikipedia,Latitude,Longitude,Zip
+0,bus_stop,Amtrak,,E San Fernando & S 5th,platform,,,,,,,,,,,,,,,37.3364901,-121.8845008,95192
+1,bus_stop,Amtrak,,E San Fernando & S 5th,platform,,,,,,,,,,,,,,,37.3362544,-121.8854141,95112
+2,bus_stop,MST,,San Fernando & San Pedro,,,,,,,,,,,,San Fernando & Almaden,,,,37.3331677,-121.8917845,95113
+3,bus_stop,VTA,10;10,Public Bus VTA #10,platform,,Santa Clara Valley Transportation Authority,,,8.0,,Q1456861,,,,,,,,37.368459,-121.9276886,95053
+4,bus_stop,VTA,181,Civic Center Light Rail Station,,yes,,yes,,,,,,,,,,,,37.3514724,-121.9022928,95110
+5,bus_stop,VTA,22;17,W Santa Clara & Delmas Ave,platform,,Santa Clara Valley Transportation Authority,,,,,,,,,,,,,37.3319309,-121.8995182,95110
+6,bus_stop,VTA,22;23;522,17th,,,,,,,,,,,,,,,,37.3436216,-121.8746355,95112
+7,bus_stop,VTA,22;23;522,17th,,,,,,,,,,,,,,,,37.3438025,-121.8747442,95112
+8,bus_stop,VTA,22;23;522,24th,,yes,,yes,,,,,,,,,,,,37.3467974,-121.867942,95116
+9,bus_stop,VTA,22;23;522,24th,,yes,,yes,,,,,,,,,,,,37.3469539,-121.8680731,95116
+10,bus_stop,VTA,22;522,Arena,,yes,,yes,,,,,,,,,,,,37.3318084,-121.9015344,95110
+11,bus_stop,VTA,22;522,Arena,,yes,,yes,,,,,,,,,,,,37.3320856,-121.9019394,95110
+12,bus_stop,VTA,22;522,Downtown San Jose,,,,,,,,,,,,Santa Clara & First,,,,37.3363415,-121.8904611,95113
+13,bus_stop,VTA,22;68;168;17,W Santa Clara & Almaden Blvd,platform,,Santa Clara Valley Transportation Authority,,,,,,,,,,,,,37.3338252,-121.8957834,95113
+14,bus_stop,VTA,22;68;17,W Santa Clara & Almaden Blvd,platform,,Santa Clara Valley Transportation Authority,,,,,,,,,,,,,37.3339589,-121.8949841,95110
+15,bus_stop,VTA,22;68;17,W Santa Clara & S Market,platform,,Santa Clara Valley Transportation Authority,yes,,,,,,,,,,,,37.3354614,-121.8923333,95110
+16,bus_stop,VTA,23;522,Alum Rock,,,,,,,,,,,,,,,,37.3616876,-121.834971,95127
+17,bus_stop,VTA,522,Alum Rock,,,,,,,,,,,,,,,,37.3620683,-121.8346773,95127
+18,bus_stop,VTA,522,City Hall,,,,,,,,,,,,,,,,37.3385309,-121.8854779,
+19,bus_stop,VTA,522,City Hall,,,,,,,,,,,,,,,,37.3383944,-121.8861338,95112
+20,bus_stop,VTA,522,Eastridge Transit Center,,,,,,,,,,,,,,,,37.3278356,-121.8109316,95148
+21,bus_stop,VTA,522,Ocala,,,,,,,,,,,,,,,,37.3398681,-121.8197132,95122
+22,bus_stop,VTA,522,Ocala,,,,,,,,,,,,,,,,37.3414674,-121.8203194,95127
+23,bus_stop,VTA,522,Story,,,,,,,,,,,,,,,,37.3501374,-121.8269015,95127
+24,bus_stop,VTA,522,Story,,,,,,,,,,,,,,,,37.3515063,-121.8270195,95127
+25,bus_stop,VTA,65,Camden Avenue & Highway 85,,,,,,,,,,,,,,,,37.2495925,-121.9098289,95124
+26,bus_stop,VTA,66,1st & Keyes,,,,,,,,,,,,,,,,37.3198612,-121.877276,95192
+27,bus_stop,VTA,66,1st & Keyes,,,,,,,,,,,,,,,,37.3201668,-121.877936,95192
+28,bus_stop,VTA,66,Civic Center Light Rail Station,,yes,,yes,,,,,,,,,,,,37.3516239,-121.9023888,95110
+29,bus_stop,VTA,,63,,,VTA,,,,,,,,,,,,,37.2218949,-121.8729549,95120
+30,bus_stop,VTA,,63,,,VTA,,,,,,,,,,,,,37.2222229,-121.8724357,95120
+31,bus_stop,VTA,,Bird & San Carlos (northbound),platform,,Santa Clara Valley Transportation Authority,,,,,,,,,,,,,37.3252202,-121.9005116,95128
+32,bus_stop,VTA,,Tamien Bus Station,,yes,Santa Clara Valley Transit Authority,yes,,,,,,yes,,,,,,37.3109779,-121.8846996,95125
+33,bus_stop,VTA;Amtrak,64;17,Bird Ave & W San Carlos,platform,yes,,yes,,,,,,,,,,,,37.3241514,-121.9002894,95110
+34,bus_stop,VTA;Amtrak,64;65;17,Autumn & Park (northbound),platform,,,,,,,,,,,,,,,37.3269868,-121.9005148,95110
+35,bus_stop,VTA;Amtrak,64;65;17,Montgomery & Park (souhbound),platform,,,,,,,,,,,,,,,37.3269088,-121.900986,95110
+36,bus_stop,VTA;Hwy 17,,Downtown San Jose,platform,,,,,,,,,,,East Santa Clara & South 1st,,,,37.3364911,-121.8896869,95113
+37,bus_stop,VTA;MST;Amtrak,65;55;17,E San Fernando & S 7th,platform,,,,,,,,,,,,,,,37.3372557,-121.8832755,95192
+38,bus_stop,,522;22,The Alameda & Julian,,,VTA,,,,,,,,,,,,,37.3319376,-121.9122127,95126
+39,bus_stop,,66,Civic Center Light Rail Station,,,VTA,,,,,,,,,,,,,37.3518506,-121.9020993,95110
+40,bus_stop,,66,Oakland & Brokaw,,,VTA,,,,,,,,,,,,,37.3802138,-121.8952419,95131
+41,bus_stop,,66,Oakland & Brokaw,,,VTA,,,,,,,,,,,,,37.3823544,-121.8958199,95131
+42,bus_stop,,66,Oakland & Brokaw,,,VTA,,,,,,,,,,,,,37.3832842,-121.8959976,95131
+43,bus_stop,,66,Oakland & Brokaw,,,VTA,,,,,,,,,,,,,37.3838384,-121.8968707,95131
+44,bus_stop,,66,Oakland & Montague Expressway,,,VTA,,,,,,,,,,,,,37.4034506,-121.9030684,95031
+45,bus_stop,,66,Second & Santa Clara,,,VTA,,,,,,,,,,,,,37.3358261,-121.8889252,95113
+46,bus_stop,,66;68;168,First & Santa Clara,,,VTA,,,,,,,,,,,,,37.3355217,-121.8901043,95113
+47,bus_stop,,,ACE shuttle stop,,,,,,,,,,,,,,,,37.41468,-121.954173,95134
+48,bus_stop,,,Curtner & Lincoln,,,VTA,,,,,,,,,,,,,37.2899015,-121.8872396,95125
+49,bus_stop,,,First & Santa Clara,platform,,,,,,,,,,,,,,,37.3356055,-121.8901301,95113
+50,bus_stop,,,FlixBus San José,platform,,Flixbus USA,,yes,,,,,,,,,Q15712258,,37.3267915,-121.8111143,95148
+51,bus_stop,,,Inter-Terminal Shuttle,,,,,,6.0,,,,,,,,,,37.3682414,-121.9272621,95053
+52,bus_stop,,,Lincoln & Curtner,,,VTA,,,,,,,,,,,,,37.289597,-121.8874353,95125
+53,bus_stop,,,S 2nd & E Santa Clara,platform,,,,,,,,,,,,,,,37.3358047,-121.8889807,95113
+54,bus_stop,,,VTA,,yes,,yes,,,,,,,,,,,,37.2368176,-121.8029501,95119
+55,bus_stop,,,W Santa Clara & Delmas Ave,platform,,,,,,,,,,,,,,,37.3323709,-121.8988171,95110
+56,bus_stop,,,W Santa Clara & S Almaden Ave,platform,,,,,,,,,,,,,,,37.3347296,-121.8933535,95110
+57,bus_stop,,,W Santa Clara & S Almaden Ave,platform,,,,,,,,,,,,,,,37.3345824,-121.8941206,95110
+58,,VTA,,Berryessa Transit Center,station,,Santa Clara Valley Transportation Authority,,yes,,bus_station,Q1456861,,,,,,Q1456861,,37.3696455,-121.8747525,95133
+59,,VTA,,Eastridge Transit Center,,,,,,,bus_station,,,,,,Q14681891,,,37.3273603,-121.8108551,95148
+60,,VTA,,Santa Teresa,station,,Santa Clara Valley Transportation Authority,,yes,,bus_station,,,,,,Q7419950,,en:Santa Teresa station,37.2368194,-121.789417,95119
+61,,VTA,,Valley Fair,,,,,,,bus_station,,,,,,,,,37.3268365,-121.9479336,95128
+62,,VTA;Amtrak;MST;BoltBus;Greyhound;Megabus,,San José Diridon Transit Center,station,,,,,,bus_station,,,,,,,,,37.3299385,-121.9024992,95110
+63,,,,Alum Rock Transit Center,,,,,,,bus_station,,,,,,Q4737340,,en:Alum Rock Transit Center,37.3579807,-121.8326691,95127
