@@ -1,0 +1,82 @@
+
+<html>
+  <head>
+  </head>
+  <body style="background-color: hsl(0deg 0% 0%);">
+    <!-- Section: Design Block -->
+    <section class="background-radial-gradient overflow-hidden">
+      <!-- Font Awesome -->
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+      <!-- Google Fonts -->
+      <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet"/>
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/mdb.min.css') }}">
+      <script type="text/javascript" src="{{ url_for('static', filename='js/mdb.min.js') }}"></script>
+      <style>
+        .bg {
+          position: fixed; 
+          top: 0; 
+          left: 0; 
+          
+          /* Preserve aspet ratio */
+          min-width: 100%;
+          min-height: 100%;
+        }
+
+        .bg-glass {
+          background-color: hsla(0, 0%, 100%, 0.9) !important;
+          backdrop-filter: saturate(200%) blur(25px);
+        }
+
+        .bg-img {
+          background-size: cover;
+          background-position: center;
+          background-attachment: fixed;
+          position: absolute;
+          width: 90%;
+        }
+
+        .divider:after,
+        .divider:before {
+          content: "";
+          flex: 1;
+          height: 1px;
+          background: #eee;
+        }
+      </style>
+
+      <div class="container px-4 py-4 px-md-5 text-center text-lg-start my-5">
+        <div class="row gx-lg-5 align-items-center mb-5">
+          <img class="bg-img" src="{{ url_for('static', filename='img/electric_truck.jpeg') }}" alt="">
+          <div class="col-lg-6 mb-5 mb-lg-8" style="z-index: 10">
+            <h1 class="my-1 display-8 fw-medium ls-tight opacity-80" style="color: hsl(0deg 0% 100%); padding: 0px 10px; font-family: monospace; font-style: italic;">
+              Wondering where the EV revolution steers next?
+            </h1>
+            <h1 class="my-5 display-2 fw-bold ls-tight" style="color: hsl(0deg 0% 100%); padding: 0px 10px; font-family: monospace; font-style: italic; font-size: 4.7rem;">
+              VELOCITY
+            </h1>
+            <p class="mb-4 opacity-80" style="text-align: center; font-weight: inherit; font-size: 25px; font-family: monospace; font-style: italic; color: hsl(0deg 0% 100%);">
+              is the redefined solution...
+            </p>
+          </div>
+        </div>
+        <div class="row gx-lg-5 align-items-center mb-5">
+          <p class="mb-0 opacity-80" style="font-weight: inherit; font-size: 23px; font-family: monospace; font-style: italic; color: hsl(0deg 0% 100%);">
+            Welcome to VELOCITY - your gateway to the future of EV charging infrastructure!
+          </p>
+          <p class="mb-4 opacity-80" style="font-weight: inherit; font-size: 20px; font-family: monospace; font-style: italic; color: hsl(0deg 0% 100%);">
+            Explore analytics that are shaping the future of sustainable electric mobility and discover new charging hotspots for medium and heavy duty vehicles
+          </p>
+          <p class="mb-4 opacity-80" style="text-align: center; font-weight: inherit; font-size: 20px; font-family: monospace; font-style: italic; color: hsl(0deg 0% 100%);">
+            Ready to ride the electric wave?
+          </p>
+        </div>
+        <div class="row gx-lg-0 align-items-center mb-5">
+          <div style="margin-left: 35rem;">
+            <button type=button class="btn btn-success btn-lg btn-bold-border" onclick="window.location.href='{{ url_for( 'home') }}';">Dive In</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Section: Design Block -->
+  </body>
+</html>

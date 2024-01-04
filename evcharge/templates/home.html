@@ -1,0 +1,1652 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Velocity</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet" />
+        <link href="{{ url_for('static', filename='css/velocity.css') }}" rel="stylesheet" />
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg bg-navbar-secondary text-uppercase fixed-top" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand" href="#page-top">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-lightning-charge-fill" viewBox="0 0 16 16">
+                        <path d="M11.251.068a.5.5 0 0 1 .227.58L9.677 6.5H13a.5.5 0 0 1 .364.843l-8 8.5a.5.5 0 0 1-.842-.49L6.323 9.5H3a.5.5 0 0 1-.364-.843l8-8.5a.5.5 0 0 1 .615-.09z"/>
+                    </svg>
+                    Velocity
+                </a>
+                <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#home">Home</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact Us</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="https://public.tableau.com/app/profile/lohitha.vanteru5511/viz/MarketAnalysisofHDMD-EVCSI/Story2?publish=yes" target="_blank">Market Analysis</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="https://github.com/Lohitha-Vanteru/DATA298B_T6_EVCSI" target="_blank">Github</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Masthead-->
+        <header class="bg-primary text-white" style="padding-bottom: 2rem; padding-top: calc(2rem + 104px);">
+            <div class="container d-flex flex-column">
+                <p class="masthead-subheading font-weight-light mb-0">Vehicle Estimations and Location Insights for EV Charging Optimization (VELOCITY).</p>
+                <p class="masthead-subheading font-weight-light mb-0">This platform streamlines EV charging optimization, offering detailed analytics for heavy/medium-duty vehicles, and suggesting strategic new station locations on an interactive map</p>
+            </div>
+        </header>
+        <!-- Portfolio Section-->
+        <section class="page-section portfolio" id="home">
+            <div class="container">
+                <!-- Nav tabs -->
+                <ul class="nav nav-tabs" id="navtabHome" role="tablist">
+                    <li role="presentation" class="nav-item">
+                        <button class="nav-link active" id="charging-census-tab" data-bs-toggle="tab" data-bs-target="#charging-census" type="button" role="tab" aria-controls="charging-census" aria-selected="true">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-ev-station" viewBox="0 0 16 16">
+                                <path d="M3.5 2a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5h-5Zm2.131 10.46H4.14v-.893h1.403v-.505H4.14v-.855h1.49v-.54H3.485V13h2.146v-.54Zm1.316.54h.794l1.106-3.333h-.733l-.74 2.615h-.031l-.747-2.615h-.764L6.947 13Z"/>
+                                <path d="M3 0a2 2 0 0 0-2 2v13H.5a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1H11v-4a1 1 0 0 1 1 1v.5a1.5 1.5 0 0 0 3 0V4a.5.5 0 0 0-.146-.354l-.5-.5a.5.5 0 0 0-.707 0l-.5.5A.5.5 0 0 0 13 4v3c0 .71.38 1.096.636 1.357l.007.008c.253.258.357.377.357.635v3.5a.5.5 0 1 1-1 0V12a2 2 0 0 0-2-2V2a2 2 0 0 0-2-2H3Zm7 2v13H2V2a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1Z"/>
+                            </svg>
+                            <p class="mb-0">Charging Census</p>
+                        </button>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <button class="nav-link" id="charging-snapshot-tab" data-bs-toggle="tab" data-bs-target="#charging-snapshot" type="button" role="tab" aria-controls="charging-snapshot" aria-selected="false">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-battery-charging" viewBox="0 0 16 16">
+                                <path d="M9.585 2.568a.5.5 0 0 1 .226.58L8.677 6.832h1.99a.5.5 0 0 1 .364.843l-5.334 5.667a.5.5 0 0 1-.842-.49L5.99 9.167H4a.5.5 0 0 1-.364-.843l5.333-5.667a.5.5 0 0 1 .616-.09z"/>
+                                <path d="M2 4h4.332l-.94 1H2a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h2.38l-.308 1H2a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2z"/>
+                                <path d="M2 6h2.45L2.908 7.639A1.5 1.5 0 0 0 3.313 10H2V6zm8.595-2-.308 1H12a1 1 0 0 1 1 1v4a1 1 0 0 1-1 1H9.276l-.942 1H12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-1.405z"/>
+                                <path d="M12 10h-1.783l1.542-1.639c.097-.103.178-.218.241-.34V10zm0-3.354V6h-.646a1.5 1.5 0 0 1 .646.646zM16 8a1.5 1.5 0 0 1-1.5 1.5v-3A1.5 1.5 0 0 1 16 8z"/>
+                            </svg>
+                            <p class="mb-0">Charging Snapshot</p>
+                        </button>
+                    </li>
+                    <li role="presentation" class="nav-item">
+                        <button class="nav-link" id="charge-map-tab" data-bs-toggle="tab" data-bs-target="#charge-map" type="button" role="tab" aria-controls="charge-map" aria-selected="false">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                                <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+                            </svg>
+                            <p class="mb-0">Charge Map</p>
+                        </button>
+                    </li>
+                </ul>
+
+                <!-- Tab panes -->
+                <div class="tab-content" id="navtabHomeContent">
+                    <div role="tabpanel" class="tab-pane fade show active" id="charging-census" aria-labelledby="charging-census-tab">
+                        <div id="charging-census-responsive-main">
+                            <div class="col mt-4 mb-4">
+                                <h3 class="text-center">Powering Up the Future : How Many Charging Stations Will Spark up Your Area?</h3>
+                            </div>
+                            <div class="col">
+                                <div class="d-flex flex-row align-items-center justify-content-center">
+                                    <div class="card me-5" style="width: 18rem;">
+                                        <img class="card-img-top" src="{{ url_for('static', filename='img/county_map.png') }}" style="background-color: gainsboro; width: 284px; height: 220px;">
+                                        <div class="card-body text-center" style="background-color: aliceblue;">
+                                            <h5 class="card-title">County Wise</h5>
+                                            <button onclick="chargingCensusToggle()" class="btn btn-primary">Get Estimates</button>
+                                        </div>
+                                    </div>
+                                    <div class="card" style="width: 18rem;">
+                                        <img class="card-img-top" src="{{ url_for('static', filename='img/zipcode_map.jpeg') }}" style="width: 284px; height: 220px;">
+                                        <div class="card-body text-center" style="background-color: aliceblue;">
+                                            <h5 class="card-title">Zipcode Wise</h5>
+                                            <button onclick="chargingCensusZipToggle()" class="btn btn-primary">Get Estimates</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="charging-census-responsive-select" style="display: none;">
+                            <div class="col mt-4 mb-4 text-center">
+                                <div class="d-flex flex-row justify-content-center">
+                                    <select id="county-select" class="form-select me-5" aria-label="county-select" style="width: 18rem;">
+                                        <option disabled selected>Select a County</option>
+                                        <option value="Alameda">Alameda</option>
+                                        <option value="Alpine">Alpine</option>
+                                        <option value="Amador">Amador</option>
+                                        <option value="Butte">Butte</option>
+                                        <option value="Calaveras">Calaveras</option>
+                                        <option value="Colusa">Colusa</option>
+                                        <option value="Contra Costa">Contra Costa</option>
+                                        <option value="Del Norte">Del Norte</option>
+                                        <option value="El Dorado">El Dorado</option>
+                                        <option value="Fresno">Fresno</option>
+                                        <option value="Glenn">Glenn</option>
+                                        <option value="Humboldt">Humboldt</option>
+                                        <option value="Imperial">Imperial</option>
+                                        <option value="Inyo">Inyo</option>
+                                        <option value="Kern">Kern</option>
+                                        <option value="Kings">Kings</option>
+                                        <option value="Lake">Lake</option>
+                                        <option value="Lassen">Lassen</option>
+                                        <option value="Los Angeles">Los Angeles</option>
+                                        <option value="Madera">Madera</option>
+                                        <option value="Marin">Marin</option>
+                                        <option value="Mariposa">Mariposa</option>
+                                        <option value="Mendocino">Mendocino</option>
+                                        <option value="Merced">Merced</option>
+                                        <option value="Modoc">Modoc</option>
+                                        <option value="Mono">Mono</option>
+                                        <option value="Monterey">Monterey</option>
+                                        <option value="Napa">Napa</option>
+                                        <option value="Nevada">Nevada</option>
+                                        <option value="Orange">Orange</option>
+                                        <option value="Placer">Placer</option>
+                                        <option value="Plumas">Plumas</option>
+                                        <option value="Riverside">Riverside</option>
+                                        <option value="Sacramento">Sacramento</option>
+                                        <option value="San Benito">San Benito</option>
+                                        <option value="San Bernardino">San Bernardino</option>
+                                        <option value="San Diego">San Diego</option>
+                                        <option value="San Francisco">San Francisco</option>
+                                        <option value="San Joaquin">San Joaquin</option>
+                                        <option value="San Luis Obispo">San Luis Obispo</option>
+                                        <option value="San Mateo">San Mateo</option>
+                                        <option value="Santa Barbara">Santa Barbara</option>
+                                        <option value="Santa Clara">Santa Clara</option>
+                                        <option value="Santa Cruz">Santa Cruz</option>
+                                        <option value="Shasta">Shasta</option>
+                                        <option value="Sierra">Sierra</option>
+                                        <option value="Siskiyou">Siskiyou</option>
+                                        <option value="Solano">Solano</option>
+                                        <option value="Sonoma">Sonoma</option>
+                                        <option value="Stanislaus">Stanislaus</option>
+                                        <option value="Sutter">Sutter</option>
+                                        <option value="Tehama">Tehama</option>
+                                        <option value="Trinity">Trinity</option>
+                                        <option value="Tulare">Tulare</option>
+                                        <option value="Tuolumne">Tuolumne</option>
+                                        <option value="Ventura">Ventura</option>
+                                        <option value="Yolo">Yolo</option>
+                                        <option value="Yuba">Yuba</option>
+                                    </select>
+                                    <select id="county-year-select" class="form-select me-5" aria-label="county-select" style="width: 18rem;">
+                                        <option disabled selected>Select a Year</option>
+                                        <option value="2023">2023</option>
+                                        <option value="2024">2024</option>
+                                        <option value="2025">2025</option>
+                                        <option value="2026">2026</option>
+                                        <option value="2027">2027</option>
+                                        <option value="2028">2028</option>
+                                        <option value="2029">2029</option>
+                                        <option value="2030">2030</option>
+                                        <option value="2031">2031</option>
+                                        <option value="2032">2032</option>
+                                        <option value="2033">2033</option>
+                                        <option value="2034">2034</option>
+                                        <option value="2035">2035</option>
+                                        <option value="2036">2036</option>
+                                        <option value="2037">2037</option>
+                                        <option value="2038">2038</option>
+                                        <option value="2039">2039</option>
+                                        <option value="2040">2040</option>
+                                        <option value="2041">2041</option>
+                                        <option value="2042">2042</option>
+                                        <option value="2043">2043</option>
+                                        <option value="2044">2044</option>
+                                        <option value="2045">2045</option>
+                                    </select>
+                                    <button id="chargingCensusSubmit" class="btn btn-primary">Calculate</button>
+                                </div>
+                                <img class="mt-4" src="{{ url_for('static', filename='img/county_map.png') }}" style="width: 30rem; height: 45rem;">
+                            </div>
+                        </div>
+                        <div id="charging-census-responsive-result" style="display: none;">
+                            <div class="d-flex flex-row">
+                                <div class="col-lg-4">
+                                    <h5 class="p-3">What kinds of charging ports are needed?</h5>
+                                    <div class="col m-3">
+                                        <div class="d-flex flex-row p-3 charging-census-list" data-bs-toggle="modal" data-bs-target="#chargingCensusVehiclesModal">
+                                            <div class="width-50">
+                                                <h1 id="number_of_vehicles">0</h1>
+                                                <p>Number of Vehicles</p>
+                                            </div>
+                                            <div class="width-50 pl-8 pt-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-truck" viewBox="0 0 16 16">
+                                                    <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h9A1.5 1.5 0 0 1 12 3.5V5h1.02a1.5 1.5 0 0 1 1.17.563l1.481 1.85a1.5 1.5 0 0 1 .329.938V10.5a1.5 1.5 0 0 1-1.5 1.5H14a2 2 0 1 1-4 0H5a2 2 0 1 1-3.998-.085A1.5 1.5 0 0 1 0 10.5zm1.294 7.456A1.999 1.999 0 0 1 4.732 11h5.536a2.01 2.01 0 0 1 .732-.732V3.5a.5.5 0 0 0-.5-.5h-9a.5.5 0 0 0-.5.5v7a.5.5 0 0 0 .294.456M12 10a2 2 0 0 1 1.732 1h.768a.5.5 0 0 0 .5-.5V8.35a.5.5 0 0 0-.11-.312l-1.48-1.85A.5.5 0 0 0 13.02 6H12zm-9 1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m9 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="modal fade" id="chargingCensusVehiclesModal" tabindex="-1" aria-labelledby="chargingCensusVehiclesLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header justify-content-center">
+                                                        <h4 class="pe-2" id="number_of_vehicles_modal">0</h4>
+                                                        <h6 class="ps-2">Number of Vehicles</h6>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <div class="d-flex flex-column">
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-bus fa-xl" style="color: #fff700;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="number_of_school_bus_modal">0</h4>
+                                                                <h6 class="ps-4 pt-1 mt-4">Number of School Buses</h6>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-bus fa-xl" style="color: #2e72b2;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="number_of_transit_bus_modal">0</h4>
+                                                                <h6 class="ps-4 pt-1 mt-4">Number of Transit Buses</h6>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-truck-front fa-xl" style="color: #2e72b2;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="number_of_delivery_trucks_modal">0</h4>
+                                                                <h6 class="ps-4 pt-1 mt-4">Number of Delivery Trucks</h6>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col m-3">
+                                        <div class="d-flex flex-row p-3 charging-census-list" data-bs-toggle="modal" data-bs-target="#sharedPrivateDCFastModal">
+                                            <div class="width-50">
+                                                <h1 id="shared_private_dc_fast">0</h1>
+                                                <p>Shared Private DC Fast Charging</p>
+                                            </div>
+                                            <div class="width-50 pl-8 pt-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-ev-station" viewBox="0 0 16 16">
+                                                    <path d="M3.5 2a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5zm2.131 10.46H4.14v-.893h1.403v-.505H4.14v-.855h1.49v-.54H3.485V13h2.146zm1.316.54h.794l1.106-3.333h-.733l-.74 2.615h-.031l-.747-2.615h-.764z"/>
+                                                    <path d="M3 0a2 2 0 0 0-2 2v13H.5a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1H11v-4a1 1 0 0 1 1 1v.5a1.5 1.5 0 0 0 3 0V4a.5.5 0 0 0-.146-.354l-.5-.5a.5.5 0 0 0-.707 0l-.5.5A.5.5 0 0 0 13 4v3c0 .71.38 1.096.636 1.357l.007.008c.253.258.357.377.357.635v3.5a.5.5 0 1 1-1 0V12a2 2 0 0 0-2-2V2a2 2 0 0 0-2-2zm7 2v13H2V2a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="modal fade" id="sharedPrivateDCFastModal" tabindex="-1" aria-labelledby="sharedPrivateDCFastLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header justify-content-center">
+                                                        <h4 class="pe-2" id="shared_private_dc_fast_modal">0</h4>
+                                                        <h6 class="ps-2">Shared Private DC Fast Charging</h6>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <div class="d-flex flex-column">
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-school fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="educational_facility_spdc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Educational Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-building-user fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="transportation_facility_spdc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Transportation Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-warehouse fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="warehouse_facility_spdc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Warehouse Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col m-3">
+                                        <div class="d-flex flex-row p-3 charging-census-list" data-bs-toggle="modal" data-bs-target="#sharedPrivateLevel2Modal">
+                                            <div class="width-50">
+                                                <h1 id="shared_private_level_2">0</h1>
+                                                <p>Shared Private Level 2 Charging</p>
+                                            </div>
+                                            <div class="width-50 pl-8 pt-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-ev-station" viewBox="0 0 16 16">
+                                                    <path d="M3.5 2a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5zm2.131 10.46H4.14v-.893h1.403v-.505H4.14v-.855h1.49v-.54H3.485V13h2.146zm1.316.54h.794l1.106-3.333h-.733l-.74 2.615h-.031l-.747-2.615h-.764z"/>
+                                                    <path d="M3 0a2 2 0 0 0-2 2v13H.5a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1H11v-4a1 1 0 0 1 1 1v.5a1.5 1.5 0 0 0 3 0V4a.5.5 0 0 0-.146-.354l-.5-.5a.5.5 0 0 0-.707 0l-.5.5A.5.5 0 0 0 13 4v3c0 .71.38 1.096.636 1.357l.007.008c.253.258.357.377.357.635v3.5a.5.5 0 1 1-1 0V12a2 2 0 0 0-2-2V2a2 2 0 0 0-2-2zm7 2v13H2V2a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="modal fade" id="sharedPrivateLevel2Modal" tabindex="-1" aria-labelledby="sharedPrivateLevel2Label" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header justify-content-center">
+                                                        <h4 class="pe-2" id="shared_private_level_2_modal">0</h4>
+                                                        <h6 class="ps-2">Shared Private Level 2 Charging</h6>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <div class="d-flex flex-column">
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-school fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="educational_facility_spl2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Educational Facility</h6>
+                                                                    <p>Private Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-building-user fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="transportation_facility_spl2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Transportation Facility</h6>
+                                                                    <p>Private Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-warehouse fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="warehouse_facility_spl2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Warehouse Facility</h6>
+                                                                    <p>Private Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col m-3">
+                                        <div class="d-flex flex-row p-3 charging-census-list" data-bs-toggle="modal" data-bs-target="#publicDCFastChargingModal">
+                                            <div class="width-50">
+                                                <h1 id="public_dc_fast">0</h1>
+                                                <p>Public DC Fast Charging</p>
+                                            </div>
+                                            <div class="width-50 pl-8 pt-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-ev-station" viewBox="0 0 16 16">
+                                                    <path d="M3.5 2a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5zm2.131 10.46H4.14v-.893h1.403v-.505H4.14v-.855h1.49v-.54H3.485V13h2.146zm1.316.54h.794l1.106-3.333h-.733l-.74 2.615h-.031l-.747-2.615h-.764z"/>
+                                                    <path d="M3 0a2 2 0 0 0-2 2v13H.5a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1H11v-4a1 1 0 0 1 1 1v.5a1.5 1.5 0 0 0 3 0V4a.5.5 0 0 0-.146-.354l-.5-.5a.5.5 0 0 0-.707 0l-.5.5A.5.5 0 0 0 13 4v3c0 .71.38 1.096.636 1.357l.007.008c.253.258.357.377.357.635v3.5a.5.5 0 1 1-1 0V12a2 2 0 0 0-2-2V2a2 2 0 0 0-2-2zm7 2v13H2V2a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="modal fade" id="publicDCFastChargingModal" tabindex="-1" aria-labelledby="publicDCFastChargingLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header justify-content-center">
+                                                        <h4 class="pe-2" id="public_dc_fast_modal">0</h4>
+                                                        <h6 class="ps-2">Public DC Fast Charging</h6>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <div class="d-flex flex-column">
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-school fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="educational_facility_pdc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Educational Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-building-user fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="transportation_facility_pdc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Transportation Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-warehouse fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="warehouse_facility_pdc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Warehouse Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col m-3">
+                                        <div class="d-flex flex-row p-3 charging-census-list" data-bs-toggle="modal" data-bs-target="#publicLevel2Modal">
+                                            <div class="width-50">
+                                                <h1 id="public_level_2">0</h1>
+                                                <p>Public Level 2 Charging</p>
+                                            </div>
+                                            <div class="width-50 pl-8 pt-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-ev-station" viewBox="0 0 16 16">
+                                                    <path d="M3.5 2a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5zm2.131 10.46H4.14v-.893h1.403v-.505H4.14v-.855h1.49v-.54H3.485V13h2.146zm1.316.54h.794l1.106-3.333h-.733l-.74 2.615h-.031l-.747-2.615h-.764z"/>
+                                                    <path d="M3 0a2 2 0 0 0-2 2v13H.5a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1H11v-4a1 1 0 0 1 1 1v.5a1.5 1.5 0 0 0 3 0V4a.5.5 0 0 0-.146-.354l-.5-.5a.5.5 0 0 0-.707 0l-.5.5A.5.5 0 0 0 13 4v3c0 .71.38 1.096.636 1.357l.007.008c.253.258.357.377.357.635v3.5a.5.5 0 1 1-1 0V12a2 2 0 0 0-2-2V2a2 2 0 0 0-2-2zm7 2v13H2V2a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="modal fade" id="publicLevel2Modal" tabindex="-1" aria-labelledby="publicLevel2Label" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header justify-content-center">
+                                                        <h4 class="pe-2" id="public_level_2_modal">0</h4>
+                                                        <h6 class="ps-2">Public Level 2 Charging</h6>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <div class="d-flex flex-column">
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-school fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="educational_facility_pl2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Educational Facility</h6>
+                                                                    <p>Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-building-user fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="transportation_facility_pl2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Transportation Facility</h6>
+                                                                    <p>Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-warehouse fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="warehouse_facility_pl2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Warehouse Facility</h6>
+                                                                    <p>Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="container d-flex justify-container-center">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <div id="donutchart" style="width: 400px; height: 300px;"></div>
+                                            </div>
+                                            <div class="col-md-6" id="county-map-img">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="container d-flex justify-container-center">
+                                        <div class="row">
+                                            <div id="donutspdcchart" style="width: 260px; height: 250px;"></div>
+                                        </div>
+                                        <div class="row">
+                                            <div id="donutspl2chart" style="width: 260px; height: 250px;"></div>
+                                        </div>
+                                        <div class="row">
+                                            <div id="donutpdcchart" style="width: 260px; height: 250px;"></div>
+                                        </div>
+                                        <div class="row">
+                                            <div id="donutpl2chart" style="width: 260px; height: 250px;"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="charging-census-responsive-zip-search" style="display: none;">
+                            <div class="col mt-4 mb-4 text-center">
+                                <div class="d-flex flex-row justify-content-center">
+                                    <input id="chargeCensueZipCode" type="text" class="form-control input-text me-2" placeholder="Enter a Zipcode">
+                                    <select id="zipcode-year-select" class="form-select me-5" aria-label="zipcode-year-select" style="width: 18rem;">
+                                        <option disabled selected>Select a Year</option>
+                                        <option value="2023">2023</option>
+                                        <option value="2024">2024</option>
+                                        <option value="2025">2025</option>
+                                        <option value="2026">2026</option>
+                                        <option value="2027">2027</option>
+                                        <option value="2028">2028</option>
+                                        <option value="2029">2029</option>
+                                        <option value="2030">2030</option>
+                                        <option value="2031">2031</option>
+                                        <option value="2032">2032</option>
+                                        <option value="2033">2033</option>
+                                        <option value="2034">2034</option>
+                                        <option value="2035">2035</option>
+                                        <option value="2036">2036</option>
+                                        <option value="2037">2037</option>
+                                        <option value="2038">2038</option>
+                                        <option value="2039">2039</option>
+                                        <option value="2040">2040</option>
+                                        <option value="2041">2041</option>
+                                        <option value="2042">2042</option>
+                                        <option value="2043">2043</option>
+                                        <option value="2044">2044</option>
+                                        <option value="2045">2045</option>
+                                    </select>
+                                    <button id="chargingCensusZipSubmit" class="btn btn-primary">Calculate</button>
+                                </div>
+                                <img class="mt-4" src="{{ url_for('static', filename='img/zipcode_map.jpeg') }}" style="width: 40rem; height: 40rem;">
+                            </div>
+                        </div>
+                        <div id="charging-census-responsive-zip-result" style="display: none;">
+                            <div class="d-flex flex-row">
+                                <div class="col-lg-4">
+                                    <h5 class="p-3">What kinds of charging ports are needed?</h5>
+                                    <div class="col m-3">
+                                        <div class="d-flex flex-row p-3 charging-census-list" data-bs-toggle="modal" data-bs-target="#chargingCensusVehiclesZipModal">
+                                            <div class="width-50">
+                                                <h4 id="number_of_vehicles_zip">0</h4>
+                                                <p>Number of Vehicles</p>
+                                            </div>
+                                            <div class="width-50 pl-8 pt-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-truck" viewBox="0 0 16 16">
+                                                    <path d="M0 3.5A1.5 1.5 0 0 1 1.5 2h9A1.5 1.5 0 0 1 12 3.5V5h1.02a1.5 1.5 0 0 1 1.17.563l1.481 1.85a1.5 1.5 0 0 1 .329.938V10.5a1.5 1.5 0 0 1-1.5 1.5H14a2 2 0 1 1-4 0H5a2 2 0 1 1-3.998-.085A1.5 1.5 0 0 1 0 10.5zm1.294 7.456A1.999 1.999 0 0 1 4.732 11h5.536a2.01 2.01 0 0 1 .732-.732V3.5a.5.5 0 0 0-.5-.5h-9a.5.5 0 0 0-.5.5v7a.5.5 0 0 0 .294.456M12 10a2 2 0 0 1 1.732 1h.768a.5.5 0 0 0 .5-.5V8.35a.5.5 0 0 0-.11-.312l-1.48-1.85A.5.5 0 0 0 13.02 6H12zm-9 1a1 1 0 1 0 0 2 1 1 0 0 0 0-2m9 0a1 1 0 1 0 0 2 1 1 0 0 0 0-2"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="modal fade" id="chargingCensusVehiclesZipModal" tabindex="-1" aria-labelledby="chargingCensusVehiclesZipLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header justify-content-center">
+                                                        <h4 class="pe-2" id="number_of_vehicles_zip_modal">0</h4>
+                                                        <h6 class="ps-2">Number of Vehicles</h6>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <div class="d-flex flex-column">
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-bus fa-xl" style="color: #fff700;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="number_of_school_bus_zip_modal">0</h4>
+                                                                <h6 class="ps-4 pt-1 mt-4">Number of School Buses</h6>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-bus fa-xl" style="color: #2e72b2;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="number_of_transit_bus_zip_modal">0</h4>
+                                                                <h6 class="ps-4 pt-1 mt-4">Number of Transit Buses</h6>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-truck-front fa-xl" style="color: #2e72b2;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="number_of_delivery_trucks_zip_modal">0</h4>
+                                                                <h6 class="ps-4 pt-1 mt-4">Number of Delivery Trucks</h6>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col m-3">
+                                        <div class="d-flex flex-row p-3 charging-census-list" data-bs-toggle="modal" data-bs-target="#evDCFastModal">
+                                            <div class="width-50">
+                                                <h4 id="ev_dc_fast">0</h4>
+                                                <p>EV DC Fast Charging</p>
+                                            </div>
+                                            <div class="width-50 pl-8 pt-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-ev-station" viewBox="0 0 16 16">
+                                                    <path d="M3.5 2a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5zm2.131 10.46H4.14v-.893h1.403v-.505H4.14v-.855h1.49v-.54H3.485V13h2.146zm1.316.54h.794l1.106-3.333h-.733l-.74 2.615h-.031l-.747-2.615h-.764z"/>
+                                                    <path d="M3 0a2 2 0 0 0-2 2v13H.5a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1H11v-4a1 1 0 0 1 1 1v.5a1.5 1.5 0 0 0 3 0V4a.5.5 0 0 0-.146-.354l-.5-.5a.5.5 0 0 0-.707 0l-.5.5A.5.5 0 0 0 13 4v3c0 .71.38 1.096.636 1.357l.007.008c.253.258.357.377.357.635v3.5a.5.5 0 1 1-1 0V12a2 2 0 0 0-2-2V2a2 2 0 0 0-2-2zm7 2v13H2V2a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="modal fade" id="evDCFastModal" tabindex="-1" aria-labelledby="evDCFastLabel" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header justify-content-center">
+                                                        <h4 class="pe-2" id="ev_dc_fast_modal">0</h4>
+                                                        <h6 class="ps-2">EV DC Fast Charging</h6>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <div class="d-flex flex-column">
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-school fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="educational_facility_ev_dc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Educational Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-building-user fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="transportation_facility_ev_dc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Transportation Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-warehouse fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="warehouse_facility_ev_dc_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Warehouse Facility</h6>
+                                                                    <p>DC Fast Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col m-3">
+                                        <div class="d-flex flex-row p-3 charging-census-list" data-bs-toggle="modal" data-bs-target="#evLevel2Modal">
+                                            <div class="width-50">
+                                                <h4 id="ev_level_2">0</h4>
+                                                <p>EV Level 2 Charging</p>
+                                            </div>
+                                            <div class="width-50 pl-8 pt-4">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-ev-station" viewBox="0 0 16 16">
+                                                    <path d="M3.5 2a.5.5 0 0 0-.5.5v5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5v-5a.5.5 0 0 0-.5-.5zm2.131 10.46H4.14v-.893h1.403v-.505H4.14v-.855h1.49v-.54H3.485V13h2.146zm1.316.54h.794l1.106-3.333h-.733l-.74 2.615h-.031l-.747-2.615h-.764z"/>
+                                                    <path d="M3 0a2 2 0 0 0-2 2v13H.5a.5.5 0 0 0 0 1h11a.5.5 0 0 0 0-1H11v-4a1 1 0 0 1 1 1v.5a1.5 1.5 0 0 0 3 0V4a.5.5 0 0 0-.146-.354l-.5-.5a.5.5 0 0 0-.707 0l-.5.5A.5.5 0 0 0 13 4v3c0 .71.38 1.096.636 1.357l.007.008c.253.258.357.377.357.635v3.5a.5.5 0 1 1-1 0V12a2 2 0 0 0-2-2V2a2 2 0 0 0-2-2zm7 2v13H2V2a1 1 0 0 1 1-1h6a1 1 0 0 1 1 1"/>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                        <div class="modal fade" id="evLevel2Modal" tabindex="-1" aria-labelledby="evLevel2Label" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header justify-content-center">
+                                                        <h4 class="pe-2" id="ev_level_2_modal">0</h4>
+                                                        <h6 class="ps-2">EV Level 2 Charging</h6>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        <div class="d-flex flex-column">
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-school fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="educational_facility_ev_l2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Educational Facility</h6>
+                                                                    <p>Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-building-user fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="transportation_facility_ev_l2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Transportation Facility</h6>
+                                                                    <p>Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                            <div class="d-flex flex-row p-3">
+                                                                <div class="triangle">
+                                                                    <div>
+                                                                        <i class="fa-solid fa-warehouse fa-xl" style="color: #fff;"></i>
+                                                                    </div>
+                                                                </div>
+                                                                <h4 class="ps-4 mt-4" id="warehouse_facility_ev_l2_modal">0</h4>
+                                                                <div class="ps-4 pt-1 mt-3">
+                                                                    <h6>Warehouse Facility</h6>
+                                                                    <p>Level 2 Charging Ports</p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>    
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-8">
+                                    <div class="container d-flex justify-container-center">
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div id="donutzipchart" style="width: 700px; height: 400px;"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="container d-flex justify-container-center">
+                                        <div class="row">
+                                            <div id="donutzipvehiclechart" style="width: 260px; height: 250px;"></div>
+                                        </div>
+                                        <div class="row">
+                                            <div id="donutevdcchart" style="width: 260px; height: 250px;"></div>
+                                        </div>
+                                        <div class="row">
+                                            <div id="donutevl2chart" style="width: 260px; height: 250px;"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div role="tabpanel" class="tab-pane fade" id="charging-snapshot" aria-labelledby="charging-snapshot-tab">
+                        <div id="charging-snapshot-responsive-search">
+                            <div class="col mt-4 mb-4 text-center">
+                                <div class="d-flex flex-row justify-content-center">
+                                    <select class="form-select form-control" id="load_urban_area" name="load_profile[urban_area]">
+                                        <option disabled="" value="na">select a city/urban area</option>
+                                        <option value="Antioch">Antioch</option>
+                                        <option value="Arroyo Grande - Grover Beach">Arroyo Grande - Grover Beach</option>
+                                        <option value="Bakersfield">Bakersfield</option>
+                                        <option value="Camarillo">Camarillo</option>
+                                        <option value="Chico">Chico</option>
+                                        <option value="Concord">Concord</option>
+                                        <option value="Davis">Davis</option>
+                                        <option value="Delano">Delano</option>
+                                        <option value="El Centro - Calexico">El Centro - Calexico</option>
+                                        <option value="El Paso de Robles (Paso Robles) - Atascadero">El Paso de Robles (Paso Robles) - Atascadero</option>
+                                        <option value="Fairfield">Fairfield</option>
+                                        <option value="Fresno">Fresno</option>
+                                        <option value="Gilroy - Morgan Hill">Gilroy - Morgan Hill</option>
+                                        <option value="Hanford">Hanford</option>
+                                        <option value="Hemet">Hemet</option>
+                                        <option value="Indio - Cathedral City">Indio - Cathedral City</option>
+                                        <option value="Lancaster - Palmdale">Lancaster - Palmdale</option>
+                                        <option value="Livermore">Livermore</option>
+                                        <option value="Lodi">Lodi</option>
+                                        <option value="Lompoc">Lompoc</option>
+                                        <option value="Los Angeles - Long Beach - Anaheim">Los Angeles - Long Beach - Anaheim</option>
+                                        <option value="Madera">Madera</option>
+                                        <option value="Manteca">Manteca</option>
+                                        <option value="Merced">Merced</option>
+                                        <option value="Mission Viejo - Lake Forest - San Clemente">Mission Viejo - Lake Forest - San Clemente</option>
+                                        <option value="Modesto">Modesto</option>
+                                        <option value="Murrieta - Temecula - Menifee">Murrieta - Temecula - Menifee</option>
+                                        <option value="Napa">Napa</option>
+                                        <option value="Oxnard">Oxnard</option>
+                                        <option value="Petaluma">Petaluma</option>
+                                        <option value="Porterville">Porterville</option>
+                                        <option value="Redding">Redding</option>
+                                        <option value="Reno">Reno</option>
+                                        <option value="Riverside - San Bernardino">Riverside - San Bernardino</option>
+                                        <option value="Sacramento">Sacramento</option>
+                                        <option value="Salinas">Salinas</option>
+                                        <option value="San Diego">San Diego</option>
+                                        <option value="San Francisco - Oakland">San Francisco - Oakland</option>
+                                        <option selected value="San Jose">San Jose</option>
+                                        <option value="San Luis Obispo">San Luis Obispo</option>
+                                        <option value="Santa Barbara">Santa Barbara</option>
+                                        <option value="Santa Clarita">Santa Clarita</option>
+                                        <option value="Santa Cruz">Santa Cruz</option>
+                                        <option value="Santa Maria">Santa Maria</option>
+                                        <option value="Santa Rosa">Santa Rosa</option>
+                                        <option value="Seaside - Monterey">Seaside - Monterey</option>
+                                        <option value="Simi Valley">Simi Valley</option>
+                                        <option value="Stockton">Stockton</option>
+                                        <option value="Thousand Oaks">Thousand Oaks</option>
+                                        <option value="Tracy">Tracy</option>
+                                        <option value="Turlock">Turlock</option>
+                                        <option value="Vacaville">Vacaville</option>
+                                        <option value="Vallejo">Vallejo</option>
+                                        <option value="Victorville - Hesperia">Victorville - Hesperia</option>
+                                        <option value="Visalia">Visalia</option>
+                                        <option value="Watsonville">Watsonville</option>
+                                        <option value="Woodland">Woodland</option>
+                                        <option value="Yuba City">Yuba City</option>
+                                        <option value="Yuma">Yuma</option>
+                                    </select>
+                                    <input id="chargingSnapshotVehicles" type="number" class="form-control input-text me-2" placeholder="Enter number of vehicles" value="1000">
+                                    <button id="chargingSnapshotSubmit" class="btn btn-primary">Calculate</button>
+                                </div>
+                                <div class="col mt-4 mb-4 text-center">
+                                    <input class="form-check-input" type="radio" name="flexSnapshotRadio" id="weekdayradio" value="weekday" checked>
+                                    <label class="form-check-label me-5" for="weekdayradio">Weekday</label>
+                                    <input class="form-check-input ms-5" type="radio" name="flexSnapshotRadio" id="weekendradio" value="weekend">
+                                    <label class="form-check-label me-5" for="weekendradio">Weekend</label>
+                                </div>
+                                <div class="col mt-4 mb-4 text-center" id="weekday_load_profile_section">
+                                    <div id="weekday_load_profile" style="width: 100%; height: 500px;"></div>
+                                </div>
+                                <div class="col mt-4 mb-4 text-center" id="weekend_load_profile_section" style="display: none;">
+                                    <div id="weekend_load_profile" style="width: 100%; height: 500px;"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div role="tabpanel" class="tab-pane fade" id="charge-map" aria-labelledby="charge-map-tab">
+                        <div class="container justify-content-center map-search mt-5">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <div class="input-group mb-3">
+                                        <input id="chargeMapZipCode" type="text" class="form-control input-text" placeholder="Enter a Zipcode" aria-label="map search" aria-describedby="basic-addon2">
+                                        <div class="input-group-append">
+                                            <button id="chargeMapSubmit" class="btn btn-dark btn-lg map-search-btn" type="button"><i class="fa fa-search"></i></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="schoolbusradio" value="SchoolBus">
+                                    <label class="form-check-label" for="schoolbusradio">
+                                        <img style="width: 70px; height:50px;" src="{{ url_for('static', filename='img/schoolbusicon.png') }}"/>
+                                    </label>
+                                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="transitbusradio" value="TransitBus">
+                                    <label class="form-check-label" for="transitbusradio">
+                                        <img style="width: 70px; height:50px;" src="{{ url_for('static', filename='img/transitbusicon.png') }}"/>
+                                    </label>
+                                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="deliverytruckradio" value="DeliveryTruck">
+                                    <label class="form-check-label" for="deliverytruckradio">
+                                        <img style="width: 70px; height:50px;" src="{{ url_for('static', filename='img/truckicon.png') }}"/>
+                                    </label>
+                                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="allvehicleradio" value="All">
+                                    <label class="form-check-label" for="allvehicleradio">
+                                        <img style="width: 70px; height:50px;" src="{{ url_for('static', filename='img/allradio.png') }}"/>
+                                    </label>
+                                </div>
+                            </div>
+                            <div id="chargeMapUpdate" class="row mt-4">
+                                <iframe class="map" src="{{ url_for('map') }}" width="100%" height="600"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- About Section-->
+        <section class="page-section bg-primary text-white mb-0" id="about">
+            <div class="container">
+                <!-- About Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- About Section Content-->
+                <div class="row">
+                    <div class="col">
+                        <p class="lead">Welcome to Velocity - Pioneering Sustainable EV Infrastructure</p>
+                        <p>At Velocity, we are at the forefront of revolutionizing Electric Vehicle (EV) infrastructure planning for Heavy/Medium-Duty vehicles. Our mission is to pave the way for a sustainable future by providing cutting-edge analytical insights and strategic recommendations for EV charging stations. With a foundation rooted in extensive research, innovative models, and a commitment to accuracy, our website emerges as a comprehensive resource for stakeholders invested in the future of transportation.</p>
+
+                        <h6>Navigating the EV Landscape:</h6>
+                        <p>Delve into a wealth of analytical results that offer station-wise, site-wise, and zipcode-wise perspectives on EV charging stations. Our user-friendly interface provides a holistic view of the EV charging ecosystem, empowering stakeholders with nuanced insights into current infrastructure performance and future demand projections. Whether you are an urban planner, policymaker, or industry enthusiast, our platform equips you with the tools needed to make informed decisions that drive sustainable EV infrastructure growth.</p>
+
+                        <h6>Mapping Tomorrow's Charging Stations:</h6>
+                        <p>Embark on a journey of innovation with our interactive map feature that goes beyond analysis, suggesting optimal new locations for charging stations. Powered by advanced models and algorithms, our mapping tool considers current demand patterns, emerging trends, and spatial dynamics to recommend strategically positioned charging stations. It's not just about data; it's about envisioning a future where every EV owner has convenient access to reliable charging infrastructure.</p>
+                        <p>Join us in shaping a cleaner, greener tomorrow through informed decision-making and forward-thinking solutions. Explore Velocity and be part of the driving force behind the next era of sustainable EV infrastructure.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Contact Section-->
+        <section class="page-section" id="contact">
+            <div class="container">
+                <!-- Contact Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Contact Us</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Contact Section Form-->
+                <div class="row">
+                    <div class="col-lg-4 ms-auto">
+                        <p class="lead" style="margin-bottom: 0rem;">
+                            Prof. Jerry Gao
+                        </p>
+                        <p class="lead" style="margin-bottom: 0rem;">
+                            jerry.gao@sjsu.edu
+                        </p>
+                        <p class="lead" style="margin-bottom: 0rem;">
+                            Department of Computer Engineering
+                        </p>
+                        <p class="lead" style="margin-bottom: 0rem;">
+                            San Jose State University
+                        </p>
+                    </div>
+                    <div class="col-lg-4 ms-auto">
+                        <p class="lead" style="margin-bottom: 0rem;">
+                            Lohitha Vanteru
+                        </p>
+                        <p class="lead" style="margin-bottom: 0rem;">
+                            lohitha.vanteru@sjsu.edu
+                        </p>
+                        <p class="lead" style="margin-bottom: 0rem;">
+                            Department of Applied Data Science
+                        </p>
+                        <p class="lead" style="margin-bottom: 0rem;">
+                            San Jose State University
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="footer text-center">
+            <div class="container">
+                <div class="row">
+                    <!-- Footer Location-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                        <h4 class="text-uppercase mb-4">Location</h4>
+                        <p class="lead mb-0">
+                            One Washington Square
+                            <br />
+                            San José, CA 95192
+                        </p>
+                    </div>
+                    <!-- Footer Social Icons-->
+                    <div class="col-lg-4 mb-5 mb-lg-0">
+                    </div>
+                    <!-- Footer About Text-->
+                    <div class="col-lg-4">
+                        <h4 class="text-uppercase mb-4">Around the Web</h4>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Copyright Section-->
+        <div class="copyright py-4 text-center text-white">
+            <div class="container"><small>Copyright &copy; SJSU 2023</small></div>
+        </div>
+        <!-- Portfolio Modals-->
+        <!-- Portfolio Modal 1-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Log Cabin</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                        <i class="fas fa-xmark fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 2-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty Cake</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                        <i class="fas fa-xmark fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 3-->
+        <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" aria-labelledby="portfolioModal3" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus Tent</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/circus.png" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                        <i class="fas fa-xmark fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 4-->
+        <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" aria-labelledby="portfolioModal4" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/game.png" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                        <i class="fas fa-xmark fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 5-->
+        <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" aria-labelledby="portfolioModal5" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked Safe</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/safe.png" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                        <i class="fas fa-xmark fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 6-->
+        <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" aria-labelledby="portfolioModal6" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                        <i class="fas fa-xmark fa-fw"></i>
+                                        Close Window
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <script type="text/javascript">
+            function chargingCensusToggle() {
+                var chargingCensusMain = document.getElementById("charging-census-responsive-main");
+                var chargingCensusSelect = document.getElementById("charging-census-responsive-select");
+                chargingCensusMain.style.display = "none";
+                chargingCensusSelect.style.display = "block";
+            }
+
+            function chargingCensusZipToggle() {
+                var chargingCensusMain = document.getElementById("charging-census-responsive-main");
+                var chargingCensusZipSearch = document.getElementById("charging-census-responsive-zip-search");
+                chargingCensusMain.style.display = "none";
+                chargingCensusZipSearch.style.display = "block";
+            }
+
+            $(function(){
+                $("#chargingCensusSubmit").on("click", function() {
+                    var county = $('#county-select').find(":selected").val();
+                    var year = $('#county-year-select').find(":selected").val();
+                    google.charts.load("current", {packages:["corechart"]});
+                    google.charts.setOnLoadCallback(drawChart);
+
+                    function drawChart() {
+                        $.getJSON("{{ url_for( "countyWiseEVs") }}", {county: county, year: year})
+                        .done(function (data) {
+                            number_of_vehicles = Math.round(parseInt(data["Number_of_Vehicles"]) * 0.25)
+                            shared_private_dc_fast = parseInt(data["Shared_Private_DC_Fast"])
+                            shared_private_level_2 = parseInt(data["Shared_Private_Level_2"])
+                            public_dc_fast = parseInt(data["Public_DC_Fast"])
+                            public_level_2 = parseInt(data["Public_Level_2"])
+
+                            $("#number_of_vehicles").text(number_of_vehicles)
+                            $("#shared_private_dc_fast").text(shared_private_dc_fast)
+                            $("#shared_private_level_2").text(shared_private_level_2)
+                            $("#public_dc_fast").text(public_dc_fast)
+                            $("#public_level_2").text(public_level_2)
+                            $("#charging-census-responsive-select").css("display", "none");
+                            $("#charging-census-responsive-result").css("display", "block");
+
+                            var countyImgPath = encodeURI("/static/img/county/" + county + ".jpg")
+                            $("#county-map-img").html("<img class='ml-7' src=" + countyImgPath + " style='background-color: gainsboro; width: 100%; height: 410px;'>");
+
+                            var data = google.visualization.arrayToDataTable([
+                                ['Charging Port', 'Number of Ports'],
+                                ['Shared_Private_DC_Fast', shared_private_dc_fast],
+                                ['Shared_Private_Level_2', shared_private_level_2],
+                                ['Public_DC_Fast', public_dc_fast],
+                                ['Public_Level_2', public_level_2]
+                            ]);
+
+                            var options = {
+                                title: 'Charging Port Percentage',
+                                width: 600,
+                                height:410,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: {textStyle: {color: '#fff'}},
+                                is3D: true
+                            };
+
+                            var chart = new google.visualization.PieChart(document.getElementById('donutchart'));
+                            chart.draw(data, options);
+
+                            school_bus = Math.round(number_of_vehicles*0.05)
+                            transit_bus = Math.round(number_of_vehicles*0.35)
+                            delivery_truck = number_of_vehicles - (school_bus + transit_bus)
+                            $("#number_of_vehicles_modal").text(number_of_vehicles)
+                            $("#number_of_school_bus_modal").text(school_bus)
+                            $("#number_of_transit_bus_modal").text(transit_bus)
+                            $("#number_of_delivery_trucks_modal").text(delivery_truck)
+
+                            educationalFacility_spdc = Math.round(shared_private_dc_fast*0.05)
+                            transitFacility_spdc = Math.round(shared_private_dc_fast*0.35)
+                            warehouse_spdc = shared_private_dc_fast - (educationalFacility_spdc + transitFacility_spdc)
+                            $("#shared_private_dc_fast_modal").text(shared_private_dc_fast)
+                            $("#educational_facility_spdc_modal").text(educationalFacility_spdc)
+                            $("#transportation_facility_spdc_modal").text(transitFacility_spdc)
+                            $("#warehouse_facility_spdc_modal").text(warehouse_spdc)
+                            var spdcData = google.visualization.arrayToDataTable([
+                                ['Charging Port Facility', 'Number of Ports'],
+                                ['Educational_Fscility', educationalFacility_spdc],
+                                ['Transit_Facility', transitFacility_spdc],
+                                ['Warehouse_Facility', warehouse_spdc]
+                            ]);
+                            var spdcOptions = {
+                                title: 'Shared Private DC Fast',
+                                pieHole: 0.4,
+                                width: 310,
+                                height:250,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: 'none',
+                                is3D: false
+                            };
+                            var spdcChart = new google.visualization.PieChart(document.getElementById('donutspdcchart'));
+                            spdcChart.draw(spdcData, spdcOptions);
+
+                            educationalFacility_spl2 = Math.round(shared_private_level_2*0.05)
+                            transitFacility_spl2 = Math.round(shared_private_level_2*0.35)
+                            warehouse_spl2 = shared_private_level_2 - (educationalFacility_spl2 + transitFacility_spl2)
+                            $("#shared_private_level_2_modal").text(shared_private_level_2)
+                            $("#educational_facility_spl2_modal").text(educationalFacility_spl2)
+                            $("#transportation_facility_spl2_modal").text(transitFacility_spl2)
+                            $("#warehouse_facility_spl2_modal").text(warehouse_spl2)
+                            var spl2Data = google.visualization.arrayToDataTable([
+                                ['Charging Port Facility', 'Number of Ports'],
+                                ['Educational_Fscility', educationalFacility_spl2],
+                                ['Transit_Facility', transitFacility_spl2],
+                                ['Warehouse_Facility', warehouse_spl2]
+                            ]);
+                            var spl2Options = {
+                                title: 'Shared Private Level 2',
+                                pieHole: 0.4,
+                                width: 310,
+                                height:250,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: 'none',
+                                is3D: false
+                            };
+                            var spl2Chart = new google.visualization.PieChart(document.getElementById('donutspl2chart'));
+                            spl2Chart.draw(spl2Data, spl2Options);
+
+                            educationalFacility_pdc = Math.round(public_dc_fast*0.05)
+                            transitFacility_pdc = Math.round(public_dc_fast*0.35)
+                            warehouse_pdc = public_dc_fast - (educationalFacility_pdc + transitFacility_pdc)
+                            $("#public_dc_fast_modal").text(public_dc_fast)
+                            $("#educational_facility_pdc_modal").text(educationalFacility_pdc)
+                            $("#transportation_facility_pdc_modal").text(transitFacility_pdc)
+                            $("#warehouse_facility_pdc_modal").text(warehouse_pdc)
+                            var pdcData = google.visualization.arrayToDataTable([
+                                ['Charging Port Facility', 'Number of Ports'],
+                                ['Educational_Fscility', educationalFacility_pdc],
+                                ['Transit_Facility', transitFacility_pdc],
+                                ['Warehouse_Facility', warehouse_pdc]
+                            ]);
+                            var pdcOptions = {
+                                title: 'Public DC Fast',
+                                pieHole: 0.4,
+                                width: 310,
+                                height:250,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: 'none',
+                                is3D: false
+                            };
+                            var pdcChart = new google.visualization.PieChart(document.getElementById('donutpdcchart'));
+                            pdcChart.draw(pdcData, pdcOptions);
+
+                            educationalFacility_pl2 = Math.round(public_level_2*0.05)
+                            transitFacility_pl2 = Math.round(public_level_2*0.35)
+                            warehouse_pl2 = public_level_2 - (educationalFacility_pl2 + transitFacility_pl2)
+                            $("#public_level_2_modal").text(public_level_2)
+                            $("#educational_facility_pl2_modal").text(educationalFacility_pl2)
+                            $("#transportation_facility_pl2_modal").text(transitFacility_pl2)
+                            $("#warehouse_facility_pl2_modal").text(warehouse_pl2)
+                            var pl2Data = google.visualization.arrayToDataTable([
+                                ['Charging Port Facility', 'Number of Ports'],
+                                ['Educational_Fscility', educationalFacility_pl2],
+                                ['Transit_Facility', transitFacility_pl2],
+                                ['Warehouse_Facility', warehouse_pl2]
+                            ]);
+                            var pl2Options = {
+                                title: 'Public Level 2',
+                                pieHole: 0.4,
+                                width: 310,
+                                height:250,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: 'none',
+                                is3D: false
+                            };
+                            var pl2Chart = new google.visualization.PieChart(document.getElementById('donutpl2chart'));
+                            pl2Chart.draw(pl2Data, pl2Options);
+                        })
+                        .fail(function( jqxhr, textStatus, error ) {
+                            var err = textStatus + ", " + error;
+                            console.log( "Request Failed: " + err );
+                        })
+                    }
+                });
+
+                $("#chargingCensusZipSubmit").on("click", function() {
+                    var zipCode = $('#chargeCensueZipCode').val();
+                    var year = $('#zipcode-year-select').find(":selected").val();
+                    google.charts.load("current", {packages:["corechart"]});
+                    google.charts.setOnLoadCallback(drawChart);
+
+                    function drawChart() {
+                        $.getJSON("{{ url_for( "zipCodeWiseEVs") }}", {zipCode: zipCode, year: year})
+                        .done(function (data) {
+                            number_of_vehicles = Math.round(parseInt(data["Number_of_Vehicles"]) * 0.10)
+                            ev_dc_fast = parseInt(data["EV_DC_Fast_Count"])
+                            ev_level_2 = parseInt(data["EV_Level2_EVSE_Num"])
+
+                            $("#number_of_vehicles_zip").text(number_of_vehicles)
+                            $("#ev_dc_fast").text(ev_dc_fast)
+                            $("#ev_level_2").text(ev_level_2)
+                            $("#charging-census-responsive-zip-search").css("display", "none");
+                            $("#charging-census-responsive-zip-result").css("display", "block");
+
+                            var data = google.visualization.arrayToDataTable([
+                                ['Charging Port', 'Number of Ports'],
+                                ['EV_DC_Fast', ev_dc_fast],
+                                ['EV_Level_2', ev_level_2]
+                            ]);
+
+                            var options = {
+                                title: 'Charging Port Percentage',
+                                width: 700,
+                                height:400,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: {textStyle: {color: '#fff'}},
+                                is3D: true
+                            };
+
+                            var chart = new google.visualization.PieChart(document.getElementById('donutzipchart'));
+                            chart.draw(data, options);
+
+                            school_bus = Math.round(number_of_vehicles*0.05)
+                            transit_bus = Math.round(number_of_vehicles*0.35)
+                            delivery_truck = number_of_vehicles - (school_bus + transit_bus)
+                            $("#number_of_vehicles_zip_modal").text(number_of_vehicles)
+                            $("#number_of_school_bus_zip_modal").text(school_bus)
+                            $("#number_of_transit_bus_zip_modal").text(transit_bus)
+                            $("#number_of_delivery_trucks_zip_modal").text(delivery_truck)
+                            var vehicleData = google.visualization.arrayToDataTable([
+                                ['Vehicle Type', 'Number of Vehicles'],
+                                ['School Bus', school_bus],
+                                ['Transit Bus', transit_bus],
+                                ['Delivery Truck', delivery_truck]
+                            ]);
+                            var vehicleOptions = {
+                                title: 'Vehicles Distribution',
+                                pieHole: 0.4,
+                                width: 310,
+                                height:250,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: 'none',
+                                is3D: false
+                            };
+                            var vehicleChart = new google.visualization.PieChart(document.getElementById('donutzipvehiclechart'));
+                            vehicleChart.draw(vehicleData, vehicleOptions);
+
+                            educationalFacility_dc = Math.round(ev_dc_fast*0.05)
+                            transitFacility_dc = Math.round(ev_dc_fast*0.35)
+                            warehouse_dc = ev_dc_fast - (educationalFacility_dc + transitFacility_dc)
+                            $("#ev_dc_fast_modal").text(ev_dc_fast)
+                            $("#educational_facility_ev_dc_modal").text(educationalFacility_dc)
+                            $("#transportation_facility_ev_dc_modal").text(transitFacility_dc)
+                            $("#warehouse_facility_ev_dc_modal").text(warehouse_dc)
+                            var evdcData = google.visualization.arrayToDataTable([
+                                ['Charging Port Facility', 'Number of Ports'],
+                                ['Educational_Fscility', educationalFacility_dc],
+                                ['Transit_Facility', transitFacility_dc],
+                                ['Warehouse_Facility', warehouse_dc]
+                            ]);
+                            var evdcOptions = {
+                                title: 'EV DC Fast',
+                                pieHole: 0.4,
+                                width: 310,
+                                height:250,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: 'none',
+                                is3D: false
+                            };
+                            var evdcChart = new google.visualization.PieChart(document.getElementById('donutevdcchart'));
+                            evdcChart.draw(evdcData, evdcOptions);
+
+                            educationalFacility_l2 = Math.round(ev_level_2*0.05)
+                            transitFacility_l2 = Math.round(ev_level_2*0.35)
+                            warehouse_l2 = ev_level_2 - (educationalFacility_l2 + transitFacility_l2)
+                            $("#ev_level_2_modal").text(ev_level_2)
+                            $("#educational_facility_ev_l2_modal").text(educationalFacility_l2)
+                            $("#transportation_facility_ev_l2_modal").text(transitFacility_l2)
+                            $("#warehouse_facility_ev_l2_modal").text(warehouse_l2)
+                            var evl2Data = google.visualization.arrayToDataTable([
+                                ['Charging Port Facility', 'Number of Ports'],
+                                ['Educational_Fscility', educationalFacility_l2],
+                                ['Transit_Facility', transitFacility_l2],
+                                ['Warehouse_Facility', warehouse_l2]
+                            ]);
+                            var evl2Options = {
+                                title: 'EV Level 2',
+                                pieHole: 0.4,
+                                width: 310,
+                                height:250,
+                                colors: ['#063b00', '#0a5d00', '#089000', '#1fc600'],
+                                backgroundColor: '#000',
+                                titleTextStyle: {color: '#fff'},
+                                legend: 'none',
+                                is3D: false
+                            };
+                            var evl2Chart = new google.visualization.PieChart(document.getElementById('donutevl2chart'));
+                            evl2Chart.draw(evl2Data, evl2Options);
+                        })
+                        .fail(function( jqxhr, textStatus, error ) {
+                            var err = textStatus + ", " + error;
+                            console.log( "Request Failed: " + err );
+                        })
+                    }
+                });
+
+                function chargeLoadProfileFunc() {
+                    var loadProfileChecked = $("input[type=radio][name=flexSnapshotRadio]:checked").val()
+                    var numOfVehicles = $('#chargingSnapshotVehicles').val();
+                    var urbanArea = $('#load_urban_area').find(":selected").val();
+                    console.log("loadProfileChecked", loadProfileChecked);
+
+                    var urbanAreaStatsUrl = `https://developer.nrel.gov/api/evi-pro-lite/v1/stats-by-urban-area.json?state=CA&urban_area=${urbanArea}&api_key=bId2Wbpies1W0ZH9X0Gb25uAUDNvlVlMXIOEfxgL`;
+                    var meanDVMT = 25;
+
+                    $.getJSON(urbanAreaStatsUrl)
+                    .done(function (ud) {
+                        meanDVMT = ud.results.mean_dvmt
+                        var loadProfileUrl = `https://developer.nrel.gov/api/evi-pro-lite/v1/daily-load-profile.json?class_dist=Sedan&home_access_dist=HA100&home_power_dist=Equal&pev_dist=EQUAL&pref_dist=Home100&work_power_dist=MostL2&res_charging=min_delay&work_charging=min_delay&temp_c=20&mean_dvmt=${meanDVMT}&fleet_size=${numOfVehicles}&api_key=bId2Wbpies1W0ZH9X0Gb25uAUDNvlVlMXIOEfxgL`;
+
+                        google.charts.load('current', {'packages':['corechart']});
+                        google.charts.setOnLoadCallback(drawChart);
+
+                        function drawChart() {
+                            $.getJSON(loadProfileUrl)
+                            .done(function (data) {
+                                var wd_graphArrayData = [['Hour of Day', 'Shared Private DC Fast', 'Shared Private Level 2', 'Public Level 2', 'Public DC Fast']]
+                                var we_graphArrayData = [['Hour of Day', 'Shared Private DC Fast', 'Shared Private Level 2', 'Public Level 2', 'Public DC Fast']]
+                                var hourOfDay = ['0:00', '0:15', '0:30', '0:45', '1:00', '1:15', '1:30', '1:45', '2:00', '2:15', '2:30', '2:45', '3:00', '3:15', '3:30', '3:45', '4:00', '4:15', '4:30', '4:45', '5:00', '5:15', '5:30', '5:45', '6:00', '6:15', '6:30', '6:45', '7:00', '7:15', '7:30', '7:45', '8:00', '8:15', '8:30', '8:45', '9:00', '9:15', '9:30', '9:45', '10:00', '10:15', '10:30', '10:45', '11:00', '11:15', '11:30', '11:45', '12:00', '12:15', '12:30', '12:45', '13:00', '13:15', '13:30', '13:45', '14:00', '14:15', '14:30', '14:45', '15:00', '15:15', '15:30', '15:45', '16:00', '16:15', '16:30', '16:45', '17:00', '17:15', '17:30', '17:45', '18:00', '18:15', '18:30', '18:45', '19:00', '19:15', '19:30', '19:45', '20:00', '20:15', '20:30', '20:45', '21:00', '21:15', '21:30', '21:45', '22:00', '22:15', '22:30', '22:45', '23:00', '23:15', '23:30', '23:45', '24.00']
+
+                                i = 0;
+                                hourOfDay.forEach((t) => {
+                                    wd_graphArrayData.push([t, data.results.weekday_load_profile.work_l1[i], data.results.weekday_load_profile.work_l2[i], data.results.weekday_load_profile.public_l2[i], data.results.weekday_load_profile.public_l3[i]]);
+                                    we_graphArrayData.push([t, data.results.weekend_load_profile.work_l1[i], data.results.weekend_load_profile.work_l2[i], data.results.weekend_load_profile.public_l2[i], data.results.weekend_load_profile.public_l3[i]]);
+                                    i = i + 1;
+                                });
+                                
+                                var wd_graphData = google.visualization.arrayToDataTable(wd_graphArrayData);
+                                var we_graphData = google.visualization.arrayToDataTable(we_graphArrayData);
+
+                                var wd_options = {
+                                    title: 'Weekday electric load',
+                                    hAxis: {title: 'Hour of Day',  titleTextStyle: {color: '#fff'}, textStyle: {color: '#fff'}},
+                                    vAxis: {minValue: 0, textStyle: {color: '#fff'}, gridlines: {color: "#2d2828"}},
+                                    width: 1300,
+                                    height: 500,
+                                    backgroundColor: "black",
+                                    legend: {textStyle: {color:"#fff"}}
+                                };
+
+                                var we_options = {
+                                    title: 'Weekend electric load',
+                                    hAxis: {title: 'Hour of Day',  titleTextStyle: {color: '#fff'}, textStyle: {color: '#fff'}},
+                                    vAxis: {minValue: 0, textStyle: {color: '#fff'}, gridlines: {color: "#2d2828"}},
+                                    width: 1300,
+                                    height: 500,
+                                    backgroundColor: "black",
+                                    legend: {textStyle: {color:"#fff"}}
+                                };
+
+                                if(loadProfileChecked=="weekday") {
+                                    $("#weekend_load_profile_section").css("display", "none");
+                                    $("#weekday_load_profile_section").css("display", "block");
+                                    var wd_chart = new google.visualization.AreaChart(document.getElementById('weekday_load_profile'));
+                                    wd_chart.draw(wd_graphData, wd_options);
+                                    var we_chart = new google.visualization.AreaChart(document.getElementById('weekend_load_profile'));
+                                    we_chart.clearChart();
+                                }
+                                if(loadProfileChecked=="weekend") {
+                                    $("#weekend_load_profile_section").css("display", "block");
+                                    $("#weekday_load_profile_section").css("display", "none");
+                                    var we_chart = new google.visualization.AreaChart(document.getElementById('weekend_load_profile'));
+                                    we_chart.draw(we_graphData, we_options);
+                                    var wd_chart = new google.visualization.AreaChart(document.getElementById('weekday_load_profile'));
+                                    wd_chart.clearChart();
+                                }
+                            })
+                            .fail(function( jqxhr, textStatus, error ) {
+                                var err = textStatus + ", " + error;
+                                console.log( "Request Failed: " + err );
+                            })
+                        }
+                    })
+                    .fail(function( jqxhr, textStatus, error ) {
+                        var err = textStatus + ", " + error;
+                        console.log( "Request Failed: " + err );
+                    })
+                }
+
+                $("#charging-snapshot-tab").on("click", chargeLoadProfileFunc);
+                $("#chargingSnapshotSubmit").on("click", chargeLoadProfileFunc);
+                $("input[type=radio][name=flexSnapshotRadio]").on("change", chargeLoadProfileFunc);
+
+                $("#chargeMapSubmit").on("click", function() {
+                    var zipCode = $("#chargeMapZipCode").val()
+                    $.getJSON("{{ url_for( "updateZipCode") }}", {zipCode: zipCode})
+                    .done(function (data) {
+                    })
+                    .fail(function( jqxhr, textStatus, error ) {
+                        var err = textStatus + ", " + error;
+                        console.log( "Request Failed: " + err );
+                    })
+
+                    $("#chargeMapUpdate").html("<iframe class='map' src=\"{{ url_for('map') }}\" width='100%' height='600'></iframe>")
+                });
+
+                $("input[type=radio][name=flexRadioDefault]").on("change", function() {
+                    var vehicleType = $(this).val()
+                    $.getJSON("{{ url_for( "updateVehicleType") }}", {vehicleType: vehicleType})
+                    .done(function (data) {
+                    })
+                    .fail(function( jqxhr, textStatus, error ) {
+                        var err = textStatus + ", " + error;
+                        console.log( "Request Failed: " + err );
+                    })
+
+                    $("#chargeMapUpdate").html("<iframe class='map' src=\"{{ url_for('map') }}\" width='100%' height='600'></iframe>")
+                });
+            });
+        </script>
+    </body>
+</html>

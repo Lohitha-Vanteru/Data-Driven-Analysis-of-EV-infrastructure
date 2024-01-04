@@ -1,0 +1,76 @@
+.charging-census-list {
+    background-color: rgb(26, 188, 156, 1.0);
+    color: white;
+    border-radius: 10px;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+.pl-8 {
+    padding-left: 8rem;
+}
+
+.ml-7 {
+    margin-left: 7rem !important;
+}
+
+.map-search-btn:hover{
+    color:#fff;
+}
+
+.input-text:focus{
+    box-shadow: 0px 0px 0px;
+    border-color:#000;
+    outline: 0px;
+}
+
+.form-control {
+    border: 1px solid #000;
+}
+
+#charging-census-responsive-result .container {
+    margin-top: 60px
+}
+
+.arrow-right {
+    width: 0; 
+    height: 0; 
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    border-left: 60px solid rgb(26, 188, 156, 1.0);
+}
+
+.triangle {
+    display: block;
+    position: relative;
+    height: 80px;
+    width: 60px;
+}
+
+.triangle:before {
+    content: '';
+    width: 0;
+    height: 0;
+    border-top: 40px solid transparent;
+    border-bottom: 40px solid transparent;
+    border-left: 60px solid rgb(26, 188, 156, 1.0);
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.triangle div {
+    display: block;
+    height: 25px;
+    width: 50px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 2;
+}
