@@ -15,7 +15,7 @@ The Velocity project is at the forefront of revolutionizing Electric Vehicle (EV
   - Temporal Fusion Transformer model for energy resource allocation.
   - PuLP linear programming optimization model with K-means clustering for optimal charging station placement.
 
-- Addresses challenges and opportunities in EV charging infrastructure tailored for medium/heavy-duty vehicles.
+  - Addresses challenges and opportunities in EV charging infrastructure tailored for medium/heavy-duty vehicles.
 
 - **Website - "Velocity":**
   - Provides station-wise, site-wise, and zipcode-wise analytical results for EV charging stations.
