@@ -10,10 +10,10 @@ The Velocity project is at the forefront of revolutionizing Electric Vehicle (EV
 
 - **Data-Driven Analysis:**
   - Utilizes advanced Machine Learning models:
-  - Prophet model for forecasting market growth.
-  - Stacking Ensemble Regressor model with weighted fusion for range prediction.
-  - Temporal Fusion Transformer model for energy resource allocation.
-  - PuLP linear programming optimization model with K-means clustering for optimal charging station placement.
+    - Prophet model for forecasting market growth.
+    - Stacking Ensemble Regressor model with weighted fusion for range prediction.
+    - Temporal Fusion Transformer model for energy resource allocation.
+    - PuLP linear programming optimization model with K-means clustering for optimal charging station placement.
 
   - Addresses challenges and opportunities in EV charging infrastructure tailored for medium/heavy-duty vehicles.
 
